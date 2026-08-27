@@ -7,3 +7,4 @@ shap
 google-genai
 matplotlib
 seaborn
+python-dotenv
