@@ -1,0 +1,1216 @@
+Claim_ID,Customer_Age,Policy_Type,Policy_Tenure_Years,Claim_Amount,Incident_Type,Incident_Date,Claim_Submission_Date,Previous_Claim_Count,Vehicle_Age,Repair_Estimate,Final_Invoice_Amount,Police_Report_Available,Witness_Available,Location,Customer_Description,Fraud or Risk_Label
+CLM00668,53,Third-Party,9.7,33018.84,Natural Disaster,06-01-2023,14-02-2023,1,1,30044.65,33426.54,Yes,Yes,Lucknow,Windshield cracked due to a stone hit on the highway.,0
+CLM00888,64,Third-Party Fire & Theft,0.2,9464.7,Theft,06-02-2023,23-02-2023,1,9,8345.81,9765.59,Yes,No,Kochi,Claim filed for total loss shortly after policy purchase.,1
+CLM00674,18,Third-Party Fire & Theft,2.5,31113.91,Windshield Damage,30-07-2025,09-08-2025,3,5,32198.52,32369.05,Yes,No,Mumbai,Vehicle collided with another car at a traffic signal.,0
+CLM00866,35,Third-Party Fire & Theft,5.8,38047.87,Vandalism,16-10-2024,11-10-2024,0,0,34651.67,38013.65,No,,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM00416,24,Third-Party,0.6,83159.05,Windshield Damage,01-06-2023,02-06-2023,0,0,84809.92,83108.81,Yes,No,Pune,Car was damaged in heavy rain and flooding.,0
+CLM01167,23,Third-Party Fire & Theft,2,4237.65,Windshield Damage,10-07-2024,23-07-2024,0,1,4379.76,4323.23,Yes,No,Kochi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00577,21,Third-Party,14.6,50688.83,Collision,29-02-2024,04-03-2024,0,5,53045.99,51776.2,Yes,Yes,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM00117,30,Third-Party,4.4,70967.13,Natural Disaster,30-10-2025,30-10-2025,3,7,61739.98,70818.71,Yes,Yes,Surat,Minor collision while reversing out of a parking spot.,0
+CLM00318,73,Third-Party,3.4,7852.82,Collision,27-10-2024,05-11-2024,2,1,8369.82,7702.65,Yes,No,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM00326,40,Comprehensive,1.5,7547.19,Windshield Damage,04-06-2023,07-06-2023,1,2,7463.58,7339.21,No,Yes,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM00521,41,Comprehensive,2.3,23529.42,Windshield Damage,08-01-2023,15-01-2023,0,14,21960.73,24284.33,Yes,Yes,Hyderabad,Vehicle collided with another car at a traffic signal.,0
+CLM00519,41,Third-Party Fire & Theft,7.4,23663.12,Injury/Accident,30-09-2023,01-10-2023,0,6,26873.26,23337.82,Yes,Yes,Mumbai,,0
+CLM00739,34,Third-Party Fire & Theft,14.4,21213.02,Collision,09-06-2025,10-06-2025,0,0,19807.76,21785.28,Yes,No,Bengaluru,Car was damaged in heavy rain and flooding.,0
+CLM00811,39,Third-Party,0.9,27001.17,Windshield Damage,25-08-2023,29-08-2023,4,4,23371.91,25987.74,No,Yes,Nagpur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00919,20,Third-Party,10.4,41489.03,Theft,22-08-2023,22-08-2023,0,8,40275.49,39813.34,Yes,No,Kolkata,Minor collision while reversing out of a parking spot.,0
+CLM01110,32,Third-Party Fire & Theft,6.2,34184.82,Theft,27-06-2024,01-07-2024,0,13,34487.28,35671.64,Yes,Yes,Bengaluru,Rear-ended while stopped at a junction.,0
+CLM00387,,Comprehensive,0.1,25423.21,Windshield Damage,27-01-2024,31-01-2024,1,9,19876.5,25816.07,Yes,,Pune,Multiple prior claims for similar type of incident.,1
+CLM00293,36,Third-Party,9.2,48312.63,Windshield Damage,16-05-2025,22-05-2025,1,7,36229.89,49715.14,Yes,Yes,Hyderabad,Vehicle collided with another car at a traffic signal.,0
+CLM00727,58,Third-Party Fire & Theft,3.5,26060.83,Vandalism,17-01-2023,21-01-2023,0,7,,26543.46,Yes,No,Bengaluru,Tree branch fell on the car during a storm.,0
+CLM00895,27,Comprehensive,4,11412.04,Injury/Accident,26-09-2023,01-10-2023,3,6,11290.44,11146.54,Yes,Yes,Lucknow,Repair invoice submitted without an itemized breakdown.,1
+CLM01071,23,Third-Party Fire & Theft,16.8,14044.07,Natural Disaster,16-04-2025,16-04-2025,0,12,13965.03,13609.49,Yes,No,Bengaluru,Vehicle scratched while parked in a mall parking lot.,0
+CLM00617,28,Comprehensive,5,18732.53,Injury/Accident,28-12-2024,29-12-2024,0,3,20193.95,18573.75,Yes,Yes,Kochi,Car was damaged in heavy rain and flooding.,0
+CLM01145,43,Comprehensive,4.2,49341.41,Theft,17-02-2023,19-03-2023,0,4,43194.53,51632.83,Yes,No,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM00300,29,Comprehensive,3.8,10937.89,Theft,21-10-2023,23-10-2023,2,11,11193.11,11287.89,Yes,Yes,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM01014,29,Third-Party Fire & Theft,6,107923.14,Windshield Damage,15-11-2025,15-11-2025,0,6,89944.41,102912.3,No,Yes,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM00890,25,Comprehensive,1.4,29798.23,Collision,24-02-2025,02-03-2025,1,5,27158.26,28990.55,Yes,No,Delhi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00606,38,Comprehensive,3.1,50828.67,Vandalism,15-10-2024,15-10-2024,0,0,44505.69,50540.35,No,Yes,Lucknow,Vehicle scratched while parked in a mall parking lot.,0
+CLM00154,32,Comprehensive,5,18522.73,Windshield Damage,09-08-2025,17-08-2025,0,8,17939.39,18246.93,Yes,Yes,Pune,Minor collision while reversing out of a parking spot.,0
+CLM00830,46,Third-Party,5.9,5862.13,Theft,31-10-2023,15-11-2023,0,13,5817.59,6102.18,Yes,Yes,Mumbai,Windshield cracked due to a stone hit on the highway.,0
+CLM00928,21,Third-Party Fire & Theft,1.4,24654.31,Natural Disaster,03-04-2024,05-04-2024,2,1,24367.27,24591.28,Yes,Yes,Jaipur,Tree branch fell on the car during a storm.,0
+CLM00951,45,Third-Party,1.6,29582.56,Collision,28-04-2025,30-04-2025,4,0,31918.41,28780.88,No,Yes,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM00767,36,Third-Party Fire & Theft,7.3,24183.93,Natural Disaster,20-10-2024,26-10-2024,4,0,15535.85,23954.15,No,No,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM00971,51,Third-Party Fire & Theft,15.1,37830.01,Windshield Damage,04-04-2024,05-04-2024,0,7,37242.34,37616.01,No,Yes,Bengaluru,Incident location does not match customer's usual route.,1
+CLM00945,45,Third-Party,0.2,7855.62,Collision,19-07-2023,30-07-2023,1,1,4817.75,7854.28,Yes,No,Chennai,Rear-ended while stopped at a junction.,1
+CLM01111,51,Comprehensive,2.7,71369,Windshield Damage,26-05-2024,30-05-2024,0,1,70397.53,74776.6,No,No,Delhi,Tree branch fell on the car during a storm.,1
+CLM00775,42,Third-Party Fire & Theft,7.8,26847.59,Fire,19-10-2023,20-10-2023,0,0,24718.56,27326.28,Yes,No,Surat,Rear-ended while stopped at a junction.,0
+CLM00226,47,Third-Party Fire & Theft,8.5,12369.11,Windshield Damage,28-12-2025,30-12-2025,1,8,11649.96,12325.29,Yes,Yes,Pune,Minor collision while reversing out of a parking spot.,0
+CLM01088,35,Comprehensive,1.6,35793.65,Injury/Accident,09-10-2025,12-10-2025,2,0,31623.64,34424.15,Yes,No,Chennai,Vehicle skidded and hit a divider on a wet road.,0
+CLM01128,35,Third-Party,0.6,43075.62,Theft,26-10-2023,12-11-2023,1,1,46613.44,44796.69,Yes,Yes,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM00479,27,Third-Party Fire & Theft,3.3,21755.44,Natural Disaster,07-04-2024,08-04-2024,0,14,19732.56,20995.72,Yes,No,Chennai,Rear-ended while stopped at a junction.,0
+CLM00857,26,Third-Party Fire & Theft,0.8,42819.18,Windshield Damage,17-09-2024,18-09-2024,0,3,38296.37,44722.9,Yes,No,Kolkata,Vehicle scratched while parked in a mall parking lot.,0
+CLM00698,50,Comprehensive,12.6,18361.86,Fire,10-10-2024,12-10-2024,1,5,15617.02,18039.82,Yes,Yes,Kolkata,Car was damaged in heavy rain and flooding.,0
+CLM00343,42,Third-Party Fire & Theft,3.1,18614.3,Windshield Damage,04-11-2023,12-11-2023,1,0,18756.91,18347.28,Yes,Yes,Mumbai,Tree branch fell on the car during a storm.,0
+CLM00687,33,Comprehensive,11.6,37753.09,Injury/Accident,20-10-2023,20-10-2023,1,1,33366,38502.17,Yes,Yes,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00064,22,Third-Party Fire & Theft,4.3,52045.82,Theft,23-03-2023,24-04-2023,0,0,45546.76,53774.43,Yes,No,Kolkata,Windshield cracked due to a stone hit on the highway.,1
+CLM01165,50,Third-Party Fire & Theft,1,39040.44,Injury/Accident,09-03-2025,14-03-2025,1,0,40351.19,39898.38,Yes,No,Bengaluru,Minor collision while reversing out of a parking spot.,0
+CLM00611,39,Third-Party,9.5,27615.31,Windshield Damage,22-05-2023,26-05-2023,1,6,27762.01,27036.32,No,Yes,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM00089,44,Third-Party,5.9,42183.91,Windshield Damage,11-04-2024,11-04-2024,2,9,38442.52,40969.03,Yes,Yes,Chennai,Rear-ended while stopped at a junction.,0
+CLM00957,49,Third-Party Fire & Theft,5.5,7691.8,Natural Disaster,21-10-2024,22-10-2024,0,6,6236.85,7760.6,Yes,Yes,Kolkata,Minor collision while reversing out of a parking spot.,0
+CLM00561,64,Comprehensive,2.4,18280.97,Windshield Damage,18-04-2024,18-04-2024,3,3,19325.1,18274.45,No,Yes,Lucknow,Windshield cracked due to a stone hit on the highway.,0
+CLM00913,51,Comprehensive,4.4,48447.73,Vandalism,29-08-2024,29-08-2024,0,3,45975.88,50550.89,yes,Yes,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00696,40,Third-Party Fire & Theft,5.9,57401.01,Collision,05-05-2024,10-05-2024,0,0,45278.51,58785.13,No,No,Kolkata,Vehicle skidded and hit a divider on a wet road.,0
+CLM00637,50,Third-Party Fire & Theft,7.7,24472.31,Fire,06-03-2025,11-03-2025,1,1,22816.59,23907.43,Yes,Yes,Coimbatore,Incident location does not match customer's usual route.,1
+CLM00267,33,Third-Party,3,43655.41,Theft,08-09-2023,08-09-2023,1,1,47230.16,43452.51,No,Yes,Mumbai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00214,40,Third-Party Fire & Theft,1.4,17222.92,Fire,06-01-2023,13-01-2023,0,1,,16747.69,Yes,Yes,Lucknow,Vehicle scratched while parked in a mall parking lot.,0
+CLM00473,51,Third-Party Fire & Theft,9.1,24109.07,Injury/Accident,16-02-2025,18-02-2025,3,5,24157.71,24308.48,Yes,Yes,Surat,Incident location does not match customer's usual route.,1
+CLM01031,53,Third-Party Fire & Theft,2.1,30834.7,Theft,17-03-2023,29-03-2023,1,3,21840.81,29856.39,No,No,Jaipur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00208,32,Third-Party Fire & Theft,3.6,77501.31,Collision,15-04-2025,16-04-2025,0,5,68435.71,74148.17,Yes,Yes,Bengaluru,Windshield cracked due to a stone hit on the highway.,0
+CLM00817,35,Third-Party Fire & Theft,3.6,28957.25,Injury/Accident,18-07-2023,20-07-2023,0,9,25782.51,27965.68,Yes,Yes,Kochi,Windshield cracked due to a stone hit on the highway.,0
+CLM00876,51,Third-Party,1.2,39745.17,Fire,17-06-2024,25-06-2024,1,1,37174.24,38682.08,Yes,No,Ahmedabad,Multiple prior claims for similar type of incident.,1
+CLM00679,26,Third-Party Fire & Theft,0.1,55207.24,Fire,24-04-2024,24-04-2024,4,3,47654.84,55181.01,Yes,Yes,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM00858,52,Third-Party,1.3,109268.5,Windshield Damage,15-12-2024,16-12-2024,0,1,100257.73,106679.07,Yes,Yes,Hyderabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM01153,43,Comprehensive,2.8,27404.53,Injury/Accident,31-12-2024,02-01-2025,0,5,24435.9,27982.29,Yes,Yes,Surat,Tree branch fell on the car during a storm.,0
+CLM00054,34,Third-Party Fire & Theft,5.5,25087.75,Windshield Damage,31-01-2023,05-02-2023,0,3,23378.76,26087.15,No,No,Nagpur,Windshield cracked due to a stone hit on the highway.,0
+CLM01012,54,Third-Party Fire & Theft,2.4,70483.87,Natural Disaster,18-03-2025,19-03-2025,0,5,61753.74,68340.47,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00944,26,Third-Party Fire & Theft,13,10669.56,Windshield Damage,26-08-2025,29-08-2025,0,1,9882.46,10876.19,Yes,Yes,Lucknow,Tree branch fell on the car during a storm.,0
+CLM00018,58,Third-Party,1.3,27738.99,Vandalism,06-07-2024,17-07-2024,1,0,25532.31,28321.13,Yes,No,Kochi,Rear-ended while stopped at a junction.,0
+CLM00246,54,Comprehensive,4.2,58389.8,Injury/Accident,22-03-2023,23-03-2023,0,1,56400.84,57426.41,No,Yes,Nagpur,Vehicle scratched while parked in a mall parking lot.,1
+CLM00707,26,Third-Party Fire & Theft,1.6,12565.09,Windshield Damage,16-05-2023,22-05-2023,1,1,13877.46,12999,Yes,No,Lucknow,Vehicle scratched while parked in a mall parking lot.,0
+CLM00351,49,Comprehensive,3.4,27662.89,Fire,27-07-2023,07-08-2023,2,7,23129.37,26494.5,Yes,No,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM00178,45,Third-Party Fire & Theft,12.5,73915.61,Vandalism,11-07-2025,22-07-2025,0,1,71054.68,73838.58,Yes,No,Hyderabad,Claim submitted just before policy renewal/expiry.,1
+CLM00940,27,Third-Party,3.1,55858.38,Collision,01-01-2023,01-01-2023,0,5,58896.87,55538.93,No,No,Nagpur,Windshield cracked due to a stone hit on the highway.,0
+CLM01170,49,Third-Party Fire & Theft,1.5,71343.43,Vandalism,16-07-2025,18-07-2025,0,0,65364.8,74891.14,Yes,No,Lucknow,Vehicle scratched while parked in a mall parking lot.,0
+CLM00108,39,Comprehensive,3.1,59080.14,Injury/Accident,27-09-2024,01-10-2024,2,4,42043.05,62140.15,No,No,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00421,41,Comprehensive,6,45193.08,Fire,06-04-2024,10-04-2024,0,1,45454.57,47153.67,No,,Jaipur,Customer requested cash settlement instead of repair.,1
+CLM00976,58,Third-Party Fire & Theft,4.8,37528.55,Theft,25-08-2024,26-08-2024,0,22,35334.74,39154.4,Yes,No,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00296,19,Comprehensive,1.1,115903.89,Fire,22-01-2025,19-04-2025,0,0,71494.06,111729.47,Yes,Yes,,Incident reported late at night with no witnesses.,1
+CLM00489,37,Third-Party,0.9,61477.87,Injury/Accident,09-12-2025,10-12-2025,2,1,57748.29,58868.83,No,Yes,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00624,49,Third-Party,1.7,16158.95,Vandalism,28-02-2024,04-03-2024,3,0,15630.26,15792.2,Yes,No,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM00147,18,Third-Party Fire & Theft,4.2,11564.55,Vandalism,28-01-2025,31-01-2025,0,3,11985.85,11965.75,Yes,No,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00771,45,Third-Party Fire & Theft,4.9,5500.21,Theft,29-06-2024,01-07-2024,2,0,5457.83,5737.87,No,Yes,Nagpur,Vehicle collided with another car at a traffic signal.,0
+CLM00003,40,Third-Party,3.6,7933.55,Collision,03-03-2023,20-03-2023,1,0,7774.88,7790.03,Yes,Yes,Bengaluru,Windshield cracked due to a stone hit on the highway.,0
+CLM00370,32,Comprehensive,1.5,64311,Fire,17-03-2024,18-03-2024,1,20,60912.73,61555.26,Yes,Yes,Jaipur,Car was damaged in heavy rain and flooding.,0
+CLM00043,44,Comprehensive,0.8,12497.48,Injury/Accident,01-05-2023,02-05-2023,3,2,12817.46,12914.61,Yes,Yes,Mumbai,Rear-ended while stopped at a junction.,0
+CLM00680,42,Comprehensive,3.1,19095.09,Injury/Accident,14-07-2023,18-07-2023,0,2,19472.17,19885.76,Yes,Yes,Bengaluru,Vehicle collided with another car at a traffic signal.,0
+CLM00087,21,Third-Party Fire & Theft,0.7,2761.87,Collision,22-02-2025,28-02-2025,1,7,2788.93,2642.72,Yes,Yes,Surat,Vehicle collided with another car at a traffic signal.,0
+CLM00641,39,Comprehensive,0.3,30344.45,Theft,03-02-2025,06-02-2025,2,0,30156.73,30946.12,Yes,,Jaipur,Car was damaged in heavy rain and flooding.,0
+CLM00799,50,Comprehensive,1.3,24041.99,Windshield Damage,10-03-2023,17-03-2023,0,1,23050.81,24774.15,No,Yes,Chennai,Multiple prior claims for similar type of incident.,1
+CLM00588,56,Third-Party,4.8,6809.02,Theft,17-02-2025,21-02-2025,0,2,6501.61,6862.24,Yes,Yes,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM00194,30,Comprehensive,2.6,15318.32,Windshield Damage,25-12-2023,11-01-2024,1,6,14636.51,15997.23,,Yes,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00426,64,Third-Party Fire & Theft,0.1,75785.44,Injury/Accident,22-11-2024,08-12-2024,0,16,53208.09,73416.6,No,No,Surat,Claim filed for total loss shortly after policy purchase.,1
+CLM00526,36,Comprehensive,0.4,82014.87,Collision,10-03-2023,14-03-2023,0,18,86087.7,83875.07,Yes,Yes,Coimbatore,Vehicle skidded and hit a divider on a wet road.,0
+CLM00649,52,Comprehensive,2.1,37293.36,Natural Disaster,05-03-2023,09-03-2023,2,4,31001.86,36702.55,Yes,Yes,Hyderabad,Rear-ended while stopped at a junction.,0
+CLM00066,62,Comprehensive,1.9,11321.87,Injury/Accident,05-10-2024,07-10-2024,0,4,9102.89,10835.93,No,Yes,,Rear-ended while stopped at a junction.,0
+CLM00768,32,Comprehensive,4.9,14554.35,Collision,15-10-2024,15-10-2024,3,4,12641.24,13921.43,Yes,No,Chennai,Rear-ended while stopped at a junction.,0
+CLM00308,36,Third-Party Fire & Theft,0.2,8821.98,Collision,07-12-2024,16-12-2024,2,8,7561.66,8707.51,No,Yes,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM01179,38,Third-Party Fire & Theft,5.6,10728.74,Vandalism,07-01-2024,20-01-2024,3,0,9523.8,10499.47,Yes,Yes,Surat,Rear-ended while stopped at a junction.,0
+CLM00947,36,Comprehensive,0.1,51879.46,Collision,03-12-2023,11-12-2023,1,4,50963.23,54132.41,Yes,No,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM01171,45,Third-Party Fire & Theft,4.2,26649.32,Vandalism,20-01-2024,22-01-2024,5,3,27720.93,27600.03,No,No,Chennai,Tree branch fell on the car during a storm.,0
+CLM00828,31,Third-Party,3.4,61979.11,Natural Disaster,27-07-2025,27-07-2025,1,8,60572.39,64988.78,Yes,,Nagpur,Vehicle collided with another car at a traffic signal.,0
+CLM00235,52,Third-Party Fire & Theft,0.3,4695.03,Theft,20-04-2024,22-04-2024,2,2,4462.31,4906.65,Yes,Yes,Kochi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00648,40,Third-Party,3.1,47235.57,Vandalism,28-06-2025,23-07-2025,0,3,44567.03,46503.4,No,Yes,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM01004,35,Third-Party Fire & Theft,3.5,51775.57,Natural Disaster,10-05-2023,22-05-2023,0,0,46820,52122.81,Yes,No,Lucknow,Vehicle collided with another car at a traffic signal.,0
+CLM00921,44,Third-Party,0.1,20841.64,Injury/Accident,08-12-2023,16-12-2023,0,14,21131.7,21528.28,No,No,Delhi,Windshield cracked due to a stone hit on the highway.,0
+CLM00746,57,Third-Party,0.5,93265.6,Fire,03-09-2023,07-09-2023,0,4,92245.69,91081.5,Yes,Yes,Delhi,,0
+CLM01182,60,Third-Party Fire & Theft,0.3,43167.64,Collision,12-02-2024,20-02-2024,4,12,39714.8,41442.99,No,No,Lucknow,Claim submitted just before policy renewal/expiry.,1
+CLM00130,49,Third-Party,1.4,9603.48,Injury/Accident,08-04-2025,16-04-2025,1,7,9375.33,9467.24,,Yes,Surat,Car was damaged in heavy rain and flooding.,0
+CLM00258,57,Comprehensive,0.7,46330.52,Injury/Accident,08-08-2025,23-08-2025,0,3,44623.85,44512.48,Yes,Yes,Kochi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00676,62,Comprehensive,3.3,30277.43,Injury/Accident,28-09-2023,03-10-2023,0,13,30572.03,30143.2,Yes,Yes,Delhi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00709,38,Comprehensive,0.8,15459.26,Vandalism,26-08-2023,28-08-2023,2,3,16124.22,14850.65,No,Yes,Coimbatore,Vehicle skidded and hit a divider on a wet road.,0
+CLM00125,,Comprehensive,3.1,37110.48,Theft,10-05-2025,19-05-2025,0,1,36821.6,38617.58,Yes,Yes,Nagpur,Minor collision while reversing out of a parking spot.,0
+CLM00168,40,Comprehensive,0.6,14018.27,Fire,10-04-2024,15-04-2024,0,0,15341.99,13704.21,Yes,No,Delhi,Tree branch fell on the car during a storm.,0
+CLM00145,50,Third-Party Fire & Theft,0.9,9601.73,Injury/Accident,12-05-2024,14-05-2024,1,4,9358.53,9276.48,Yes,Yes,Lucknow,Windshield cracked due to a stone hit on the highway.,0
+CLM00448,35,Third-Party Fire & Theft,12.1,11782.09,Fire,31-05-2023,31-05-2023,3,1,11753.61,11457.92,Yes,Yes,Jaipur,Minor collision while reversing out of a parking spot.,0
+CLM00563,56,Comprehensive,0.2,16734.24,Natural Disaster,16-09-2025,22-09-2025,0,0,,16386.72,Yes,Yes,Chennai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00996,40,Comprehensive,2.6,41674.19,Theft,12-03-2024,21-03-2024,3,7,40303.68,43052.52,Yes,No,Surat,Incident location does not match customer's usual route.,1
+CLM00334,25,Third-Party Fire & Theft,16.2,32111.3,Natural Disaster,26-03-2023,29-03-2023,0,1,28503.19,33119.07,No,No,Nagpur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00654,43,Third-Party Fire & Theft,12.9,21580.4,Windshield Damage,21-05-2024,26-05-2024,1,5,20295.9,22535.72,Yes,No,Surat,Vehicle scratched while parked in a mall parking lot.,0
+CLM00972,29,Third-Party Fire & Theft,1,44688.8,Windshield Damage,12-08-2024,13-08-2024,4,14,45523.28,45516.6,No,No,Kolkata,Vehicle collided with another car at a traffic signal.,0
+CLM00234,44,Comprehensive,8.6,23052.87,Natural Disaster,22-02-2025,07-03-2025,0,3,22332.93,22957,No,Yes,Ahmedabad,Rear-ended while stopped at a junction.,0
+CLM00528,24,Comprehensive,2.7,14729.75,Vandalism,17-06-2025,20-06-2025,0,3,13429.53,14775.29,Yes,Yes,Jaipur,Rear-ended while stopped at a junction.,0
+CLM00580,21,Third-Party Fire & Theft,6.1,6010.02,Fire,25-02-2025,27-02-2025,0,16,5837.76,5900.54,Yes,Yes,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM01115,46,Comprehensive,1.2,57987.42,Windshield Damage,12-11-2025,16-11-2025,0,0,52723.67,57323.67,Yes,Yes,Kolkata,Vehicle scratched while parked in a mall parking lot.,0
+CLM00953,32,Third-Party Fire & Theft,7.2,65706.8,Natural Disaster,29-10-2025,02-11-2025,0,0,63980.85,63525.09,Yes,Yes,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM00273,31,Third-Party Fire & Theft,5,32584.71,Windshield Damage,22-02-2023,22-02-2023,0,0,33828.45,33065.26,Yes,Yes,Chennai,Car was damaged in heavy rain and flooding.,0
+CLM00161,42,Third-Party,2.9,56637.45,Theft,08-04-2025,13-04-2025,0,2,53933.71,56037.35,Yes,Yes,Hyderabad,Rear-ended while stopped at a junction.,0
+CLM00144,30,Third-Party Fire & Theft,3,34990.4,Vandalism,23-03-2025,23-03-2025,0,2,33374.95,35276.87,Yes,No,Mumbai,Rear-ended while stopped at a junction.,0
+CLM00475,22,Third-Party,3.2,42716.13,Injury/Accident,11-06-2023,13-06-2023,1,3,45616.66,42531.19,Yes,No,Ahmedabad,Tree branch fell on the car during a storm.,0
+CLM00026,21,Third-Party Fire & Theft,2.8,25088.49,Theft,14-05-2025,19-05-2025,1,9,24052.43,25372.23,Yes,Yes,Kolkata,Windshield cracked due to a stone hit on the highway.,0
+CLM00484,36,Third-Party Fire & Theft,2.5,21507.7,Collision,03-07-2023,11-07-2023,2,2,19128.35,22516.27,Yes,No,Jaipur,Rear-ended while stopped at a junction.,0
+CLM00224,54,Third-Party,2.4,45269.56,Windshield Damage,26-06-2024,29-06-2024,0,4,43303.21,47333.26,No,Yes,Coimbatore,Tree branch fell on the car during a storm.,0
+CLM00626,36,Comprehensive,5.8,69255.33,Fire,02-04-2023,13-04-2023,0,0,58815.28,67835.44,Yes,Yes,Chennai,Windshield cracked due to a stone hit on the highway.,0
+CLM00391,25,Third-Party Fire & Theft,3.4,45009.22,Fire,19-06-2023,24-06-2023,1,1,49603.13,44925,Yes,Yes,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM00863,61,Third-Party Fire & Theft,0.7,7549.65,Fire,21-07-2024,01-08-2024,1,,6871.58,7363.2,Yes,Yes,Kochi,Vehicle scratched while parked in a mall parking lot.,0
+CLM01018,50,Comprehensive,7,30676.35,Theft,24-09-2025,17-11-2025,1,,28911.99,31791.81,No,No,Pune,Customer requested cash settlement instead of repair.,1
+CLM01131,45,Third-Party,1.6,110146.3,Fire,28-05-2024,02-06-2024,0,19,100893.38,109362.37,No,Yes,Kolkata,Vehicle collided with another car at a traffic signal.,0
+CLM00520,37,Comprehensive,8.7,27650.74,Natural Disaster,15-03-2025,22-05-2025,3,0,18658.84,27577.4,No,No,Lucknow,Car was damaged in heavy rain and flooding.,1
+CLM00871,55,Third-Party,2,18962.69,Natural Disaster,06-09-2024,14-09-2024,5,3,20617.35,19364.61,Yes,Yes,Surat,Car was damaged in heavy rain and flooding.,0
+CLM01135,57,Third-Party Fire & Theft,10.2,9931.63,Windshield Damage,11-06-2024,15-06-2024,1,0,8296.74,9604.1,No,Yes,Chennai,Tree branch fell on the car during a storm.,0
+CLM00584,40,Third-Party Fire & Theft,1.9,21791.16,Fire,11-07-2025,18-07-2025,1,3,22033.24,22704.76,No,Yes,Bengaluru,Vehicle skidded and hit a divider on a wet road.,0
+CLM00505,30,Comprehensive,1.8,37835.08,Injury/Accident,17-06-2023,30-06-2023,2,4,36596.97,38758.81,Yes,Yes,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00503,39,Third-Party,0.7,17496.2,Theft,20-07-2025,20-07-2025,0,1,18434.22,17367.72,Yes,Yes,,Tree branch fell on the car during a storm.,0
+CLM00918,31,Third-Party,4.9,5964.71,Natural Disaster,03-07-2024,03-07-2024,3,18,5736.67,5830.28,Yes,Yes,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00102,40,Third-Party Fire & Theft,,33584.67,Theft,08-09-2024,12-09-2024,0,3,30953.86,33622.17,Yes,Yes,Jaipur,Incident location does not match customer's usual route.,1
+CLM00263,42,Third-Party Fire & Theft,11.8,15397.1,Collision,29-09-2025,24-10-2025,2,10,12541.83,15085.96,No,No,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM00650,23,Comprehensive,13,23396,Fire,05-04-2024,08-04-2024,2,3,20460.24,23294.74,Yes,Yes,Delhi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00377,,Third-Party Fire & Theft,3.7,39106.26,Collision,08-12-2025,11-12-2025,0,2,36919.96,39544.38,No,No,Mumbai,Tree branch fell on the car during a storm.,0
+CLM01149,27,Third-Party,3.1,15800.72,Natural Disaster,20-06-2023,20-06-2023,0,2,16918.3,16464.41,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00155,45,Comprehensive,4,28700.83,Vandalism,27-10-2024,27-10-2024,1,0,27507.06,29505.81,No,Yes,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM00832,29,Third-Party Fire & Theft,0.5,11648.42,Fire,21-04-2025,24-04-2025,1,9,11010.85,12099.67,Yes,No,Kolkata,Vehicle scratched while parked in a mall parking lot.,0
+CLM00769,41,Third-Party,1,68286.29,Collision,24-08-2025,13-09-2025,0,0,59773.6,67271.31,Yes,No,Nagpur,Tree branch fell on the car during a storm.,0
+CLM01151,25,Comprehensive,1.9,64495.7,Theft,04-08-2024,05-08-2024,3,6,62697.77,66651.52,Yes,Yes,Kochi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00772,27,Comprehensive,3,74328.67,Natural Disaster,06-03-2025,08-03-2025,0,2,62545.04,74704.24,Yes,Yes,Surat,Tree branch fell on the car during a storm.,0
+CLM00628,48,Comprehensive,0.2,37842.78,Natural Disaster,24-12-2023,10-01-2024,1,3,28369.88,36470.43,No,No,Pune,Car was damaged in heavy rain and flooding.,0
+CLM01133,42,Third-Party,17.5,8240.34,Vandalism,17-07-2023,24-07-2023,5,7,7698.24,7993.33,Yes,No,Lucknow,Vehicle skidded and hit a divider on a wet road.,0
+CLM00305,31,Comprehensive,6.5,50828.52,Windshield Damage,12-04-2023,12-04-2023,0,3,49630.49,52664.15,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00302,42,Third-Party Fire & Theft,13.9,10818.24,Theft,09-02-2025,10-02-2025,0,2,12349.34,10926.74,Yes,No,Ahmedabad,Minor collision while reversing out of a parking spot.,0
+CLM00719,42,Third-Party Fire & Theft,0.1,33080.78,Collision,01-04-2023,05-05-2023,3,1,21386.43,32750.85,No,No,Bengaluru,Claim filed for total loss shortly after policy purchase.,1
+CLM00344,23,Third-Party Fire & Theft,0.2,20922.57,Injury/Accident,17-10-2023,03-11-2023,4,1,20864.51,21701.21,No,Yes,Hyderabad,Tree branch fell on the car during a storm.,0
+CLM00966,41,Third-Party,2.6,99412.13,Windshield Damage,27-01-2023,03-02-2023,1,5,90872.93,97637.12,Yes,Yes,Chennai,Incident reported late at night with no witnesses.,1
+CLM00049,40,Third-Party,2.1,13775.63,Vandalism,21-04-2023,03-05-2023,0,20,14189.68,14244.43,yes,No,Chennai,Windshield cracked due to a stone hit on the highway.,0
+CLM00986,43,Third-Party Fire & Theft,8.8,10200.96,Natural Disaster,06-04-2025,21-04-2025,2,3,11262.58,10684.08,Yes,Yes,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00272,18,Comprehensive,10.8,17073.98,Theft,28-05-2024,28-05-2024,4,0,20768.59,17672.7,Yes,No,Mumbai,Car was damaged in heavy rain and flooding.,0
+CLM01109,26,Third-Party Fire & Theft,6.8,45604.42,Theft,18-10-2025,01-11-2025,2,12,42527.32,47956.82,Yes,No,Bengaluru,Rear-ended while stopped at a junction.,0
+CLM00537,41,Comprehensive,0.7,30149.2,Fire,23-10-2023,30-10-2023,2,0,28523.47,29668.66,Yes,No,Chennai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00173,35,Third-Party,8.8,27106.04,Windshield Damage,05-09-2025,09-09-2025,2,4,25858.03,28077.1,Yes,Yes,Surat,Windshield cracked due to a stone hit on the highway.,0
+CLM01100,55,Third-Party Fire & Theft,2.7,25659.54,Fire,25-06-2025,08-07-2025,0,1,24433,24625.28,No,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,1
+CLM01074,33,Third-Party,0.7,34608.95,Collision,13-11-2023,15-11-2023,2,0,33141.13,34527.13,Yes,Yes,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM00620,54,Comprehensive,1,13235.42,Natural Disaster,28-11-2025,29-11-2025,3,2,14517.29,13678.48,Yes,Yes,Ahmedabad,Rear-ended while stopped at a junction.,0
+CLM00398,50,Third-Party Fire & Theft,4.1,23928.32,Injury/Accident,24-11-2023,26-11-2023,1,1,26865.27,23499.43,Yes,No,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM00320,40,Comprehensive,11.4,24220.78,Theft,11-06-2025,15-06-2025,1,0,21249.42,23296.88,Yes,Yes,Jaipur,Minor collision while reversing out of a parking spot.,0
+CLM01053,36,Comprehensive,10.7,26057.21,Theft,26-11-2023,01-12-2023,0,5,29348.45,25079.82,Yes,Yes,Kochi,Car was damaged in heavy rain and flooding.,0
+CLM00031,50,Comprehensive,6.2,43400.37,Natural Disaster,06-08-2023,09-08-2023,1,0,44016.09,45128.49,Yes,No,Surat,Vehicle scratched while parked in a mall parking lot.,0
+CLM00004,36,Comprehensive,0.1,11017.05,Natural Disaster,24-02-2023,25-02-2023,0,12,9252.05,10522.91,No,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00797,58,Third-Party,3.8,23039.07,Natural Disaster,07-02-2025,11-02-2025,1,0,22617.6,23558.67,Yes,No,Surat,Windshield cracked due to a stone hit on the highway.,0
+CLM00737,39,Third-Party,0.8,35350.97,Vandalism,23-06-2023,30-06-2023,2,3,30967.87,34012.76,Yes,Yes,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00137,29,Third-Party Fire & Theft,5.1,3592.85,Natural Disaster,17-04-2023,24-04-2023,1,10,3275.79,3745.29,Yes,Yes,Bengaluru,Tree branch fell on the car during a storm.,0
+CLM00339,59,Third-Party,1.1,14757.96,Vandalism,09-12-2025,10-12-2025,5,3,12390.33,14301.92,Yes,No,Pune,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00215,38,Third-Party,1.6,33960.76,Windshield Damage,29-09-2025,30-09-2025,0,0,31409.09,34240.39,No,Yes,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM00735,38,Comprehensive,2.7,51023.58,Injury/Accident,27-07-2024,03-08-2024,1,13,50118.03,49604,Yes,Yes,Chennai,Windshield cracked due to a stone hit on the highway.,0
+CLM00807,61,Third-Party Fire & Theft,2.5,20800.39,Windshield Damage,02-10-2025,07-10-2025,0,1,21702.83,20839.08,,No,,Car was damaged in heavy rain and flooding.,0
+CLM00486,47,Comprehensive,0.4,59107.01,Collision,24-03-2025,07-04-2025,3,3,65816.51,61143.39,Yes,Yes,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00078,24,Third-Party Fire & Theft,0.4,38129.48,Vandalism,25-05-2025,23-08-2025,3,2,26998.48,39180.81,Yes,Yes,Mumbai,Claim filed for total loss shortly after policy purchase.,1
+CLM00023,18,Comprehensive,6.3,45205.21,Theft,22-06-2024,26-08-2024,0,1,31997.64,45620.57,No,No,Coimbatore,Incident location does not match customer's usual route.,1
+CLM00270,18,Third-Party Fire & Theft,0.2,19373.22,Theft,18-03-2024,06-04-2024,1,0,13809.68,19649.87,No,No,Pune,,1
+CLM00841,42,Comprehensive,6.7,41778.32,Windshield Damage,13-04-2025,17-04-2025,4,1,42433.49,43428.59,Yes,Yes,Nagpur,Vehicle skidded and hit a divider on a wet road.,0
+CLM01103,40,Comprehensive,3.8,25185.12,Fire,19-05-2023,19-05-2023,1,6,23852.89,25959.95,Yes,No,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM01019,49,Comprehensive,0,37439.73,Injury/Accident,25-04-2024,25-04-2024,0,8,29504.56,36443.4,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00943,49,Comprehensive,2.8,56942.81,Windshield Damage,01-04-2024,03-04-2024,0,0,54064.31,56539.06,Yes,No,Pune,Claim submitted just before policy renewal/expiry.,1
+CLM00683,30,Third-Party,4.2,8199.09,Windshield Damage,04-09-2023,05-09-2023,2,7,7524.23,7881.16,Yes,No,Lucknow,Minor collision while reversing out of a parking spot.,0
+CLM01169,70,Comprehensive,5.1,43677.92,Theft,07-10-2023,12-10-2023,0,0,40444.73,43945.48,Yes,Yes,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00254,36,Third-Party,0.9,54818.85,Natural Disaster,11-09-2023,21-09-2023,2,3,,55334.54,Yes,Yes,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM00891,,Comprehensive,1.9,29290.59,Windshield Damage,04-04-2023,14-04-2023,2,7,30546.19,30480.16,Yes,Yes,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00700,44,Third-Party,19.1,39611.98,Windshield Damage,30-05-2023,10-06-2023,2,1,34532.46,39597.04,Yes,No,Coimbatore,Claim filed for total loss shortly after policy purchase.,1
+CLM00938,24,Third-Party,0.7,59198.09,Vandalism,09-10-2024,11-10-2024,1,4,62248.78,60618.09,yes,Yes,Ahmedabad,Incident reported late at night with no witnesses.,1
+CLM00723,65,Comprehensive,5.2,12993.4,Natural Disaster,02-02-2025,08-02-2025,1,5,10929.87,12524.12,Yes,Yes,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00141,41,Third-Party Fire & Theft,1.4,5591.04,Fire,25-01-2025,05-02-2025,0,14,5145.8,5614.52,Yes,Yes,Coimbatore,Car was damaged in heavy rain and flooding.,1
+CLM00566,66,Third-Party Fire & Theft,7.1,42594.23,Windshield Damage,31-05-2025,31-05-2025,0,0,36001.3,44690.34,Yes,Yes,Mumbai,Car was damaged in heavy rain and flooding.,0
+CLM00613,40,Third-Party Fire & Theft,7.5,9498.65,Theft,16-05-2025,17-05-2025,1,0,8574.95,9770.77,Yes,Yes,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM00437,48,Comprehensive,5.6,45613.72,Collision,17-08-2024,20-08-2024,0,3,44531.61,46253.56,Yes,No,Surat,Minor collision while reversing out of a parking spot.,0
+CLM00567,30,Comprehensive,9,10562.16,Natural Disaster,01-11-2023,08-11-2023,1,,9810.68,10345.75,Yes,Yes,Bengaluru,Rear-ended while stopped at a junction.,0
+CLM00402,49,Third-Party,3.5,75621.28,Vandalism,07-06-2023,07-06-2023,1,6,67555.28,73003.38,No,No,Jaipur,"Vehicle reported stolen, recovered with no major damage.",1
+CLM01032,43,Third-Party Fire & Theft,2.1,33927.29,Vandalism,01-11-2023,03-11-2023,4,1,36418.93,34905.79,Yes,Yes,Kolkata,Tree branch fell on the car during a storm.,0
+CLM00859,38,Comprehensive,15.5,40452.05,Vandalism,10-09-2024,11-09-2024,0,7,38314.85,42089.09,yes,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM00384,52,Comprehensive,1.1,23121.11,Collision,26-07-2025,08-08-2025,4,17,22524.13,23542.53,Yes,No,Hyderabad,Vehicle collided with another car at a traffic signal.,0
+CLM00390,30,Third-Party,6.7,61481.33,Theft,13-10-2025,08-11-2025,0,1,55060.04,60814.31,No,Yes,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM01010,42,Third-Party Fire & Theft,0.7,26730.11,Windshield Damage,03-02-2025,13-02-2025,0,0,26070.79,25581.79,Yes,No,Jaipur,Vehicle collided with another car at a traffic signal.,0
+CLM01034,35,Third-Party Fire & Theft,1.3,24337.91,Natural Disaster,05-07-2023,09-07-2023,3,7,23877.08,23534.65,Yes,No,Pune,Minor collision while reversing out of a parking spot.,0
+CLM00787,50,Third-Party Fire & Theft,3.3,23848.46,Windshield Damage,26-12-2023,26-12-2023,1,2,23793.11,24299.17,Yes,No,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM00019,42,Third-Party,11,10335.15,Windshield Damage,25-04-2023,22-05-2023,1,5,9443.18,9959.31,Yes,No,Surat,Rear-ended while stopped at a junction.,0
+CLM00352,32,Third-Party,7.5,77067.82,Windshield Damage,26-09-2023,28-09-2023,0,2,78025.39,76043.18,Yes,No,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM00237,59,Third-Party,2.9,100991.19,Fire,20-11-2023,03-01-2024,1,0,67731.62,98528.2,No,No,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00404,24,Comprehensive,5,37144.75,Collision,17-01-2024,18-01-2024,0,0,34275.13,37142.45,No,Yes,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00833,30,Third-Party Fire & Theft,1.5,57075.35,Vandalism,26-08-2025,28-08-2025,0,3,49784.88,58107.73,Yes,Yes,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM01068,33,Third-Party,1.7,2434.93,Windshield Damage,19-02-2025,21-02-2025,1,1,2490.78,2420.63,Yes,Yes,Coimbatore,Tree branch fell on the car during a storm.,0
+CLM00703,29,Third-Party Fire & Theft,11,31026.99,Natural Disaster,30-04-2025,07-05-2025,1,0,30479.65,32372.82,No,No,Lucknow,Minor collision while reversing out of a parking spot.,0
+CLM00468,34,Third-Party,8.5,32516.63,Natural Disaster,26-12-2024,26-12-2024,2,14,33544.55,33553.22,No,Yes,Coimbatore,Vehicle scratched while parked in a mall parking lot.,0
+CLM00591,33,Third-Party,1.3,6398.59,Collision,29-09-2023,10-10-2023,1,0,6502.14,6401.8,Yes,No,Delhi,Windshield cracked due to a stone hit on the highway.,0
+CLM00677,33,Third-Party,3.9,41310.81,Collision,08-01-2025,13-01-2025,1,,33176.92,39573.12,Yes,,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00413,51,Third-Party,0.7,50542.07,Collision,09-01-2025,11-01-2025,0,,48064.9,48220.8,Yes,Yes,Ahmedabad,Tree branch fell on the car during a storm.,0
+CLM01058,39,Comprehensive,0.2,39367.47,Windshield Damage,21-04-2025,23-04-2025,1,2,42852.2,39011.13,Yes,No,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM01200,37,Third-Party,12.7,17947.55,Fire,25-11-2023,28-11-2023,1,0,17008.96,17274.53,No,No,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00704,43,Third-Party,4.6,20257.19,Collision,09-11-2023,09-11-2023,0,8,18358.57,20479.43,No,Yes,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM01162,56,Third-Party,1.2,9661.49,Windshield Damage,22-08-2024,23-08-2024,2,1,10032.25,9568.71,Yes,No,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00100,46,Third-Party,1.6,38953.02,Fire,04-04-2025,05-04-2025,0,8,43515.62,40845.51,Yes,No,Jaipur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00225,42,Third-Party Fire & Theft,0.1,34238.74,Vandalism,14-06-2023,12-07-2023,1,1,27717.37,34550.83,yes,No,Surat,Customer requested cash settlement instead of repair.,1
+CLM00295,43,Third-Party Fire & Theft,5,29295.11,Theft,13-11-2023,18-11-2023,0,45,28512.52,29252.81,Yes,Yes,Bengaluru,Vehicle skidded and hit a divider on a wet road.,0
+CLM00260,,Third-Party,,44545.4,Vandalism,26-08-2023,05-09-2023,0,0,50387.59,46646.28,,Yes,Bengaluru,Windshield cracked due to a stone hit on the highway.,0
+CLM00114,61,Third-Party Fire & Theft,0.5,6548.7,Natural Disaster,09-08-2025,22-08-2025,2,0,6170.3,6756.9,Yes,Yes,Jaipur,Vehicle collided with another car at a traffic signal.,0
+CLM01057,18,Comprehensive,0.3,41148.43,Vandalism,23-08-2025,31-08-2025,2,14,45701.43,42754.18,Yes,Yes,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM01118,44,Third-Party Fire & Theft,2.7,2813.83,Windshield Damage,24-12-2023,03-01-2024,1,1,2940.98,2709.28,Yes,Yes,Mumbai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00255,35,Third-Party Fire & Theft,0.5,31153.99,Injury/Accident,20-06-2024,26-06-2024,4,1,,32019.06,Yes,Yes,Surat,Minor collision while reversing out of a parking spot.,0
+CLM00103,27,Comprehensive,4.5,49061.08,Fire,10-08-2024,22-08-2024,0,17,43387.72,47456.5,No,No,Kolkata,Rear-ended while stopped at a junction.,0
+CLM00960,32,Third-Party,6.5,44480.93,Natural Disaster,15-11-2025,19-11-2025,0,2,42530.54,44035.83,Yes,Yes,Surat,Vehicle scratched while parked in a mall parking lot.,0
+CLM00467,34,Third-Party,4.8,13521.6,Fire,21-12-2023,21-12-2023,0,4,12156.09,12976.54,Yes,Yes,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00366,32,Comprehensive,5.8,62592.44,Collision,14-10-2024,21-10-2024,3,2,46351.61,64516.35,No,Yes,Surat,Windshield cracked due to a stone hit on the highway.,1
+CLM00982,18,Third-Party,1.5,44263.26,Natural Disaster,15-04-2023,21-04-2023,0,1,43816.72,43746.86,Yes,,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00545,50,Third-Party Fire & Theft,5,64305.66,Collision,07-09-2025,26-09-2025,1,5,48311.74,65235.17,No,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00853,23,Comprehensive,3.4,16545.05,Injury/Accident,06-04-2024,09-04-2024,4,9,16179.78,16866.75,,Yes,Hyderabad,Rear-ended while stopped at a junction.,0
+CLM00455,51,Third-Party Fire & Theft,4,36848.94,Fire,29-11-2023,07-12-2023,2,4,39524.46,36149.8,No,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM00435,29,Third-Party Fire & Theft,1.7,27103.73,Collision,15-10-2024,01-11-2024,0,6,27413.86,25871,Yes,No,Ahmedabad,Rear-ended while stopped at a junction.,0
+CLM00997,21,Comprehensive,3.6,9112.43,Theft,10-06-2025,11-06-2025,0,0,8781.99,9406.95,Yes,No,Lucknow,Windshield cracked due to a stone hit on the highway.,0
+CLM00502,21,Third-Party,2.7,38757.12,Fire,28-03-2024,01-04-2024,2,0,36979.68,38082.7,No,Yes,Delhi,Rear-ended while stopped at a junction.,0
+CLM00778,49,Comprehensive,4.8,28889.69,Collision,14-12-2025,27-12-2025,3,4,33492.99,29888.32,Yes,Yes,Chennai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00306,55,Third-Party,0.3,36571.48,Injury/Accident,18-05-2025,19-05-2025,1,3,35015.46,38333.74,Yes,Yes,Coimbatore,Vehicle skidded and hit a divider on a wet road.,0
+CLM00172,40,Third-Party,13.3,18215.71,Vandalism,28-11-2024,29-11-2024,0,2,19338.65,17514.97,Yes,No,Chennai,Car was damaged in heavy rain and flooding.,0
+CLM00373,39,Comprehensive,2.8,32597.49,Vandalism,25-07-2025,05-08-2025,2,12,35512.84,32973.22,,No,Mumbai,Windshield cracked due to a stone hit on the highway.,1
+CLM00823,53,Third-Party,8.2,23268.01,Theft,09-12-2023,19-12-2023,1,7,21902.63,22266.13,No,Yes,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00058,25,Third-Party,10.8,35204.66,Fire,16-05-2025,21-05-2025,1,4,32683.62,35473.8,Yes,No,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00051,39,Comprehensive,3,14336.89,Theft,07-07-2025,05-10-2025,0,0,9792.18,14697.51,No,Yes,Kolkata,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00153,44,Comprehensive,6.8,19681.5,Windshield Damage,27-06-2023,07-07-2023,2,3,22371.9,19692.9,No,Yes,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00776,60,Third-Party,7.2,10053.9,Natural Disaster,24-09-2024,25-09-2024,1,2,9600.02,9663.1,Yes,Yes,Ahmedabad,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00132,29,Third-Party Fire & Theft,2.3,19239.33,Natural Disaster,25-02-2023,03-03-2023,4,4,19209.14,19660.24,No,No,Kochi,Windshield cracked due to a stone hit on the highway.,0
+CLM00397,52,Comprehensive,4.2,29090.91,Collision,11-04-2025,21-04-2025,0,5,25512.23,28516.31,Yes,Yes,Jaipur,Tree branch fell on the car during a storm.,0
+CLM00017,36,Third-Party Fire & Theft,1.2,16119.29,Theft,29-12-2025,03-01-2026,4,1,15219.47,15996.27,Yes,Yes,Delhi,Rear-ended while stopped at a junction.,0
+CLM00301,68,Comprehensive,9.7,13481.27,Injury/Accident,04-03-2023,12-03-2023,0,0,11793.21,13543.32,Yes,No,Lucknow,Windshield cracked due to a stone hit on the highway.,0
+CLM00607,53,Third-Party Fire & Theft,3.5,26338.78,Injury/Accident,02-10-2025,06-10-2025,2,5,26371.26,26636.79,Yes,No,Pune,Repair invoice submitted without an itemized breakdown.,1
+CLM00500,61,Comprehensive,1.9,39044.32,Vandalism,20-09-2024,30-09-2024,1,0,43471.87,39984.08,Yes,Yes,Kolkata,Car was damaged in heavy rain and flooding.,0
+CLM00730,28,Third-Party Fire & Theft,0.4,61351.08,Windshield Damage,17-05-2024,20-05-2024,1,12,57358.16,62129.37,No,No,Chennai,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00619,30,Third-Party,0.3,50564.14,Collision,22-01-2023,02-02-2023,2,6,53088.4,50435.87,Yes,No,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00159,39,Third-Party Fire & Theft,1.4,26019.28,Windshield Damage,07-05-2024,07-05-2024,0,4,22234.92,25037.07,Yes,Yes,Kochi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00793,42,Comprehensive,4.7,37458.87,Fire,05-03-2024,11-03-2024,1,14,29979.67,35708.47,Yes,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00021,35,Comprehensive,1.9,49083.84,Theft,06-10-2024,10-10-2024,1,0,46612.19,51501.85,Yes,No,Kochi,Rear-ended while stopped at a junction.,0
+CLM01001,57,Comprehensive,1.3,7869.44,Fire,14-04-2025,16-04-2025,0,0,9663.26,8231.16,Yes,Yes,Ahmedabad,Minor collision while reversing out of a parking spot.,0
+CLM00496,52,Comprehensive,2.5,26225.74,Vandalism,24-10-2024,01-11-2024,1,1,25447.34,25393.04,No,Yes,Chennai,Rear-ended while stopped at a junction.,0
+CLM01123,23,Third-Party Fire & Theft,0.1,8835.36,Fire,19-01-2025,20-01-2025,1,5,10244.87,9126.98,No,Yes,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM00910,23,Comprehensive,1.3,22617.14,Collision,27-01-2023,30-01-2023,1,9,20476.25,21780.61,Yes,Yes,Mumbai,Windshield cracked due to a stone hit on the highway.,0
+CLM00655,39,Comprehensive,3.5,26056.15,Vandalism,22-06-2024,26-06-2024,4,11,25091.49,25028.01,No,Yes,Surat,Customer requested cash settlement instead of repair.,1
+CLM00357,54,Third-Party Fire & Theft,4.4,31407.82,Natural Disaster,21-06-2025,25-06-2025,4,2,31996.78,32039.72,Yes,Yes,Nagpur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00806,42,Comprehensive,1.9,35432.88,Collision,12-04-2023,28-04-2023,2,1,34775.57,36371.81,No,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM00984,43,Third-Party Fire & Theft,4.4,26772.73,Fire,12-12-2025,22-12-2025,0,0,24654.33,26631.72,Yes,Yes,Delhi,Rear-ended while stopped at a junction.,1
+CLM00409,32,Third-Party Fire & Theft,0.7,12827.55,Vandalism,29-06-2023,08-07-2023,1,5,11065.66,12322.1,Yes,No,Kochi,Tree branch fell on the car during a storm.,0
+CLM00457,49,Third-Party Fire & Theft,7.8,9128.68,Natural Disaster,30-09-2025,26-10-2025,0,-2,9402.03,9350.98,Yes,Yes,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00451,47,Third-Party,3.1,16885.61,Windshield Damage,23-10-2023,25-10-2023,0,3,15867.69,17323.08,Yes,No,Coimbatore,Rear-ended while stopped at a junction.,0
+CLM00379,47,Third-Party,0.3,7947.1,Collision,03-03-2025,10-03-2025,0,0,5578.51,7592.85,Yes,No,Hyderabad,Tree branch fell on the car during a storm.,1
+CLM00603,27,Third-Party Fire & Theft,0.4,31069.66,Vandalism,05-11-2024,13-11-2024,1,5,31050.85,32392.97,Yes,Yes,Pune,Vehicle skidded and hit a divider on a wet road.,1
+CLM00645,36,Third-Party,5.6,63832.78,Natural Disaster,20-04-2023,27-04-2023,1,2,66375.08,65776.45,Yes,Yes,Chennai,Tree branch fell on the car during a storm.,0
+CLM00985,37,Third-Party Fire & Theft,0.5,58510.65,Collision,31-10-2025,15-11-2025,2,1,56781.55,61356.02,No,Yes,Kolkata,Car was damaged in heavy rain and flooding.,0
+CLM00024,51,Third-Party,5,113734.72,Fire,25-03-2024,27-03-2024,0,5,97895.2,110875.83,Yes,Yes,Jaipur,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00595,40,Third-Party,2.9,45572.17,Vandalism,05-03-2025,08-03-2025,0,7,39993.96,46046.96,Yes,Yes,Lucknow,Windshield cracked due to a stone hit on the highway.,0
+CLM00189,24,Third-Party,7.6,56395.17,Injury/Accident,14-09-2024,19-09-2024,1,1,55150.45,57573.7,Yes,No,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM01009,40,Third-Party,5.7,23081.19,Windshield Damage,27-08-2024,07-09-2024,0,0,19722.48,23127.48,No,,Hyderabad,Car was damaged in heavy rain and flooding.,0
+CLM00288,54,Third-Party,,34987.68,Injury/Accident,06-06-2024,15-06-2024,1,13,32521.49,35873.67,No,Yes,Delhi,,1
+CLM01044,51,Third-Party,2.4,28770.78,Fire,09-06-2023,17-06-2023,0,4,30651.73,28722.94,Yes,,Kolkata,Multiple prior claims for similar type of incident.,1
+CLM00008,31,Third-Party,3,8791.98,Collision,09-07-2023,10-07-2023,0,2,7827.32,8871.48,No,Yes,Mumbai,Incident location does not match customer's usual route.,1
+CLM00872,42,Third-Party Fire & Theft,2.5,30259.96,Natural Disaster,06-01-2024,06-01-2024,3,1,27388.84,29991.52,Yes,No,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00559,55,Third-Party Fire & Theft,4.8,2013.12,Collision,09-12-2025,09-12-2025,0,7,2000,2076.09,Yes,Yes,Surat,Claim filed for total loss shortly after policy purchase.,1
+CLM00681,55,Third-Party,1.6,33953.04,Collision,29-09-2023,16-10-2023,2,6,36117.69,32950.67,Yes,Yes,Jaipur,Rear-ended while stopped at a junction.,0
+CLM00216,33,Third-Party Fire & Theft,15.7,6975.46,Vandalism,07-12-2024,07-12-2024,1,0,5836.99,6835.63,Yes,Yes,Jaipur,Tree branch fell on the car during a storm.,0
+CLM00110,19,Third-Party,4.6,18679.41,Natural Disaster,30-05-2023,18-06-2023,1,1,17395.41,18710.2,No,Yes,Kolkata,Claim submitted just before policy renewal/expiry.,1
+CLM00220,35,Third-Party,12.6,6198.62,Vandalism,08-11-2023,30-11-2023,2,2,6166.49,6048.39,No,Yes,Chennai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00361,40,Third-Party Fire & Theft,3.8,38072.85,Windshield Damage,13-09-2023,13-09-2023,1,1,38845.87,39270.77,Yes,No,Mumbai,Multiple prior claims for similar type of incident.,1
+CLM01143,60,Third-Party Fire & Theft,2,73738.13,Fire,01-07-2024,04-07-2024,2,2,71563.72,72624.51,No,No,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM00204,37,Third-Party,6.1,55987.62,Injury/Accident,24-06-2025,25-06-2025,1,3,51453.74,57677.12,Yes,Yes,Bengaluru,Vehicle collided with another car at a traffic signal.,0
+CLM00570,66,Third-Party Fire & Theft,1,16042.18,Theft,07-04-2024,10-04-2024,2,5,14779.25,15511.97,No,Yes,Kochi,Multiple prior claims for similar type of incident.,1
+CLM00406,19,Third-Party,9.9,41905.98,Injury/Accident,02-07-2025,16-07-2025,3,1,37345.44,41177.87,Yes,Yes,Coimbatore,Rear-ended while stopped at a junction.,0
+CLM00028,31,Comprehensive,1.3,52805.95,Injury/Accident,23-08-2023,24-08-2023,1,0,50778.75,54566.03,No,No,Nagpur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00231,30,Third-Party,2.2,15177.41,Windshield Damage,25-04-2023,07-05-2023,1,3,13708.77,14980.54,Yes,Yes,Pune,Vehicle scratched while parked in a mall parking lot.,0
+CLM00658,31,Third-Party Fire & Theft,0.2,12659.01,Theft,28-02-2024,01-03-2024,0,5,12355.98,12320.37,Yes,Yes,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00053,33,Comprehensive,0.7,22825.51,Vandalism,20-07-2023,01-08-2023,1,8,20037.82,22965.29,Yes,Yes,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM00644,30,Third-Party,0.9,14736.09,Theft,19-01-2024,23-01-2024,3,12,16047,14728.68,Yes,Yes,Surat,Tree branch fell on the car during a storm.,0
+CLM00638,35,Comprehensive,2.2,26961.02,Fire,21-12-2024,23-12-2024,0,4,23991.19,26595.48,Yes,Yes,Coimbatore,Vehicle skidded and hit a divider on a wet road.,0
+CLM00281,32,Third-Party,8.1,5072.76,Collision,15-06-2023,15-06-2023,0,13,4267.6,4931.06,Yes,Yes,Coimbatore,Tree branch fell on the car during a storm.,0
+CLM00075,42,Third-Party Fire & Theft,1.7,22690.04,Windshield Damage,24-06-2024,03-07-2024,0,6,19289.96,21846.8,Yes,Yes,Hyderabad,Vehicle skidded and hit a divider on a wet road.,1
+CLM00980,45,Third-Party Fire & Theft,19.8,14677.8,Windshield Damage,06-06-2024,09-06-2024,1,2,14626.17,14660.06,Yes,Yes,Pune,Vehicle collided with another car at a traffic signal.,0
+CLM00047,61,Third-Party,6.2,47526.32,Windshield Damage,13-04-2025,21-04-2025,0,3,50233.34,48576.66,Yes,No,Mumbai,Rear-ended while stopped at a junction.,0
+CLM00197,37,Third-Party,4.6,27424.94,Vandalism,13-11-2024,13-11-2024,0,0,24463.39,28373.32,Yes,Yes,Kochi,Tree branch fell on the car during a storm.,1
+CLM00035,42,Third-Party,0.3,34830.74,Theft,29-04-2023,06-05-2023,4,4,28258.86,34539.52,No,Yes,Coimbatore,Rear-ended while stopped at a junction.,1
+CLM01094,42,Comprehensive,4.1,47118.77,Natural Disaster,01-02-2023,06-02-2023,1,11,45151.24,49238.45,Yes,Yes,Mumbai,Windshield cracked due to a stone hit on the highway.,0
+CLM00127,31,Comprehensive,4.7,93813.84,Fire,03-09-2024,19-10-2024,0,2,55175.99,92342.33,Yes,Yes,Surat,Minor collision while reversing out of a parking spot.,0
+CLM01008,43,Comprehensive,0.9,17118.56,Natural Disaster,26-03-2024,27-03-2024,3,11,17578.2,16609.95,No,No,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM00781,26,Comprehensive,3.3,54785.19,Natural Disaster,18-10-2023,18-10-2023,0,3,49718.66,52795.24,Yes,Yes,Surat,Windshield cracked due to a stone hit on the highway.,0
+CLM00065,43,Third-Party Fire & Theft,2,31911.16,Natural Disaster,06-12-2025,06-12-2025,0,5,33505.94,30705.44,no,Yes,Hyderabad,Tree branch fell on the car during a storm.,0
+CLM00354,18,Third-Party,2.4,57805.78,Fire,01-05-2024,08-05-2024,0,0,52651.42,57232.02,Yes,No,Coimbatore,Vehicle skidded and hit a divider on a wet road.,0
+CLM00912,46,Third-Party Fire & Theft,6,1965.38,Collision,27-07-2023,03-08-2023,0,2,2000,2052.54,No,Yes,Kochi,Vehicle scratched while parked in a mall parking lot.,0
+CLM01072,27,Comprehensive,2.2,81194.77,Injury/Accident,15-01-2023,08-02-2023,5,6,53413.38,78442.94,Yes,No,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00927,23,Third-Party,13.9,18658.35,Injury/Accident,05-10-2024,19-10-2024,0,5,18517.93,17773.83,Yes,Yes,Lucknow,Vehicle collided with another car at a traffic signal.,0
+CLM00575,63,Comprehensive,1,52457.44,Theft,08-03-2024,20-04-2024,1,0,36918.4,50621.52,No,No,Hyderabad,Vehicle skidded and hit a divider on a wet road.,1
+CLM00571,52,Comprehensive,7,21549.14,Injury/Accident,06-03-2023,06-03-2023,1,1,18364.73,20932.91,Yes,Yes,Kolkata,Windshield cracked due to a stone hit on the highway.,0
+CLM01022,57,Third-Party Fire & Theft,2.3,13499.57,Fire,09-10-2024,09-10-2024,0,5,13466.76,13635.72,No,Yes,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM00358,44,Third-Party,0.7,31768.94,Windshield Damage,21-02-2025,27-02-2025,1,2,29607.5,31381.75,Yes,Yes,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM00612,63,Third-Party,2.1,51622.12,Theft,12-09-2024,11-10-2024,0,5,49946.83,53738.94,Yes,No,Hyderabad,Rear-ended while stopped at a junction.,0
+CLM00063,18,Comprehensive,3.3,10504.69,Injury/Accident,26-04-2024,28-04-2024,0,0,9493.9,10601.44,Yes,Yes,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM00219,53,Third-Party,8,44842.8,Collision,13-10-2024,20-10-2024,0,14,40890.73,44049.42,Yes,Yes,Lucknow,Vehicle skidded and hit a divider on a wet road.,0
+CLM00710,51,Third-Party Fire & Theft,1.4,4290.06,Collision,25-09-2024,25-09-2024,2,0,4116.94,4141.92,No,No,Mumbai,Car was damaged in heavy rain and flooding.,0
+CLM00438,40,Third-Party Fire & Theft,2.7,9389.59,Vandalism,23-05-2024,23-05-2024,4,-1,9122.38,9084.29,Yes,Yes,Surat,Car was damaged in heavy rain and flooding.,0
+CLM00672,28,Third-Party,0,61473.67,Fire,25-09-2023,04-10-2023,0,6,46627.47,58710.89,Yes,No,,Claim submitted just before policy renewal/expiry.,1
+CLM00276,42,Third-Party,4,47982.84,Natural Disaster,21-08-2023,24-08-2023,2,2,44731.08,49741.52,No,Yes,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM01122,24,Third-Party Fire & Theft,1,27357.04,Fire,30-04-2024,23-07-2024,3,1,20170.49,27118.1,No,Yes,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00931,20,Third-Party Fire & Theft,,25804.88,Injury/Accident,27-02-2025,03-03-2025,2,6,24624.47,25566.84,Yes,Yes,Surat,Car was damaged in heavy rain and flooding.,0
+CLM00701,18,Comprehensive,8,4919.56,Collision,20-06-2024,24-06-2024,0,3,4266.93,4715.26,No,No,Chennai,Repair invoice submitted without an itemized breakdown.,1
+CLM00646,,Third-Party,0.6,63299.16,Theft,04-02-2024,07-02-2024,4,2,59189.92,62044.83,Yes,No,Jaipur,Incident location does not match customer's usual route.,1
+CLM01021,47,Third-Party,13.9,101888.62,Fire,18-09-2024,26-09-2024,4,1,91955.34,99823.17,Yes,Yes,Coimbatore,Car was damaged in heavy rain and flooding.,1
+CLM00850,41,Third-Party,2.4,24844.78,Natural Disaster,17-12-2024,17-12-2024,1,12,25834.21,25116.72,,Yes,Delhi,Tree branch fell on the car during a storm.,0
+CLM00236,56,Third-Party,0,70347.02,Vandalism,06-06-2024,08-07-2024,1,1,52892.24,73535.03,Yes,,Nagpur,Vehicle collided with another car at a traffic signal.,0
+CLM00690,49,Third-Party Fire & Theft,3,12944.91,Vandalism,20-03-2024,29-03-2024,2,8,14078.24,13622.45,Yes,Yes,Mumbai,Windshield cracked due to a stone hit on the highway.,0
+CLM00548,46,Third-Party Fire & Theft,4.7,13635.46,Injury/Accident,05-01-2025,21-01-2025,0,2,8569.69,13287.29,No,Yes,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM01006,48,Third-Party Fire & Theft,6.7,45286.56,Fire,27-06-2023,27-06-2023,1,5,41581.53,45795.83,Yes,Yes,Nagpur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00531,20,Third-Party,1,75783.26,Theft,03-12-2025,05-12-2025,1,1,78155.18,73315.32,Yes,No,Kolkata,Rear-ended while stopped at a junction.,0
+CLM00101,44,Comprehensive,3.5,39929.19,Theft,11-05-2025,11-05-2025,0,10,37770.25,41857.38,Yes,Yes,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM00765,32,Third-Party Fire & Theft,0.9,93855.95,Windshield Damage,09-02-2023,18-02-2023,0,1,82236.45,91954.65,Yes,Yes,Nagpur,Minor collision while reversing out of a parking spot.,0
+CLM00183,30,Third-Party,9.5,41631.53,Injury/Accident,20-08-2025,22-08-2025,1,1,43145.3,41025.11,Yes,No,Chennai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00333,50,Third-Party Fire & Theft,2,39702.13,Windshield Damage,04-07-2023,06-07-2023,0,0,37620.96,39620.73,Yes,No,Ahmedabad,Minor collision while reversing out of a parking spot.,0
+CLM00663,29,Comprehensive,0.4,71539.25,Theft,27-10-2023,01-11-2023,0,8,64383.13,72052.81,Yes,No,Surat,Tree branch fell on the car during a storm.,0
+CLM00826,59,Third-Party Fire & Theft,2.6,67845.32,Fire,16-10-2024,23-10-2024,5,2,68129.04,68861.5,Yes,Yes,Mumbai,Windshield cracked due to a stone hit on the highway.,0
+CLM00583,23,Third-Party Fire & Theft,0.3,25911.71,Windshield Damage,23-03-2025,23-03-2025,0,1,24690.55,27108.45,Yes,Yes,Chennai,,1
+CLM00907,22,Third-Party,0.8,15532.38,Windshield Damage,07-12-2025,17-12-2025,4,7,12889.26,15634.03,Yes,Yes,Pune,Rear-ended while stopped at a junction.,0
+CLM00731,28,Third-Party,3.9,27934.48,Collision,22-04-2024,28-04-2024,1,0,24852.07,26927.13,Yes,Yes,Kochi,Tree branch fell on the car during a storm.,0
+CLM00259,30,Third-Party,0.7,20890.59,Collision,14-10-2023,14-10-2023,0,3,18540.55,21526.82,Yes,Yes,Chennai,Vehicle collided with another car at a traffic signal.,0
+CLM00139,49,Comprehensive,6.2,55311.02,Windshield Damage,11-02-2023,14-02-2023,0,3,52495.47,54773.01,Yes,No,Bengaluru,Car was damaged in heavy rain and flooding.,0
+CLM01075,41,Third-Party Fire & Theft,,85834.05,Fire,19-06-2024,05-07-2024,0,5,73062.57,88048.02,No,No,Coimbatore,Incident location does not match customer's usual route.,1
+CLM00979,24,Third-Party,0.5,27336.32,Natural Disaster,25-06-2024,29-06-2024,0,0,26498.96,28552.31,Yes,Yes,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM00530,30,Third-Party,1.7,43857.78,Theft,15-10-2024,18-10-2024,1,6,47335.51,44900.03,Yes,No,Bengaluru,Tree branch fell on the car during a storm.,0
+CLM00492,39,Third-Party,1.9,46648.89,Injury/Accident,17-01-2024,22-01-2024,1,12,44386.4,46116.01,Yes,Yes,Lucknow,Vehicle collided with another car at a traffic signal.,0
+CLM00589,62,Third-Party,14.9,80548.31,Fire,08-01-2025,09-01-2025,0,10,57786.08,80464.69,Yes,No,Mumbai,Windshield cracked due to a stone hit on the highway.,1
+CLM01106,62,Third-Party,0.5,22647.1,Collision,28-03-2025,07-04-2025,1,2,21152.8,22089.3,Yes,Yes,Mumbai,Tree branch fell on the car during a storm.,0
+CLM00582,34,Comprehensive,11,17308.23,Vandalism,20-04-2024,22-04-2024,0,3,17484.26,17631.44,Yes,Yes,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00041,59,Third-Party,1,55324.07,Collision,22-05-2024,24-05-2024,0,0,50118,56176.52,Yes,No,Mumbai,Rear-ended while stopped at a junction.,0
+CLM00973,25,Third-Party,0.8,21198.38,Vandalism,02-10-2024,02-10-2024,2,12,20891.14,21589.47,No,,Chennai,Vehicle collided with another car at a traffic signal.,0
+CLM00882,18,Third-Party,0.8,25922.21,Injury/Accident,29-12-2023,30-12-2023,2,1,24006.62,25426.48,Yes,No,Kochi,Tree branch fell on the car during a storm.,0
+CLM00073,44,Comprehensive,6.6,44582.03,Collision,15-11-2023,19-11-2023,1,5,42469.92,46053.08,Yes,No,Hyderabad,Multiple prior claims for similar type of incident.,1
+CLM00429,36,Third-Party Fire & Theft,2.2,43149.28,Natural Disaster,16-08-2024,16-08-2024,3,9,41772.99,42624.41,Yes,No,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM01159,48,Third-Party,0.3,30070.94,Collision,01-01-2023,02-01-2023,1,4,,30543.89,Yes,Yes,Pune,Car was damaged in heavy rain and flooding.,0
+CLM00543,43,Third-Party Fire & Theft,2.7,40162.24,Injury/Accident,20-03-2024,20-03-2024,0,4,37004.53,42026.83,Yes,Yes,Bengaluru,Vehicle skidded and hit a divider on a wet road.,0
+CLM00085,43,Comprehensive,13.2,93515.19,Injury/Accident,11-11-2024,05-01-2025,1,2,74366.08,95414.28,Yes,,Nagpur,Minor collision while reversing out of a parking spot.,0
+CLM00033,31,Comprehensive,0.3,67641.46,Natural Disaster,22-12-2025,22-12-2025,1,7,66146.6,67854.11,Yes,Yes,Coimbatore,Claim filed for total loss shortly after policy purchase.,1
+CLM00309,42,Third-Party,12.7,39729.97,Injury/Accident,23-09-2025,23-09-2025,1,3,41480.97,39319.63,No,Yes,Chennai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00877,24,Comprehensive,0.7,46497.26,Vandalism,20-04-2023,22-04-2023,0,8,47033.4,47519.89,No,No,Ahmedabad,Windshield cracked due to a stone hit on the highway.,1
+CLM00501,33,Third-Party Fire & Theft,4.2,70475.69,Natural Disaster,28-09-2024,28-09-2024,4,0,64988.2,67907.09,Yes,No,Kochi,Windshield cracked due to a stone hit on the highway.,0
+CLM00581,38,Third-Party Fire & Theft,6.5,8765.88,Injury/Accident,10-06-2023,10-06-2023,0,3,8141.69,9136.1,Yes,Yes,Chennai,Tree branch fell on the car during a storm.,0
+CLM00192,53,Third-Party,5.9,20069.92,Collision,07-07-2023,05-08-2023,4,3,15636.44,20551.69,no,No,Kochi,Rear-ended while stopped at a junction.,0
+CLM00958,54,Third-Party Fire & Theft,7.1,29266.41,Injury/Accident,23-05-2024,26-05-2024,1,1,31804.83,29381.99,Yes,Yes,Kolkata,Vehicle scratched while parked in a mall parking lot.,0
+CLM01083,39,Third-Party,1,35127.45,Injury/Accident,11-01-2023,27-01-2023,1,2,34231.17,36892.23,Yes,No,Surat,Windshield cracked due to a stone hit on the highway.,0
+CLM00431,36,Comprehensive,6.7,31884.19,Injury/Accident,03-05-2023,07-05-2023,1,13,29045.06,31974.03,Yes,No,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM00369,25,Third-Party Fire & Theft,11.1,76831.69,Vandalism,07-07-2025,22-07-2025,0,1,68366.36,75041.6,Yes,,Mumbai,Vehicle collided with another car at a traffic signal.,0
+CLM00278,38,Third-Party Fire & Theft,5.2,39091.29,Theft,30-03-2023,22-03-2023,1,2,37509.85,37264.11,Yes,No,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM01194,25,Comprehensive,2.3,15799.5,Injury/Accident,08-08-2023,09-08-2023,1,2,13228,15190.17,Yes,No,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM00897,18,Third-Party,2,5048.38,Injury/Accident,18-03-2023,18-03-2023,0,0,4934.55,5028.65,No,Yes,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM00981,44,Third-Party,0.6,10416.45,Injury/Accident,14-11-2023,09-12-2023,1,6,10257.56,10854.71,Yes,No,Delhi,Vehicle collided with another car at a traffic signal.,1
+CLM00071,47,Comprehensive,0.2,7426,Vandalism,11-09-2024,11-09-2024,1,3,6979.93,7429.35,Yes,Yes,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM01013,50,Comprehensive,0.7,23776.56,Injury/Accident,05-12-2024,06-12-2024,0,5,25974.29,24500.69,Yes,Yes,Kolkata,Rear-ended while stopped at a junction.,0
+CLM00987,37,Comprehensive,0.8,42225.91,Theft,10-11-2024,10-11-2024,0,0,35208.61,40290.66,Yes,Yes,Pune,Tree branch fell on the car during a storm.,0
+CLM00818,30,Third-Party,0.3,47939.18,Windshield Damage,27-04-2025,27-04-2025,2,4,40589.2,46067.66,Yes,Yes,Jaipur,Rear-ended while stopped at a junction.,0
+CLM01155,37,Third-Party Fire & Theft,0.9,37208.04,Natural Disaster,29-12-2023,04-01-2024,2,0,34405.95,36669.51,No,Yes,Kochi,Vehicle skidded and hit a divider on a wet road.,0
+CLM01105,45,Third-Party,4.9,4500.37,Natural Disaster,20-01-2023,29-01-2023,0,22,4455.86,4581.02,Yes,No,Bengaluru,Vehicle scratched while parked in a mall parking lot.,0
+CLM00820,47,Third-Party Fire & Theft,3.7,62480.23,Windshield Damage,30-08-2025,06-10-2025,3,4,53723.58,60252.29,No,,Ahmedabad,Repair invoice submitted without an itemized breakdown.,1
+CLM00523,18,Comprehensive,4.9,2287.41,Theft,01-08-2025,05-08-2025,0,14,2000,2181.62,No,Yes,Delhi,Tree branch fell on the car during a storm.,0
+CLM00862,37,Comprehensive,0.1,32282.42,Vandalism,11-05-2023,11-05-2023,0,0,,32959.86,Yes,Yes,Hyderabad,Tree branch fell on the car during a storm.,0
+CLM00133,37,Third-Party,5.6,38169.28,Theft,03-08-2025,09-08-2025,2,3,34199.6,36404.85,No,Yes,Chennai,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00223,45,Third-Party Fire & Theft,3.8,15950.67,Theft,19-04-2025,24-04-2025,2,6,15089.49,15889.76,Yes,Yes,Mumbai,Car was damaged in heavy rain and flooding.,0
+CLM00926,48,Comprehensive,3.9,31217.36,Vandalism,21-06-2025,22-06-2025,1,8,29281.4,30599.67,Yes,Yes,Mumbai,Vehicle collided with another car at a traffic signal.,0
+CLM00268,47,Third-Party Fire & Theft,6.9,33853.8,Theft,13-02-2023,15-02-2023,1,4,32297.76,33595.59,Yes,Yes,Nagpur,Vehicle collided with another car at a traffic signal.,0
+CLM00959,28,Third-Party,7.2,26107.82,Fire,16-07-2025,20-07-2025,1,1,23415.76,25202.15,Yes,Yes,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM00082,42,Comprehensive,7,6805.63,Injury/Accident,26-05-2024,01-06-2024,1,2,6048.85,6575.12,No,No,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00755,45,Comprehensive,2.3,27529.61,Collision,13-05-2023,26-05-2023,2,7,25666.68,28338.8,Yes,,Kochi,Rear-ended while stopped at a junction.,0
+CLM00594,53,Third-Party Fire & Theft,0.2,37206.51,Windshield Damage,26-10-2024,27-10-2024,1,9,38605,38521.89,No,Yes,Chennai,Incident location does not match customer's usual route.,1
+CLM00116,44,Third-Party,3.3,28995.06,Injury/Accident,23-12-2025,30-12-2025,1,6,30023.17,29888.94,Yes,Yes,Nagpur,Tree branch fell on the car during a storm.,0
+CLM00813,18,Third-Party Fire & Theft,9.4,16160.79,Natural Disaster,04-03-2025,06-03-2025,0,10,16102.21,16775.79,Yes,Yes,Pune,Car was damaged in heavy rain and flooding.,0
+CLM00408,33,Comprehensive,4.3,61169.48,Windshield Damage,01-06-2023,02-06-2023,1,3,56292.44,58867.9,Yes,No,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00879,60,Third-Party,4.4,56818.17,Vandalism,21-04-2023,22-04-2023,2,10,60578.63,55466.25,Yes,Yes,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM00209,58,Comprehensive,1.4,28843.19,Vandalism,29-08-2023,14-09-2023,2,6,28688.59,27928.51,Yes,No,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM00345,57,Third-Party Fire & Theft,1.7,19825.95,Injury/Accident,13-03-2025,27-03-2025,0,4,17935.94,19233.06,Yes,Yes,Coimbatore,Car was damaged in heavy rain and flooding.,0
+CLM00330,50,Third-Party,1.2,58136.36,Windshield Damage,16-07-2024,19-07-2024,0,10,58839.91,60131.04,No,,Pune,Vehicle collided with another car at a traffic signal.,0
+CLM01055,37,Third-Party,2.8,58645.82,Theft,24-11-2025,02-12-2025,0,0,,60973.01,No,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM00015,56,Third-Party,9.1,13938.55,Injury/Accident,17-01-2025,18-01-2025,2,10,13723.37,14657.97,Yes,,Pune,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00837,53,Third-Party,8.2,103802.59,Fire,28-07-2024,26-10-2024,1,10,88813.69,107202.03,No,Yes,Surat,Claim submitted just before policy renewal/expiry.,1
+CLM00481,36,Third-Party Fire & Theft,1.3,22878.44,Windshield Damage,09-10-2023,21-10-2023,3,7,22275.5,22062.09,Yes,Yes,Jaipur,Vehicle collided with another car at a traffic signal.,0
+CLM00604,38,Third-Party,11.2,9806.28,Windshield Damage,06-10-2023,08-10-2023,4,1,9397.83,10026.22,No,Yes,Pune,Vehicle scratched while parked in a mall parking lot.,0
+CLM00715,41,Comprehensive,1,20395.91,Fire,07-06-2023,11-06-2023,1,0,19073.83,20804.25,No,Yes,Ahmedabad,Claim submitted just before policy renewal/expiry.,1
+CLM00722,34,Third-Party,3.8,4565.43,Theft,02-05-2025,06-05-2025,0,3,4862.66,4735.96,Yes,Yes,Hyderabad,,0
+CLM00974,27,Third-Party Fire & Theft,1.1,14422.43,Fire,20-02-2024,21-02-2024,1,1,14100.07,14448.9,Yes,No,Surat,Vehicle skidded and hit a divider on a wet road.,0
+CLM00535,55,Third-Party,1.3,43289.47,Vandalism,02-11-2023,06-11-2023,2,1,37104.49,43927.09,Yes,Yes,Kolkata,Vehicle scratched while parked in a mall parking lot.,0
+CLM01161,57,Third-Party,0.9,54454.66,Windshield Damage,04-09-2025,08-09-2025,3,3,58252.43,54991.07,No,No,Chennai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00946,34,Third-Party,1.2,50061.15,Fire,20-08-2024,25-08-2024,0,2,45287.39,48544.6,Yes,No,Lucknow,Tree branch fell on the car during a storm.,0
+CLM00977,27,Third-Party Fire & Theft,1.2,30765.66,Collision,18-01-2024,31-01-2024,2,4,29732.79,32345.32,No,Yes,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM00513,32,Third-Party,1.9,7786.84,Windshield Damage,07-01-2023,11-01-2023,1,7,7186.02,7735.98,Yes,No,Coimbatore,Rear-ended while stopped at a junction.,0
+CLM00007,33,Third-Party,1.5,26973.56,Fire,23-07-2024,26-07-2024,2,1,24364.87,26288.01,Yes,No,Bengaluru,Car was damaged in heavy rain and flooding.,0
+CLM01090,28,Comprehensive,3.3,61834.37,Windshield Damage,11-11-2025,14-11-2025,0,10,56260.04,62739.78,Yes,No,Coimbatore,Rear-ended while stopped at a junction.,0
+CLM01199,38,Third-Party Fire & Theft,0.2,13323.32,Theft,13-12-2024,20-12-2024,1,0,14247.84,13972.03,Yes,Yes,Lucknow,Customer requested cash settlement instead of repair.,1
+CLM00368,36,Comprehensive,0.1,30948.66,Fire,25-08-2025,08-09-2025,0,0,29661.17,31299.3,No,Yes,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM00510,18,Third-Party,5,5821.51,Windshield Damage,24-04-2023,07-05-2023,3,0,5741.85,5893.2,Yes,Yes,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00867,22,Comprehensive,2.3,22170.88,Injury/Accident,15-10-2025,16-10-2025,1,3,22323.39,22203.62,No,Yes,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM01036,51,Third-Party Fire & Theft,0.5,9071.85,Theft,02-07-2025,07-07-2025,2,10,9126.94,9155.17,Yes,No,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM00376,33,Third-Party,2.7,25136.15,Theft,03-05-2025,28-05-2025,3,0,21544.51,26349.93,No,Yes,Kochi,Car was damaged in heavy rain and flooding.,0
+CLM00572,41,Third-Party,15.6,29423.03,Vandalism,01-09-2025,01-09-2025,0,1,27085.4,28128.38,Yes,No,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM00027,38,Third-Party,13,42979.45,Natural Disaster,16-08-2025,16-08-2025,0,11,41870.3,44905.03,Yes,No,Jaipur,Vehicle scratched while parked in a mall parking lot.,1
+CLM00978,36,Third-Party Fire & Theft,1.3,16924.74,Collision,11-02-2025,18-02-2025,0,1,12397.18,17351.14,No,No,Kolkata,Vehicle collided with another car at a traffic signal.,0
+CLM01147,28,Comprehensive,5,37503.61,Vandalism,30-07-2023,01-08-2023,2,19,35880.67,35904.57,Yes,No,Mumbai,Windshield cracked due to a stone hit on the highway.,1
+CLM01082,50,Third-Party,5,46532.82,Windshield Damage,24-11-2024,03-12-2024,0,22,39963.43,44741.48,Yes,No,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM01030,24,Third-Party Fire & Theft,1.3,33238.61,Injury/Accident,05-03-2023,10-03-2023,0,2,36537.86,34528.5,No,No,Nagpur,Minor collision while reversing out of a parking spot.,0
+CLM00482,35,Comprehensive,1.4,20614.83,Vandalism,01-09-2025,08-09-2025,1,6,22737.37,19870.2,No,No,,Vehicle skidded and hit a divider on a wet road.,0
+CLM01152,20,Comprehensive,6.6,22651.46,Theft,14-12-2025,15-12-2025,0,3,20755.41,21963.88,No,Yes,Chennai,Car was damaged in heavy rain and flooding.,0
+CLM00794,51,Comprehensive,4.1,37332.64,Fire,09-06-2024,19-06-2024,0,4,39972.3,37989.51,Yes,No,Lucknow,,0
+CLM00759,,Comprehensive,0.3,15245.09,Vandalism,23-05-2025,12-06-2025,0,15,12968.62,15444.77,Yes,Yes,Pune,Car was damaged in heavy rain and flooding.,1
+CLM00152,58,Third-Party,4,10540.3,Windshield Damage,03-07-2024,07-07-2024,3,0,10017.74,10314.06,No,Yes,Surat,Tree branch fell on the car during a storm.,0
+CLM00892,40,Third-Party,2,17964.71,Injury/Accident,01-12-2025,11-12-2025,2,0,18624.05,18504.05,No,No,,Tree branch fell on the car during a storm.,0
+CLM00233,,Third-Party,3.3,40606.32,Natural Disaster,04-01-2024,15-01-2024,1,4,34154.11,40666.94,Yes,No,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM01127,34,Third-Party,1.8,63935.81,Windshield Damage,27-04-2024,07-05-2024,0,0,,66099.64,No,Yes,Surat,Incident location does not match customer's usual route.,1
+CLM00968,18,Third-Party,9.1,20475.18,Windshield Damage,26-11-2023,28-11-2023,0,9,19668.52,20738.01,No,Yes,Kochi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00029,18,Third-Party Fire & Theft,6,10260.76,Fire,17-08-2023,12-08-2023,4,2,9695.31,9863.69,Yes,No,Kolkata,Vehicle scratched while parked in a mall parking lot.,0
+CLM00595,40,Third-Party,2.9,45572.17,Vandalism,05-03-2025,08-03-2025,0,7,39993.96,46046.96,Yes,Yes,Lucknow,Windshield cracked due to a stone hit on the highway.,0
+CLM00549,35,Third-Party,0.3,7119.68,Natural Disaster,15-10-2025,09-11-2025,0,15,6750.17,7490.18,,No,Mumbai,Claim submitted just before policy renewal/expiry.,1
+CLM00142,33,Third-Party Fire & Theft,2.7,19200.56,Injury/Accident,23-08-2023,31-08-2023,2,2,17382.82,18903.85,No,Yes,Hyderabad,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00289,30,Third-Party Fire & Theft,4.5,59822.35,Vandalism,18-05-2023,23-05-2023,0,9,50840.44,60249.75,Yes,No,Surat,Windshield cracked due to a stone hit on the highway.,0
+CLM00694,30,Third-Party Fire & Theft,1.3,50659.65,Collision,09-09-2024,24-09-2024,5,1,45039.86,49371.59,No,Yes,Jaipur,Rear-ended while stopped at a junction.,0
+CLM00495,48,Third-Party,4.5,2804.57,Collision,31-03-2025,18-04-2025,4,6,3099.07,2913.4,No,Yes,Delhi,Windshield cracked due to a stone hit on the highway.,0
+CLM00760,37,Comprehensive,0.4,106946.22,Theft,17-07-2024,19-07-2024,1,4,94122.41,102437.18,No,No,Ahmedabad,Multiple prior claims for similar type of incident.,1
+CLM00601,27,Third-Party Fire & Theft,4.5,47550.65,Vandalism,05-02-2024,07-02-2024,1,0,43592.29,45473.36,Yes,No,Mumbai,Vehicle skidded and hit a divider on a wet road.,0
+CLM01067,32,Third-Party,1.7,28127.71,Fire,30-03-2023,01-04-2023,0,0,28619.62,29299.26,No,Yes,Bengaluru,Minor collision while reversing out of a parking spot.,0
+CLM00454,46,Third-Party,9.7,26053.48,Theft,21-11-2025,11-12-2025,0,1,24307.92,25975.42,Yes,Yes,Pune,Car was damaged in heavy rain and flooding.,0
+CLM00597,18,Third-Party,0.4,52353.39,Theft,12-10-2023,23-10-2023,2,15,44424.29,50066.19,Yes,No,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00905,45,Comprehensive,2.2,44325.73,Natural Disaster,30-08-2023,06-09-2023,2,4,46938.71,44881.6,Yes,Yes,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00079,31,Comprehensive,6,21461.92,Injury/Accident,02-11-2023,17-11-2023,0,2,18089.19,21049.31,Yes,,Surat,Vehicle collided with another car at a traffic signal.,0
+CLM00540,43,Comprehensive,3.1,38355.04,Vandalism,29-01-2025,08-02-2025,0,5,31530.3,37511.36,No,Yes,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00954,20,Comprehensive,1.6,42555.55,Natural Disaster,10-04-2023,13-04-2023,0,3,41333.33,44757.15,Yes,Yes,Surat,Minor collision while reversing out of a parking spot.,0
+CLM00656,18,Comprehensive,9.2,33353.73,Vandalism,29-08-2023,06-09-2023,0,13,33123.65,31984.98,Yes,No,Bengaluru,Rear-ended while stopped at a junction.,0
+CLM00016,51,Third-Party,3.2,45370.05,Theft,30-06-2024,08-07-2024,1,5,45911.38,44701.17,No,No,Coimbatore,Windshield cracked due to a stone hit on the highway.,0
+CLM00477,57,Third-Party Fire & Theft,10.6,37789.32,Fire,10-07-2024,15-07-2024,1,3,24675.06,36486.64,No,No,Mumbai,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00782,46,Third-Party Fire & Theft,4.5,40509.51,Windshield Damage,17-01-2025,24-01-2025,0,16,39820.2,42453.87,No,Yes,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00284,18,Third-Party Fire & Theft,2,16512.17,Fire,18-07-2025,26-07-2025,0,3,16312.81,16904.05,Yes,Yes,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM00998,40,Third-Party Fire & Theft,12.5,23025.24,Theft,18-02-2023,25-02-2023,0,2,20865.17,22598.43,No,No,Lucknow,Vehicle skidded and hit a divider on a wet road.,0
+CLM00665,24,Third-Party Fire & Theft,3.1,44152.52,Injury/Accident,04-07-2024,04-07-2024,2,9,41446.38,44835.19,No,Yes,Kolkata,Minor collision while reversing out of a parking spot.,1
+CLM00881,150,Third-Party,4.5,7768.66,Windshield Damage,05-01-2024,05-01-2024,1,8,6802,7479.55,Yes,Yes,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM01190,35,Comprehensive,4.6,32012.06,Collision,28-03-2023,28-03-2023,3,5,31559.74,31942.19,No,Yes,Lucknow,Vehicle skidded and hit a divider on a wet road.,0
+CLM00639,56,Comprehensive,1.9,7536.53,Windshield Damage,01-09-2024,04-09-2024,2,14,7040.12,7693.43,Yes,Yes,Kochi,Windshield cracked due to a stone hit on the highway.,0
+CLM00286,49,Comprehensive,7,11887.85,Vandalism,25-11-2024,03-12-2024,2,5,10469.63,12166.91,Yes,No,Kolkata,Vehicle skidded and hit a divider on a wet road.,0
+CLM01080,30,Third-Party Fire & Theft,4.1,13443.05,Collision,15-04-2024,16-04-2024,2,5,10665.6,13288.13,Yes,Yes,Nagpur,Claim submitted just before policy renewal/expiry.,1
+CLM00038,59,Third-Party,1.9,34321.95,Natural Disaster,05-12-2023,16-12-2023,5,8,34502.51,33198.74,Yes,Yes,Jaipur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00553,21,Comprehensive,1.9,44261.32,Theft,06-11-2024,07-11-2024,2,0,48589.3,46464.96,Yes,No,Kolkata,Rear-ended while stopped at a junction.,0
+CLM00669,28,Third-Party,2.7,35285.87,Injury/Accident,03-01-2025,06-01-2025,1,0,39900.59,36256.55,Yes,Yes,Nagpur,Windshield cracked due to a stone hit on the highway.,0
+CLM00516,26,Comprehensive,0.7,24536.09,Fire,17-04-2025,21-04-2025,3,8,23771.51,25690.88,Yes,No,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM00909,46,Third-Party Fire & Theft,0.6,14144.81,Vandalism,01-03-2024,03-03-2024,0,4,13872.49,14262.44,Yes,No,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM01114,30,Third-Party Fire & Theft,5,90902.62,Fire,05-10-2025,07-10-2025,1,12,71825.67,95306.58,No,Yes,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,1
+CLM00135,44,Third-Party,5.7,56838.43,Fire,15-02-2025,22-02-2025,1,0,50797.91,58571.95,Yes,No,Nagpur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00106,47,Third-Party Fire & Theft,0.5,10235.95,Theft,23-06-2023,25-06-2023,0,3,11006.4,10288.74,Yes,Yes,Jaipur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00660,27,Third-Party Fire & Theft,1.4,65011.94,Theft,24-10-2024,10-11-2024,0,3,61995,62835.82,Yes,No,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00702,32,Comprehensive,2.9,16534.15,Windshield Damage,26-03-2025,26-03-2025,0,1,14131.66,16444.03,Yes,,Kochi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00126,47,Third-Party Fire & Theft,0.4,58046.16,Injury/Accident,10-02-2023,13-02-2023,0,3,59413.29,58282.51,No,No,Ahmedabad,,0
+CLM01142,46,Comprehensive,8.7,5468.26,Fire,12-04-2024,14-04-2024,1,18,5216.68,5715.64,Yes,Yes,Pune,Tree branch fell on the car during a storm.,0
+CLM00464,40,Third-Party,,23853.6,Injury/Accident,22-02-2024,06-03-2024,2,1,20163.66,22878.53,Yes,Yes,Jaipur,Minor collision while reversing out of a parking spot.,0
+CLM00693,32,Third-Party Fire & Theft,4.6,11357.46,Collision,23-05-2024,25-05-2024,0,0,10624.57,11910.04,No,Yes,Nagpur,Multiple prior claims for similar type of incident.,1
+CLM01048,46,Third-Party Fire & Theft,2.7,10594.67,Injury/Accident,29-07-2024,29-07-2024,0,3,8676.34,10571.31,Yes,Yes,Delhi,Rear-ended while stopped at a junction.,0
+CLM00631,57,Third-Party Fire & Theft,0.5,9242.45,Vandalism,21-03-2025,21-03-2025,0,0,9359.8,9412.2,No,No,Lucknow,Vehicle collided with another car at a traffic signal.,0
+CLM00385,46,Comprehensive,5.3,6044.41,Collision,13-02-2024,15-02-2024,0,0,6548.61,6236.33,Yes,,Pune,Vehicle collided with another car at a traffic signal.,0
+CLM00758,43,Comprehensive,5.9,17497.56,Natural Disaster,06-06-2025,07-06-2025,1,10,17441.54,17101.41,Yes,Yes,Ahmedabad,Minor collision while reversing out of a parking spot.,0
+CLM00162,52,Third-Party Fire & Theft,1.1,20265.6,Natural Disaster,25-01-2025,30-01-2025,0,3,23063.83,19783.68,Yes,No,Jaipur,Claim submitted just before policy renewal/expiry.,1
+CLM00560,32,Comprehensive,1.8,13771.57,Windshield Damage,10-04-2023,23-04-2023,2,0,10996.85,13563,Yes,,Kolkata,Claim filed for total loss shortly after policy purchase.,1
+CLM00790,24,Third-Party Fire & Theft,2,16850.13,Fire,28-03-2024,01-04-2024,3,2,15481.19,17439.17,Yes,No,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00200,27,Third-Party Fire & Theft,3.3,44344.15,Collision,20-07-2025,28-07-2025,1,7,38840.15,45149.3,Yes,No,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00533,18,Third-Party Fire & Theft,4.5,24067.98,Vandalism,12-10-2025,12-10-2025,4,2,26042.15,23901.9,No,Yes,Pune,Vehicle collided with another car at a traffic signal.,1
+CLM00788,18,Third-Party Fire & Theft,18.2,25639.95,Injury/Accident,26-08-2024,26-09-2024,3,1,16591.48,25557.32,No,No,Delhi,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00374,18,Third-Party,2.6,52873.16,Natural Disaster,03-02-2023,07-02-2023,1,0,53589.26,55337.85,No,Yes,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00442,30,Third-Party Fire & Theft,,34022.11,Vandalism,08-05-2024,12-05-2024,0,1,33542.59,34537.72,No,No,Coimbatore,Repair invoice submitted without an itemized breakdown.,1
+CLM00120,38,Third-Party Fire & Theft,2.1,31075.42,Vandalism,04-05-2024,04-05-2024,1,0,28581.52,29989.75,No,Yes,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00490,18,Third-Party Fire & Theft,0.6,20752.4,Vandalism,12-07-2024,12-07-2024,1,3,24644.48,21132.66,Yes,Yes,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00598,18,Third-Party,0.9,79918.09,Vandalism,26-10-2023,29-10-2023,0,0,86937.47,83701.76,No,Yes,Delhi,Windshield cracked due to a stone hit on the highway.,0
+CLM00081,48,Comprehensive,0.4,96784.84,Fire,16-01-2025,20-01-2025,0,2,92704.59,93501.02,Yes,Yes,Pune,Vehicle collided with another car at a traffic signal.,0
+CLM00743,18,Third-Party Fire & Theft,6.4,11662.41,Collision,15-11-2023,15-11-2023,1,3,11806.46,11906.92,Yes,,Delhi,Windshield cracked due to a stone hit on the highway.,0
+CLM00686,,Third-Party,1.9,19911.59,Fire,08-10-2023,09-10-2023,2,5,20717.43,20423.62,Yes,Yes,Nagpur,Minor collision while reversing out of a parking spot.,0
+CLM01125,25,Third-Party,1.2,16136.63,Fire,12-07-2025,12-07-2025,0,1,15498.87,15466.89,No,No,Coimbatore,Car was damaged in heavy rain and flooding.,1
+CLM00792,36,Third-Party,4.5,42173.83,Theft,01-07-2023,01-07-2023,0,1,39461.02,43439.01,Yes,Yes,Ahmedabad,Tree branch fell on the car during a storm.,0
+CLM00375,54,Comprehensive,1.5,25660.54,Fire,29-05-2025,01-06-2025,0,1,26039.5,26097.07,No,Yes,Coimbatore,Vehicle collided with another car at a traffic signal.,0
+CLM00212,51,Comprehensive,3.2,45468.55,Vandalism,26-01-2024,06-02-2024,0,17,41519.88,45230.16,Yes,Yes,Surat,Car was damaged in heavy rain and flooding.,0
+CLM00573,37,Comprehensive,1.6,112581.03,Injury/Accident,17-12-2023,18-12-2023,1,1,96409.73,107571.91,Yes,Yes,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00770,42,Third-Party Fire & Theft,8.1,38468.45,Theft,23-11-2023,23-11-2023,0,1,33835.54,38464.72,Yes,,Bengaluru,Windshield cracked due to a stone hit on the highway.,0
+CLM00202,18,Third-Party Fire & Theft,6.2,55319.38,Windshield Damage,03-01-2023,04-01-2023,1,1,54139.17,56907.95,Yes,Yes,Kolkata,Vehicle skidded and hit a divider on a wet road.,0
+CLM00119,45,Third-Party,10.1,156765.72,Windshield Damage,21-05-2024,13-07-2024,5,3,116466.81,158659.75,No,No,Nagpur,Multiple prior claims for similar type of incident.,1
+CLM00786,18,Third-Party Fire & Theft,0.2,6461.92,Natural Disaster,31-12-2024,02-02-2025,1,1,6580.24,6573.98,Yes,No,Kochi,Rear-ended while stopped at a junction.,0
+CLM00798,53,Third-Party,2.2,3106.39,Windshield Damage,06-04-2024,10-04-2024,2,1,2979.66,3040.15,No,No,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM01164,43,Third-Party Fire & Theft,9.5,49299.68,Vandalism,19-03-2025,18-04-2025,2,2,33236.87,50585.55,Yes,Yes,Delhi,,0
+CLM00970,45,Third-Party Fire & Theft,0.4,16761.05,Collision,04-01-2025,03-03-2025,0,14,11175.11,16762.05,No,No,Mumbai,Claim submitted just before policy renewal/expiry.,1
+CLM00378,48,Third-Party Fire & Theft,13.1,28653.66,Natural Disaster,05-11-2025,05-11-2025,1,3,31909.79,29301.19,Yes,No,Kolkata,Claim filed for total loss shortly after policy purchase.,1
+CLM00616,18,Third-Party,2.1,113370.41,Injury/Accident,24-06-2023,25-06-2023,1,0,91879.95,109953.81,No,Yes,Nagpur,Windshield cracked due to a stone hit on the highway.,0
+CLM01056,59,Third-Party Fire & Theft,2.9,32679.48,Injury/Accident,08-02-2023,24-02-2023,3,6,29421.21,32817.58,Yes,Yes,Mumbai,Multiple prior claims for similar type of incident.,1
+CLM00579,,Comprehensive,4.1,24674.28,Natural Disaster,07-05-2024,17-05-2024,4,2,23489.46,25693.95,No,No,Kochi,Minor collision while reversing out of a parking spot.,1
+CLM00542,31,Third-Party,1.1,59190.59,Injury/Accident,22-03-2023,29-03-2023,0,2,57117.6,59111.18,Yes,No,Bengaluru,Windshield cracked due to a stone hit on the highway.,0
+CLM00128,32,Third-Party,0.7,23844.39,Natural Disaster,27-03-2024,27-03-2024,1,6,23564.53,24912.5,Yes,No,Bengaluru,Vehicle skidded and hit a divider on a wet road.,0
+CLM00629,47,Third-Party Fire & Theft,2.3,19614.79,Vandalism,04-08-2025,04-08-2025,3,0,19274.64,20191.72,Yes,Yes,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00854,53,Third-Party Fire & Theft,3.1,34383.82,Vandalism,17-11-2025,22-11-2025,3,1,30566.02,34545.15,Yes,Yes,Surat,Vehicle collided with another car at a traffic signal.,0
+CLM00801,30,Comprehensive,4.9,4070.41,Vandalism,26-11-2023,26-11-2023,0,4,4032,4226,Yes,Yes,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00400,33,Comprehensive,,7148.12,Theft,20-01-2025,20-01-2025,0,10,7030.57,7262.58,Yes,Yes,Kolkata,Tree branch fell on the car during a storm.,0
+CLM00175,46,Third-Party Fire & Theft,3.9,65803.72,Injury/Accident,20-04-2023,23-04-2023,0,3,57166.15,68980.55,Yes,Yes,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM00321,18,Comprehensive,3.4,24972.78,Vandalism,27-09-2024,02-10-2024,1,11,22335.2,25796.23,Yes,Yes,Bengaluru,Tree branch fell on the car during a storm.,0
+CLM00470,50,Third-Party,3.1,52575.07,Theft,01-09-2024,03-09-2024,0,13,36054.32,51400.6,No,No,Lucknow,Vehicle scratched while parked in a mall parking lot.,0
+CLM00721,54,Comprehensive,2,26643.66,Windshield Damage,14-03-2023,23-03-2023,0,10,29291.02,27377.96,No,No,Bengaluru,Minor collision while reversing out of a parking spot.,0
+CLM01141,,Third-Party,4.1,13529.92,Vandalism,08-04-2025,21-04-2025,0,14,13442.18,14087.78,No,No,Mumbai,Windshield cracked due to a stone hit on the highway.,0
+CLM00080,32,Third-Party,1,15541.17,Natural Disaster,31-10-2023,31-10-2023,1,3,14070.69,14959.62,No,No,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM00708,31,Third-Party,4.4,22466.02,Injury/Accident,03-05-2024,08-05-2024,1,1,17356.37,21992.08,Yes,No,Bengaluru,Claim filed for total loss shortly after policy purchase.,1
+CLM00458,39,Comprehensive,5.8,34410.28,Fire,09-11-2024,17-11-2024,1,1,32321.09,34197.76,Yes,Yes,Kolkata,Incident reported late at night with no witnesses.,1
+CLM00291,56,Third-Party Fire & Theft,0.1,29797.07,Fire,24-09-2023,25-09-2023,0,0,29583.99,30417.8,Yes,No,Coimbatore,Vehicle collided with another car at a traffic signal.,1
+CLM00371,60,Third-Party Fire & Theft,2.4,6912.72,Natural Disaster,16-12-2025,19-12-2025,0,6,6888.76,6982.56,Yes,Yes,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM01099,45,Comprehensive,1.3,25896.64,Windshield Damage,17-11-2025,19-11-2025,1,5,22890.93,25529.94,Yes,Yes,Jaipur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00478,47,Third-Party Fire & Theft,1.4,25093.77,Injury/Accident,05-05-2024,07-05-2024,0,7,22780.07,26167.42,No,No,Chennai,Rear-ended while stopped at a junction.,0
+CLM01086,60,Comprehensive,2,107344.37,Injury/Accident,26-02-2025,06-03-2025,0,4,102610.78,106305.9,no,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM01035,59,Third-Party Fire & Theft,8.7,33120.47,Collision,04-05-2024,06-05-2024,0,1,27187.47,31881.14,Yes,Yes,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM00911,38,Third-Party Fire & Theft,2.1,10688.16,Injury/Accident,08-10-2025,11-10-2025,1,10,10996.85,10998.9,Yes,No,Mumbai,Car was damaged in heavy rain and flooding.,0
+CLM00474,31,Third-Party,3.4,39934.86,Windshield Damage,27-10-2023,04-11-2023,0,2,,41374.78,Yes,Yes,Chennai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00198,34,Comprehensive,12.9,38373.24,Windshield Damage,26-11-2023,19-12-2023,4,1,41876.63,38616.54,Yes,Yes,Kolkata,Tree branch fell on the car during a storm.,0
+CLM00186,28,Comprehensive,0.4,62606.56,Natural Disaster,05-04-2024,14-04-2024,0,2,57982.3,60141.12,Yes,No,Hyderabad,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00671,76,Comprehensive,11.9,27476.93,Vandalism,03-07-2024,04-07-2024,0,7,23555.64,26935.15,Yes,Yes,Surat,Tree branch fell on the car during a storm.,0
+CLM00422,46,Third-Party,1.1,11528.79,Windshield Damage,11-06-2023,24-06-2023,2,6,11465.37,11826.48,,Yes,Bengaluru,Vehicle scratched while parked in a mall parking lot.,0
+CLM00452,30,Third-Party Fire & Theft,1.3,35751.11,Vandalism,21-10-2025,04-11-2025,1,19,25198.51,34307.55,Yes,,Chennai,Vehicle collided with another car at a traffic signal.,0
+CLM00257,42,Comprehensive,7.5,11797.63,Natural Disaster,02-11-2024,03-11-2024,0,7,10940.36,12083.72,Yes,No,Kochi,Rear-ended while stopped at a junction.,0
+CLM00136,34,Third-Party,0.8,33248.39,Fire,17-06-2023,14-07-2023,2,2,25342.29,34267.93,Yes,No,Chennai,Claim submitted just before policy renewal/expiry.,1
+CLM00873,,Third-Party,1.3,39308.62,Theft,13-06-2024,15-06-2024,4,3,40652.4,40054.11,Yes,Yes,Kochi,Car was damaged in heavy rain and flooding.,0
+CLM00809,53,Third-Party Fire & Theft,2.2,24621.57,Injury/Accident,10-09-2025,14-09-2025,1,9,25480.9,24828.37,Yes,Yes,Mumbai,Rear-ended while stopped at a junction.,0
+CLM00632,26,Third-Party Fire & Theft,0.4,59325.29,Theft,09-07-2025,09-07-2025,2,1,57890.37,58862.72,Yes,No,Kolkata,Minor collision while reversing out of a parking spot.,0
+CLM00800,49,Third-Party,3.3,10743.32,Fire,03-08-2023,11-08-2023,0,0,11324.3,11004.7,Yes,No,Pune,Windshield cracked due to a stone hit on the highway.,1
+CLM01089,18,Comprehensive,6.5,12855.01,Windshield Damage,27-11-2025,08-12-2025,1,3,11756.91,13137.93,Yes,Yes,Bengaluru,Vehicle scratched while parked in a mall parking lot.,0
+CLM01175,57,Comprehensive,13.2,27104.3,Collision,07-10-2025,08-10-2025,1,1,30333.45,28388.56,Yes,Yes,Pune,Rear-ended while stopped at a junction.,0
+CLM00050,49,Third-Party,3.4,16738.5,Injury/Accident,25-11-2024,26-11-2024,2,1,17950.48,17409.03,Yes,Yes,Bengaluru,Windshield cracked due to a stone hit on the highway.,0
+CLM00886,32,Third-Party,1.6,47504.06,Vandalism,24-02-2025,28-02-2025,0,0,41960.16,46090.4,Yes,Yes,Chennai,Vehicle collided with another car at a traffic signal.,0
+CLM00618,53,Third-Party Fire & Theft,0.8,35578.75,Collision,29-03-2025,03-04-2025,1,2,37947.8,36443.8,Yes,No,Nagpur,Tree branch fell on the car during a storm.,0
+CLM00527,25,Third-Party Fire & Theft,0.3,51819.77,Injury/Accident,10-04-2023,11-04-2023,1,5,48407.54,52215.64,Yes,Yes,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00875,24,Comprehensive,0.4,21476.4,Injury/Accident,20-09-2024,22-09-2024,1,1,19550.34,21134.2,Yes,,Nagpur,Minor collision while reversing out of a parking spot.,1
+CLM00764,45,Third-Party Fire & Theft,5,13385.85,Windshield Damage,12-12-2025,17-12-2025,0,0,12246.22,13584.8,Yes,Yes,Kochi,Rear-ended while stopped at a junction.,0
+CLM00463,41,Comprehensive,7.7,28710.04,Vandalism,04-10-2024,13-10-2024,0,5,30053.09,27751.69,Yes,No,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM00599,38,Third-Party,0.6,19703.3,Fire,12-05-2025,14-05-2025,0,4,20687.06,20459.64,Yes,Yes,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,1
+CLM00647,29,Third-Party Fire & Theft,11,18441.78,Injury/Accident,10-10-2025,12-10-2025,1,2,16848.49,19121.13,No,Yes,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM01038,36,Comprehensive,7.2,88224.41,Theft,25-09-2025,06-10-2025,1,5,88021.43,87911.17,Yes,Yes,Mumbai,Repair invoice submitted without an itemized breakdown.,1
+CLM00469,53,Third-Party,5.5,26494.93,Theft,19-05-2024,24-05-2024,0,1,21647.65,26854.71,No,Yes,Jaipur,Multiple prior claims for similar type of incident.,1
+CLM00034,39,Third-Party,5.5,7097.2,Vandalism,09-02-2023,28-02-2023,4,4,7594.33,7461.19,No,Yes,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00417,54,Third-Party Fire & Theft,8,29665.06,Collision,10-07-2025,10-07-2025,2,2,29160.54,29896.2,Yes,Yes,Kochi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00248,33,Third-Party,0.1,24880.55,Fire,30-04-2025,12-05-2025,0,2,25021.11,24009.03,No,Yes,Bengaluru,Car was damaged in heavy rain and flooding.,0
+CLM00587,22,Third-Party Fire & Theft,0,21378.59,Fire,19-05-2024,28-05-2024,0,4,20307.07,22302.82,Yes,No,Mumbai,Windshield cracked due to a stone hit on the highway.,1
+CLM00777,23,Comprehensive,1.5,53905.12,Collision,26-04-2023,27-04-2023,1,2,56694.95,56263.42,No,No,Coimbatore,Rear-ended while stopped at a junction.,0
+CLM01079,35,Third-Party Fire & Theft,6.6,29921.09,Fire,26-03-2025,09-04-2025,2,,20450.02,29504.49,No,No,Surat,Car was damaged in heavy rain and flooding.,0
+CLM00847,34,Third-Party,2,14138.14,Windshield Damage,08-08-2025,08-08-2025,2,1,14011.04,14516.13,No,No,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM00217,32,Third-Party Fire & Theft,1.2,12107.98,Vandalism,21-07-2025,26-07-2025,1,1,13038.07,12642.8,Yes,No,Surat,Tree branch fell on the car during a storm.,0
+CLM01187,48,Comprehensive,7.8,42883.26,Windshield Damage,22-03-2024,05-04-2024,1,11,36416.36,43243.56,Yes,Yes,Bengaluru,Windshield cracked due to a stone hit on the highway.,0
+CLM00785,54,Third-Party,11.1,6087.87,Windshield Damage,24-09-2025,05-10-2025,2,0,5727.77,6068.24,,No,Delhi,Tree branch fell on the car during a storm.,0
+CLM00544,20,Third-Party,2.3,36066.3,Fire,01-02-2023,06-02-2023,0,1,31215.08,37678.06,Yes,Yes,Bengaluru,Rear-ended while stopped at a junction.,0
+CLM00494,30,Third-Party Fire & Theft,4.5,20443.72,Windshield Damage,10-04-2025,10-04-2025,1,0,18448.46,19939.79,Yes,Yes,Jaipur,Minor collision while reversing out of a parking spot.,1
+CLM00465,49,Third-Party Fire & Theft,2.5,34732.36,Vandalism,08-05-2023,09-05-2023,0,4,35216.4,34528.17,Yes,Yes,Jaipur,Car was damaged in heavy rain and flooding.,0
+CLM00392,27,Third-Party,2.8,18723.61,Natural Disaster,05-01-2024,20-01-2024,0,1,18008.38,19491.14,No,No,Pune,Vehicle scratched while parked in a mall parking lot.,0
+CLM00439,45,Third-Party,1.9,34032.23,Natural Disaster,02-10-2024,02-10-2024,1,1,32097.7,33609.29,Yes,No,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00669,28,Third-Party,2.7,35285.87,Injury/Accident,03-01-2025,06-01-2025,1,0,39900.59,36256.55,Yes,Yes,Nagpur,Windshield cracked due to a stone hit on the highway.,0
+CLM00327,31,Third-Party Fire & Theft,9.1,26667.32,Vandalism,08-08-2025,11-08-2025,0,9,25540.01,27752.4,Yes,Yes,Kochi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00685,26,Comprehensive,0.7,10597.23,Injury/Accident,29-07-2023,29-07-2023,0,5,9464.58,10663.58,,Yes,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00466,39,Comprehensive,1.6,15331.6,Natural Disaster,27-10-2024,14-11-2024,1,3,13542.26,15740.62,Yes,Yes,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00554,23,Third-Party Fire & Theft,2.9,30805.88,Windshield Damage,18-05-2024,18-05-2024,0,3,27661.82,30557.07,Yes,Yes,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00062,37,Third-Party Fire & Theft,5.5,17145.05,Collision,16-01-2024,20-01-2024,3,1,17812.1,17923.45,No,Yes,Coimbatore,Windshield cracked due to a stone hit on the highway.,0
+CLM00419,34,Comprehensive,3.9,3004.53,Vandalism,26-10-2025,04-11-2025,5,2,3666.8,3019.29,Yes,Yes,Surat,Vehicle collided with another car at a traffic signal.,0
+CLM00803,18,Third-Party Fire & Theft,11.8,20194.41,Theft,08-06-2025,05-08-2025,1,4,16613.87,21003.81,Yes,Yes,Chennai,Car was damaged in heavy rain and flooding.,0
+CLM01176,35,Third-Party,12,26645.01,Fire,17-10-2025,20-10-2025,2,4,25386.66,26037.61,Yes,Yes,Ahmedabad,Customer requested cash settlement instead of repair.,1
+CLM00539,38,Comprehensive,3.1,23214.77,Fire,21-02-2024,26-02-2024,2,0,20941.09,22747.32,Yes,Yes,Kochi,Customer requested cash settlement instead of repair.,1
+CLM00156,36,Comprehensive,4.7,53275.45,Fire,13-06-2024,21-06-2024,0,3,54815.29,51781.82,Yes,Yes,Hyderabad,Tree branch fell on the car during a storm.,0
+CLM00956,36,Third-Party Fire & Theft,4.9,21157.72,Theft,20-09-2023,22-09-2023,1,1,15069.64,20548.77,No,Yes,Kolkata,Windshield cracked due to a stone hit on the highway.,0
+CLM00989,18,Third-Party Fire & Theft,4.9,9482.53,Collision,23-08-2023,08-09-2023,0,0,8613.09,9944.99,No,No,Ahmedabad,Tree branch fell on the car during a storm.,0
+CLM01003,26,Third-Party,7.1,23423.01,Injury/Accident,31-08-2023,02-09-2023,1,10,21221.96,22586.4,Yes,Yes,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM00367,20,Third-Party Fire & Theft,3.8,24850.68,Injury/Accident,17-11-2024,12-12-2024,0,0,25134.09,25609.93,No,Yes,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM00349,44,Third-Party,8.6,94133.39,Fire,05-01-2024,23-02-2024,1,4,77399.97,91749.52,No,No,Pune,Rear-ended while stopped at a junction.,0
+CLM00933,47,Comprehensive,2.5,29104.42,Natural Disaster,19-08-2025,20-08-2025,0,0,26722.6,27890.72,,No,Surat,Vehicle skidded and hit a divider on a wet road.,0
+CLM01096,44,Third-Party,0.8,81453.54,Theft,03-02-2024,04-02-2024,0,4,61207.61,78651.62,,No,Kolkata,Vehicle skidded and hit a divider on a wet road.,0
+CLM00167,33,Third-Party Fire & Theft,4.4,28391.14,Vandalism,20-07-2024,25-07-2024,0,5,26027.75,27368.39,Yes,Yes,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00861,37,Third-Party Fire & Theft,3.8,76934.04,Natural Disaster,01-08-2024,08-09-2024,0,1,61232.07,76162,Yes,No,Kochi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00915,64,Third-Party,0.5,64982.15,Fire,02-10-2024,14-10-2024,1,9,71981.25,66899.07,Yes,No,Lucknow,Minor collision while reversing out of a parking spot.,0
+CLM00547,70,Third-Party Fire & Theft,2.6,43639.47,Fire,02-08-2024,04-08-2024,2,0,42277.92,43237.43,No,No,Ahmedabad,Minor collision while reversing out of a parking spot.,0
+CLM00205,34,Third-Party,2.8,20978.41,Natural Disaster,26-09-2023,02-10-2023,2,2,19292.86,21735.69,,Yes,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00889,45,Third-Party Fire & Theft,4.3,45187.73,Theft,08-04-2024,08-04-2024,0,6,42926.23,44715.67,Yes,No,Hyderabad,Tree branch fell on the car during a storm.,0
+CLM01095,47,Third-Party Fire & Theft,0.8,30234,Fire,13-12-2024,20-12-2024,0,4,29288.76,31568.49,Yes,No,Surat,Tree branch fell on the car during a storm.,0
+CLM00187,52,Comprehensive,2.7,41291.02,Collision,03-05-2023,11-05-2023,1,2,40124.42,39510.02,Yes,Yes,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM01172,46,Comprehensive,6.8,130605.33,Collision,31-12-2025,04-01-2026,0,4,100192.97,124427.24,Yes,Yes,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM01027,59,Comprehensive,0.2,59062.48,Theft,17-06-2023,22-06-2023,0,3,54252.14,56604.95,No,Yes,Surat,Multiple prior claims for similar type of incident.,1
+CLM00010,48,Comprehensive,7.9,7844.24,Injury/Accident,29-07-2025,15-08-2025,1,0,7856.97,7985.42,Yes,No,Kolkata,Windshield cracked due to a stone hit on the highway.,0
+CLM00011,39,Comprehensive,1.4,6148,Natural Disaster,23-08-2024,23-08-2024,0,1,5800.66,6312.4,Yes,Yes,Coimbatore,Tree branch fell on the car during a storm.,0
+CLM00924,26,Third-Party Fire & Theft,3.3,39680.4,Vandalism,04-01-2025,13-02-2025,1,19,39056.43,39339.11,Yes,Yes,Surat,Vehicle collided with another car at a traffic signal.,0
+CLM00842,43,Third-Party Fire & Theft,0.1,43956.09,Windshield Damage,04-02-2025,05-02-2025,4,8,31981.12,43393.4,Yes,No,Jaipur,Vehicle collided with another car at a traffic signal.,0
+CLM00917,23,Comprehensive,1.3,12339.63,Injury/Accident,16-12-2023,28-12-2023,1,1,13386.39,12873.4,Yes,No,Pune,Tree branch fell on the car during a storm.,0
+CLM00556,35,Third-Party,0.1,25362.03,Injury/Accident,01-10-2025,02-10-2025,0,1,24874.99,24291.88,No,Yes,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00290,26,Comprehensive,3.9,45645.03,Collision,03-06-2025,08-06-2025,0,6,46569.77,45743.25,No,Yes,Lucknow,Windshield cracked due to a stone hit on the highway.,0
+CLM00428,29,Comprehensive,3.9,32578.76,Windshield Damage,03-05-2025,07-05-2025,2,1,28702.76,33821.81,,Yes,Ahmedabad,Vehicle collided with another car at a traffic signal.,0
+CLM00562,46,Comprehensive,2.7,48114.6,Collision,23-03-2024,24-03-2024,3,1,47511.61,48152.08,No,Yes,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM00670,45,Third-Party Fire & Theft,5.6,16151.76,Vandalism,22-03-2024,23-03-2024,1,0,13007.34,15494.25,Yes,Yes,Surat,Minor collision while reversing out of a parking spot.,0
+CLM01139,,Third-Party Fire & Theft,6.4,3328.95,Vandalism,10-06-2023,12-06-2023,0,0,,3419.9,No,No,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM00726,41,Third-Party,0.4,28614.08,Windshield Damage,28-09-2024,29-09-2024,2,5,28709.54,29312.44,Yes,Yes,Mumbai,Tree branch fell on the car during a storm.,0
+CLM00887,46,Third-Party Fire & Theft,1.9,23563.75,Theft,03-02-2025,07-02-2025,1,20,20518.09,22893.33,Yes,Yes,Pune,Vehicle collided with another car at a traffic signal.,0
+CLM00713,43,Third-Party,1.7,59973.27,Theft,04-07-2024,24-08-2024,0,11,46138.11,59626.64,Yes,No,Nagpur,Windshield cracked due to a stone hit on the highway.,1
+CLM00152,58,Third-Party,4,10540.3,Windshield Damage,03-07-2024,07-07-2024,3,0,10017.74,10314.06,No,Yes,Surat,Tree branch fell on the car during a storm.,0
+CLM00113,52,Comprehensive,1.1,99943.89,Windshield Damage,20-05-2025,20-05-2025,1,2,102126.47,100666.68,Yes,No,Delhi,Rear-ended while stopped at a junction.,0
+CLM01011,48,Third-Party Fire & Theft,2.8,10988.48,Theft,10-09-2023,14-09-2023,0,2,10585.34,10670.57,Yes,No,Chennai,Vehicle collided with another car at a traffic signal.,0
+CLM00424,36,Third-Party,0.7,40326.25,Natural Disaster,28-12-2025,30-12-2025,1,7,33925.34,39110.18,Yes,No,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00952,44,Third-Party Fire & Theft,5.6,35685.17,Natural Disaster,10-09-2023,20-09-2023,3,1,32295.19,35345.28,No,Yes,Ahmedabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM00969,45,Third-Party,,72778.74,Theft,08-05-2023,01-06-2023,2,9,70456.62,74332.6,No,Yes,Bengaluru,Vehicle scratched while parked in a mall parking lot.,1
+CLM00462,39,Third-Party Fire & Theft,1.4,23058.37,Theft,06-03-2023,07-03-2023,0,,23045.24,24069.12,Yes,Yes,Bengaluru,Windshield cracked due to a stone hit on the highway.,1
+CLM00860,58,Comprehensive,6.2,27266.49,Collision,13-11-2025,04-12-2025,0,7,25501.22,27910.22,No,No,Jaipur,Tree branch fell on the car during a storm.,0
+CLM00001,46,Third-Party Fire & Theft,5.3,28290.78,Collision,21-02-2023,05-03-2023,0,4,25260.94,29715.38,no,No,Bengaluru,Vehicle scratched while parked in a mall parking lot.,0
+CLM00779,34,Third-Party,11.7,9827.38,Natural Disaster,17-02-2024,04-03-2024,1,1,9512.1,9759.71,Yes,Yes,Pune,Car was damaged in heavy rain and flooding.,0
+CLM00991,37,Third-Party,1.9,30963.07,Vandalism,21-08-2023,01-09-2023,0,0,31495.59,31199.13,No,,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM01188,39,Third-Party Fire & Theft,2.7,15428.17,Vandalism,26-10-2024,13-11-2024,0,4,14625.62,14736.67,Yes,Yes,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM00705,41,Third-Party,0.1,31254.05,Collision,13-11-2025,13-11-2025,3,1,32703.1,32180.77,Yes,Yes,Nagpur,Rear-ended while stopped at a junction.,1
+CLM00657,39,Third-Party Fire & Theft,0.1,12761.94,Natural Disaster,19-12-2024,10-12-2024,1,0,11105.83,12771.49,No,Yes,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM00667,18,Third-Party Fire & Theft,6.1,44330.24,Fire,25-01-2025,27-01-2025,0,1,48279.78,46605.17,Yes,Yes,Ahmedabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM00899,41,Comprehensive,5.5,20537.53,Injury/Accident,10-08-2023,25-08-2023,2,1,17360.82,20254.74,Yes,No,Chennai,Vehicle collided with another car at a traffic signal.,0
+CLM00412,36,Comprehensive,6.9,0,Collision,16-02-2024,07-03-2024,0,22,37876.79,39788.62,Yes,No,Bengaluru,Car was damaged in heavy rain and flooding.,0
+CLM00323,41,Third-Party Fire & Theft,4.4,30478.64,Collision,22-12-2025,28-12-2025,4,8,,29217.21,No,No,Nagpur,Rear-ended while stopped at a junction.,1
+CLM00002,49,Comprehensive,0.8,2205.25,Theft,29-07-2023,29-07-2023,0,1,2000,2252.06,,Yes,Coimbatore,Windshield cracked due to a stone hit on the highway.,0
+CLM00682,40,Third-Party Fire & Theft,0.5,66226.27,Vandalism,20-01-2023,24-01-2023,0,6,70210.11,66905.35,Yes,No,Lucknow,Claim filed for total loss shortly after policy purchase.,1
+CLM00436,52,Comprehensive,4.3,16578.34,Fire,09-07-2025,11-07-2025,0,22,11516.12,16562.23,,No,Delhi,Repair invoice submitted without an itemized breakdown.,1
+CLM00453,33,Comprehensive,4.5,21706.94,Theft,13-11-2024,15-11-2024,1,0,24359.91,22461.02,Yes,No,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00039,40,Third-Party Fire & Theft,5.9,29868.31,Vandalism,09-03-2024,09-03-2024,2,14,28973.89,30701.42,Yes,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00184,68,Comprehensive,3.9,9647.2,Fire,02-08-2024,12-08-2024,1,0,9006.96,9627.78,Yes,No,Mumbai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00218,42,Comprehensive,3.9,16705.05,Injury/Accident,04-05-2024,05-05-2024,0,5,14428.38,16523.28,Yes,Yes,Bengaluru,Minor collision while reversing out of a parking spot.,0
+CLM00714,33,Comprehensive,16.9,27902.22,Fire,29-05-2025,01-06-2025,1,8,24289.58,27154.94,Yes,Yes,Jaipur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00307,29,Third-Party,11,15870.51,Vandalism,13-07-2024,15-07-2024,1,5,16320.63,16610.39,Yes,No,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00939,31,Third-Party Fire & Theft,5.5,71118.52,Injury/Accident,06-02-2023,03-02-2023,1,1,42592.68,67998.82,,No,Kolkata,Incident reported late at night with no witnesses.,1
+CLM00550,41,Third-Party Fire & Theft,2.2,11243.71,Vandalism,17-10-2024,17-10-2024,1,13,10496.9,11095.2,No,Yes,,Rear-ended while stopped at a junction.,0
+CLM00314,41,Third-Party Fire & Theft,5.2,57617.74,Theft,21-10-2025,24-10-2025,0,1,39739.54,57348.61,No,Yes,Mumbai,Customer requested cash settlement instead of repair.,1
+CLM00851,41,Third-Party,6,36868.72,Injury/Accident,05-07-2023,05-07-2023,0,14,36504.69,37843.84,No,Yes,Chennai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00332,44,Comprehensive,0.5,38825.97,Collision,25-01-2025,31-01-2025,3,2,42406.19,39826.44,No,Yes,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00037,18,Third-Party Fire & Theft,6.7,39725.73,Windshield Damage,15-09-2023,02-10-2023,0,5,36104.87,40053.19,No,No,Kochi,"Vehicle reported stolen, recovered with no major damage.",1
+CLM01005,18,Comprehensive,3.9,91458.75,Fire,26-10-2025,29-10-2025,0,2,66344.88,89102.87,Yes,No,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00734,20,Third-Party Fire & Theft,3.5,40356.74,Theft,09-05-2025,11-05-2025,1,0,38708.92,38958.84,Yes,Yes,Chennai,Vehicle skidded and hit a divider on a wet road.,1
+CLM01098,47,Third-Party Fire & Theft,2.5,35045.63,Collision,29-05-2023,05-06-2023,0,4,30520.18,34949.74,Yes,Yes,Pune,Vehicle scratched while parked in a mall parking lot.,0
+CLM00948,18,Third-Party Fire & Theft,3.7,19224.15,Injury/Accident,18-04-2025,20-04-2025,1,1,18610.41,20119.56,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM01136,48,Third-Party,2.3,25382.58,Collision,20-12-2024,21-12-2024,0,0,25327.02,26459.76,Yes,Yes,Coimbatore,Rear-ended while stopped at a junction.,0
+CLM00578,35,Third-Party Fire & Theft,6,43203.06,Windshield Damage,26-03-2025,26-03-2025,4,4,39658.06,43035.3,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00434,30,Third-Party,4.9,45937.36,Vandalism,25-09-2023,29-09-2023,0,0,43609.34,48090.47,No,Yes,Jaipur,Tree branch fell on the car during a storm.,0
+CLM00164,54,Third-Party Fire & Theft,3.4,17113.48,Vandalism,08-07-2024,08-07-2024,0,3,17753.53,17382.52,Yes,No,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00264,38,Comprehensive,1.2,14713.62,Injury/Accident,28-01-2025,30-01-2025,2,2,14605.34,14055.71,Yes,Yes,Ahmedabad,Rear-ended while stopped at a junction.,0
+CLM00232,35,Third-Party,0.6,11715.66,Vandalism,26-10-2023,27-10-2023,0,5,14737.24,12308.79,No,Yes,Jaipur,Rear-ended while stopped at a junction.,0
+CLM00303,31,Third-Party,2,20634.51,Theft,27-01-2025,02-02-2025,0,5,18546.28,19737.32,Yes,Yes,Lucknow,Vehicle scratched while parked in a mall parking lot.,0
+CLM00176,43,Third-Party Fire & Theft,8.2,89555.01,Fire,24-06-2023,25-06-2023,2,0,82156.43,85445.2,Yes,No,Mumbai,Rear-ended while stopped at a junction.,0
+CLM00822,36,Third-Party Fire & Theft,9,21512.93,Natural Disaster,29-10-2023,29-10-2023,1,6,19545.13,21571.6,No,Yes,Nagpur,Windshield cracked due to a stone hit on the highway.,0
+CLM00150,21,Third-Party,6.4,10654.4,Injury/Accident,10-11-2023,12-11-2023,3,2,9710.02,10286.97,No,Yes,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM01163,67,Comprehensive,1.2,62832.87,Natural Disaster,04-02-2025,07-02-2025,1,1,56820.95,64412.14,Yes,No,Kolkata,Rear-ended while stopped at a junction.,1
+CLM00072,35,Third-Party Fire & Theft,6.8,45939.23,Fire,01-08-2023,19-09-2023,1,8,42774.31,47670.53,Yes,No,Hyderabad,Car was damaged in heavy rain and flooding.,0
+CLM00169,49,Third-Party,2.2,55643.12,Collision,29-12-2025,08-01-2026,0,5,53919,53722.22,No,Yes,Hyderabad,Car was damaged in heavy rain and flooding.,0
+CLM00456,31,Third-Party Fire & Theft,7.8,4306.91,Windshield Damage,04-09-2024,04-09-2024,3,5,4285.66,4388.27,,No,Jaipur,Customer requested cash settlement instead of repair.,1
+CLM00090,49,Third-Party Fire & Theft,,15842.26,Theft,27-03-2025,05-04-2025,0,2,15396.29,16148.5,Yes,Yes,Hyderabad,Customer requested cash settlement instead of repair.,1
+CLM00118,41,Third-Party Fire & Theft,0.5,11111.56,Vandalism,22-11-2023,08-12-2023,2,8,11291.24,11052.1,Yes,Yes,Ahmedabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM00955,49,Third-Party Fire & Theft,19.1,19564.47,Vandalism,07-11-2025,08-11-2025,1,3,21202.57,19671.81,Yes,Yes,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM00322,46,Third-Party,3.5,4297.15,Windshield Damage,11-12-2023,12-12-2023,1,2,4718.54,4392.34,Yes,No,Jaipur,Incident reported late at night with no witnesses.,1
+CLM00922,18,Third-Party Fire & Theft,15.1,55846.02,Injury/Accident,01-05-2023,05-05-2023,3,4,56891.49,57250.03,yes,Yes,Mumbai,Car was damaged in heavy rain and flooding.,0
+CLM00460,30,Third-Party Fire & Theft,1.7,16389.13,Windshield Damage,11-04-2024,17-04-2024,1,1,15040.99,15874.95,Yes,No,Coimbatore,Vehicle collided with another car at a traffic signal.,0
+CLM01186,51,Third-Party,2.9,24923.39,Injury/Accident,03-09-2024,07-09-2024,0,3,24778.61,24855.35,Yes,No,Pune,Rear-ended while stopped at a junction.,0
+CLM01183,18,Comprehensive,1.4,60723.19,Natural Disaster,02-03-2024,12-03-2024,0,2,68391.44,63703.33,Yes,No,Kolkata,,0
+CLM00992,37,Third-Party Fire & Theft,0.4,33244.76,Injury/Accident,02-08-2024,04-08-2024,1,5,30164.27,31717.22,No,No,Jaipur,Vehicle collided with another car at a traffic signal.,1
+CLM00242,33,Third-Party Fire & Theft,3.4,49178.44,Vandalism,16-07-2024,24-07-2024,0,0,43397.6,46847.19,Yes,Yes,Coimbatore,Vehicle collided with another car at a traffic signal.,0
+CLM00838,24,Third-Party Fire & Theft,1.8,26649.24,Injury/Accident,21-07-2023,15-08-2023,5,2,20834.09,26607.87,No,No,Delhi,Rear-ended while stopped at a junction.,0
+CLM00271,19,Comprehensive,6.6,25830.64,Windshield Damage,06-01-2023,07-01-2023,0,1,26623.9,26141.75,No,,Surat,Vehicle scratched while parked in a mall parking lot.,0
+CLM00112,30,Third-Party,4.4,94915.89,Theft,30-10-2023,10-11-2023,1,0,102718.71,97682.86,Yes,Yes,Nagpur,Vehicle collided with another car at a traffic signal.,0
+CLM00596,33,Third-Party Fire & Theft,3.4,18941.48,Theft,03-12-2025,14-12-2025,1,2,17299.25,18081.65,Yes,Yes,Kochi,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00517,30,Comprehensive,4.4,14888.09,Windshield Damage,10-05-2025,12-05-2025,2,0,17358.57,15159.89,No,No,Kolkata,Customer requested cash settlement instead of repair.,1
+CLM00227,18,Third-Party Fire & Theft,6.2,28484.28,Injury/Accident,26-09-2025,12-10-2025,3,1,25506.84,27451.24,Yes,Yes,Coimbatore,Vehicle collided with another car at a traffic signal.,0
+CLM00497,49,Third-Party,7.2,27704.48,Vandalism,27-04-2024,28-04-2024,0,9,29288,28908.88,No,Yes,Nagpur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00499,31,Third-Party Fire & Theft,0.9,71700.83,Fire,28-04-2024,06-05-2024,3,3,49653.49,69499.14,No,Yes,Kochi,Vehicle collided with another car at a traffic signal.,1
+CLM00815,24,Third-Party,2.1,34832.36,Vandalism,10-08-2025,26-08-2025,0,2,34010.17,33860.7,Yes,Yes,Bengaluru,Vehicle scratched while parked in a mall parking lot.,0
+CLM01033,40,Comprehensive,2.2,15428.36,Windshield Damage,18-08-2024,28-08-2024,0,7,14414.08,15342.89,Yes,No,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM00196,36,Third-Party,8.8,5848.59,Injury/Accident,04-10-2025,23-10-2025,0,6,4712.89,5592.49,No,No,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00337,36,Comprehensive,1.7,18125.77,Windshield Damage,04-12-2024,05-12-2024,1,2,,18972.25,Yes,Yes,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM01097,52,Third-Party Fire & Theft,5.8,40880.48,Collision,18-06-2024,27-06-2024,1,2,38169.62,41023.35,Yes,Yes,Kolkata,Car was damaged in heavy rain and flooding.,0
+CLM00856,64,Comprehensive,10.7,44417.31,Natural Disaster,18-01-2023,20-01-2023,0,2,,46032.61,No,Yes,Hyderabad,Rear-ended while stopped at a junction.,0
+CLM00712,48,Third-Party,1.6,27706.66,Fire,07-12-2025,24-01-2026,0,3,22740.2,29139.68,Yes,No,Delhi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00138,32,Third-Party Fire & Theft,0.3,112545.11,Collision,24-03-2023,25-03-2023,1,4,95059.67,109002.01,Yes,Yes,Bengaluru,Claim filed for total loss shortly after policy purchase.,1
+CLM00804,18,Comprehensive,5.2,12489.01,Fire,25-02-2024,28-02-2024,1,0,12834.66,12915.36,Yes,No,Kolkata,Rear-ended while stopped at a junction.,0
+CLM00529,56,Comprehensive,1.3,75218.3,Windshield Damage,26-04-2023,10-06-2023,0,3,61460.47,76913.46,No,Yes,Jaipur,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00508,18,Third-Party,8.1,37201.8,Windshield Damage,01-12-2025,08-12-2025,1,,35836.77,36280.94,Yes,Yes,Mumbai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00720,39,Comprehensive,0.2,85157,Vandalism,15-01-2025,27-01-2025,0,0,49835.12,81688.33,No,No,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM00394,25,Third-Party,4.7,25508.87,Natural Disaster,22-05-2025,03-06-2025,0,7,30866.2,26553.18,yes,,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM00383,30,Third-Party Fire & Theft,2.9,60590.37,Vandalism,07-09-2025,19-09-2025,4,2,56325.43,60090.98,,Yes,Nagpur,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00222,30,Third-Party,1.1,15289.26,Collision,13-12-2025,19-12-2025,1,0,13680.47,14810.89,No,Yes,Chennai,Vehicle skidded and hit a divider on a wet road.,0
+CLM01054,26,Third-Party Fire & Theft,10.1,9884.16,Collision,28-10-2023,28-10-2023,1,5,9645.22,10231.5,Yes,Yes,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM00678,53,Third-Party,2.2,25677.42,Injury/Accident,05-12-2023,22-12-2023,1,2,20520.06,26073.82,No,No,Kolkata,Claim filed for total loss shortly after policy purchase.,1
+CLM00717,53,Third-Party Fire & Theft,7,23154.12,Theft,23-01-2025,24-01-2025,1,2,20911.38,22090.64,Yes,No,Hyderabad,Car was damaged in heavy rain and flooding.,0
+CLM00329,55,Third-Party,1.5,56126.54,Collision,18-08-2025,04-09-2025,3,8,60246.85,57196.58,No,Yes,Kochi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00013,62,Comprehensive,0.1,69524.96,Windshield Damage,15-08-2024,07-09-2024,0,3,49990.14,72139.88,No,No,Surat,Windshield cracked due to a stone hit on the highway.,0
+CLM00880,50,Comprehensive,1,46852.09,Fire,18-04-2025,05-05-2025,0,17,35449.48,44715.17,No,No,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00084,41,Comprehensive,7.1,45585.96,Windshield Damage,29-12-2023,30-12-2023,0,3,48324.9,44983.16,Yes,No,Chennai,Minor collision while reversing out of a parking spot.,0
+CLM00207,25,Third-Party Fire & Theft,1,27245.15,Windshield Damage,05-05-2024,12-05-2024,2,5,23151.41,26408.58,Yes,Yes,Hyderabad,Car was damaged in heavy rain and flooding.,0
+CLM00104,28,Third-Party Fire & Theft,3.8,66618.17,Natural Disaster,21-10-2024,24-10-2024,1,10,57316.89,65625.69,Yes,No,Ahmedabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM00310,32,Comprehensive,2.3,35450.26,Vandalism,23-04-2023,23-04-2023,0,0,33096.96,35509.58,Yes,No,Bengaluru,Vehicle collided with another car at a traffic signal.,0
+CLM00906,45,Comprehensive,10.3,48891.81,Vandalism,11-02-2024,15-02-2024,1,7,44184.7,47472.34,Yes,No,Nagpur,Rear-ended while stopped at a junction.,0
+CLM01070,43,Third-Party,9,19609.23,Vandalism,21-04-2024,22-04-2024,1,0,19001.62,20064.02,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00181,49,Third-Party Fire & Theft,0.4,5726.63,Collision,18-11-2023,18-11-2023,0,3,6042.44,5555.39,No,Yes,Delhi,Rear-ended while stopped at a junction.,0
+CLM00848,24,Comprehensive,3.2,19009.79,Injury/Accident,04-03-2023,27-03-2023,5,6,13399.47,18676.48,Yes,No,Pune,Rear-ended while stopped at a junction.,0
+CLM01137,38,Third-Party Fire & Theft,1.2,34161.63,Injury/Accident,24-12-2023,25-12-2023,2,0,30783.46,33917.48,No,,Pune,,0
+CLM00498,29,Third-Party,9.7,41456.76,Fire,10-09-2024,14-09-2024,1,2,39666.1,43637.59,Yes,Yes,Hyderabad,Vehicle collided with another car at a traffic signal.,0
+CLM00317,26,Third-Party,0.6,16672.08,Injury/Accident,05-05-2025,08-05-2025,0,5,17689.3,16912.56,Yes,Yes,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00142,33,Third-Party Fire & Theft,2.7,19200.56,Injury/Accident,23-08-2023,31-08-2023,2,2,17382.82,18903.85,No,Yes,Hyderabad,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00962,40,Comprehensive,0.7,31193,Natural Disaster,18-08-2024,18-08-2024,0,0,29486.51,29934.58,No,Yes,Kochi,Tree branch fell on the car during a storm.,0
+CLM00328,35,Third-Party Fire & Theft,7.8,43573.96,Injury/Accident,23-10-2024,09-11-2024,2,9,45422.48,43571.44,yes,Yes,Delhi,Tree branch fell on the car during a storm.,0
+CLM00661,43,Third-Party Fire & Theft,2.1,105764.48,Fire,19-11-2025,02-12-2025,1,1,82752.38,101934.62,No,No,Delhi,Incident reported late at night with no witnesses.,1
+CLM00347,27,Third-Party,6.9,70676.77,Windshield Damage,19-09-2023,19-09-2023,1,1,67789.7,69400.7,Yes,No,Kochi,Windshield cracked due to a stone hit on the highway.,0
+CLM00211,50,Third-Party,1.9,18778.25,Vandalism,14-05-2024,14-05-2024,2,0,15789.38,18403.37,No,Yes,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00568,35,Third-Party Fire & Theft,6.1,7289.6,Natural Disaster,31-05-2024,06-06-2024,1,7,7504.5,7427.12,Yes,Yes,Hyderabad,Tree branch fell on the car during a storm.,0
+CLM00143,28,Comprehensive,9.5,14234.21,Natural Disaster,22-02-2023,02-03-2023,0,1,14242.76,14930.55,Yes,No,Coimbatore,Vehicle scratched while parked in a mall parking lot.,0
+CLM00515,40,Comprehensive,1.7,17951.66,Natural Disaster,04-05-2023,07-05-2023,1,3,17358.27,18347.02,Yes,No,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00363,23,Third-Party,0.5,11732.17,Collision,30-03-2024,20-04-2024,0,2,10724.26,11501.15,Yes,No,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM00005,49,Third-Party Fire & Theft,0.4,31374.5,Injury/Accident,09-05-2025,10-05-2025,0,1,31660.89,32077.2,Yes,Yes,Ahmedabad,Rear-ended while stopped at a junction.,0
+CLM00045,47,Comprehensive,0.8,52477.65,Fire,21-09-2025,23-09-2025,0,1,46570.13,55027.15,Yes,No,Jaipur,Rear-ended while stopped at a junction.,0
+CLM00282,44,Comprehensive,3.1,26296.6,Collision,16-09-2023,18-09-2023,2,1,26503.38,26492.32,No,No,Coimbatore,Vehicle scratched while parked in a mall parking lot.,0
+CLM00203,27,Comprehensive,8.1,8052.38,Theft,27-11-2025,05-12-2025,4,1,6810.31,8231.42,Yes,No,Coimbatore,Tree branch fell on the car during a storm.,0
+CLM01195,55,Comprehensive,3.9,15240.32,Fire,12-12-2024,20-12-2024,0,0,15349.42,15102.88,Yes,,Lucknow,Vehicle skidded and hit a divider on a wet road.,0
+CLM00359,43,Comprehensive,0.9,3068.9,Windshield Damage,11-10-2023,17-10-2023,0,8,,3051.15,Yes,No,Chennai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00564,48,Comprehensive,8,18147.87,Natural Disaster,22-04-2025,27-04-2025,0,7,19812.82,18861.03,Yes,Yes,Chennai,Vehicle collided with another car at a traffic signal.,0
+CLM01191,37,Third-Party Fire & Theft,0.9,39115.46,Theft,30-01-2025,14-02-2025,1,0,31366.07,38761.15,No,No,Bengaluru,Windshield cracked due to a stone hit on the highway.,0
+CLM00372,26,Third-Party,0.7,80339.4,Theft,08-09-2024,08-09-2024,1,4,79182.1,78828.11,Yes,Yes,Chennai,Windshield cracked due to a stone hit on the highway.,0
+CLM00884,26,Comprehensive,1,14225.5,Natural Disaster,21-11-2023,27-11-2023,1,0,14402.61,13971.89,Yes,Yes,Nagpur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00995,18,Comprehensive,0.3,12330.47,Collision,09-12-2023,10-12-2023,0,1,10141.98,11916.71,Yes,No,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM00238,64,Third-Party,0.7,56423.49,Natural Disaster,04-09-2024,06-09-2024,2,3,57462.51,56850.72,No,Yes,Lucknow,Minor collision while reversing out of a parking spot.,0
+CLM00914,48,Comprehensive,2.9,94606.44,Collision,24-12-2023,06-01-2024,4,0,58495.94,91734.06,No,No,Surat,Vehicle collided with another car at a traffic signal.,0
+CLM00684,45,Comprehensive,5.1,29505.14,Vandalism,26-05-2023,20-05-2023,0,1,31624.85,29226.45,No,Yes,Kolkata,Rear-ended while stopped at a junction.,0
+CLM00274,45,Third-Party,1.9,60100.52,Windshield Damage,02-05-2024,08-05-2024,0,1,60401.08,60736.68,Yes,Yes,Chennai,Tree branch fell on the car during a storm.,0
+CLM00999,40,Third-Party,1.4,38230.93,Collision,29-06-2023,29-06-2023,2,1,40730.88,37011.6,Yes,Yes,Chennai,Windshield cracked due to a stone hit on the highway.,0
+CLM00633,29,Comprehensive,9.7,91788.29,Injury/Accident,15-03-2024,19-03-2024,2,7,75569.78,87530.68,Yes,No,Hyderabad,Rear-ended while stopped at a junction.,0
+CLM00195,40,Third-Party Fire & Theft,0.6,11797.99,Vandalism,23-07-2024,25-07-2024,2,4,10840.28,11596.07,Yes,Yes,Coimbatore,Car was damaged in heavy rain and flooding.,0
+CLM00514,26,Comprehensive,,46011.56,Collision,17-05-2025,17-05-2025,0,,42974.84,44041.04,Yes,Yes,Lucknow,Tree branch fell on the car during a storm.,0
+CLM00615,43,Third-Party Fire & Theft,1,22079.49,Windshield Damage,06-05-2025,08-05-2025,0,,19195.49,22754.07,Yes,No,Nagpur,Vehicle collided with another car at a traffic signal.,0
+CLM00432,18,Third-Party,2.7,13279.21,Vandalism,09-08-2025,11-08-2025,0,4,12353.08,12708.25,Yes,Yes,Pune,Rear-ended while stopped at a junction.,0
+CLM00675,35,Comprehensive,9.2,25064.13,Vandalism,23-07-2025,24-07-2025,0,4,28463.92,24700.85,Yes,Yes,Kolkata,Vehicle collided with another car at a traffic signal.,0
+CLM00757,,Third-Party,8.5,35726.13,Collision,29-03-2023,03-04-2023,1,2,27169.78,34322.72,No,No,Chennai,Claim submitted just before policy renewal/expiry.,1
+CLM00210,42,Third-Party Fire & Theft,5.2,43825.52,Fire,08-11-2025,10-11-2025,0,9,39489.58,42852.52,Yes,No,Kolkata,Vehicle scratched while parked in a mall parking lot.,0
+CLM00163,34,Third-Party Fire & Theft,0.2,20371.92,Fire,21-05-2025,22-05-2025,0,0,23725.44,20986.85,Yes,Yes,Pune,Customer requested cash settlement instead of repair.,1
+CLM00636,37,Third-Party,8,33411.85,Collision,21-06-2024,22-06-2024,4,7,37909.19,34014.99,Yes,No,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM01069,54,Third-Party Fire & Theft,8.6,32759.59,Windshield Damage,20-07-2023,28-07-2023,0,0,31808.39,34453,Yes,No,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM01178,45,Comprehensive,11.8,41814.09,Collision,29-06-2024,29-06-2024,0,2,27968.97,40316.89,No,Yes,Mumbai,Incident location does not match customer's usual route.,1
+CLM00088,51,Third-Party,2.2,53219.77,Theft,13-02-2024,13-02-2024,0,5,50726.61,52424.66,Yes,No,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM00346,51,Third-Party Fire & Theft,4,65008.68,Collision,26-09-2024,27-09-2024,0,2,61794.18,66761.28,Yes,No,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM00994,37,Comprehensive,6.7,14386.03,Fire,30-01-2024,01-02-2024,0,10,13540.79,14931.21,Yes,Yes,Jaipur,Tree branch fell on the car during a storm.,0
+CLM00718,44,Comprehensive,1.2,17685.03,Natural Disaster,25-08-2023,29-08-2023,0,3,18593.46,18432.96,Yes,Yes,,Rear-ended while stopped at a junction.,0
+CLM00191,41,Third-Party Fire & Theft,0.1,2062.01,Collision,03-06-2025,03-06-2025,0,0,2000,2069.44,No,Yes,Coimbatore,Tree branch fell on the car during a storm.,0
+CLM00753,51,Comprehensive,5.5,39996.38,Windshield Damage,31-03-2024,02-04-2024,1,10,35842.95,38350.84,No,Yes,Bengaluru,Car was damaged in heavy rain and flooding.,0
+CLM00179,53,Third-Party Fire & Theft,4.7,19626.59,Vandalism,17-09-2024,18-09-2024,1,6,20410.63,20211.29,No,Yes,Coimbatore,Vehicle collided with another car at a traffic signal.,0
+CLM00557,22,Third-Party Fire & Theft,5.2,39362.57,Windshield Damage,22-12-2024,25-12-2024,3,3,45250.35,40554.04,No,Yes,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM00836,36,Third-Party,1,19422.6,Fire,01-02-2025,12-02-2025,0,21,20200.59,19303.66,Yes,No,Pune,Vehicle collided with another car at a traffic signal.,0
+CLM00393,49,Comprehensive,0.5,98393.5,Collision,02-11-2024,02-11-2024,2,5,85988.96,97044.93,,Yes,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00751,41,Third-Party Fire & Theft,2.6,29003.69,Natural Disaster,26-05-2024,08-06-2024,1,4,27672.28,28222.58,Yes,Yes,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM01166,36,Third-Party,2.2,29080.05,Collision,14-05-2025,25-05-2025,0,3,17569.2,27784.52,No,Yes,Jaipur,Repair invoice submitted without an itemized breakdown.,1
+CLM00814,40,Third-Party,0.2,80197.47,Fire,18-01-2024,25-01-2024,5,1,81403.48,81713.45,No,No,Chennai,Claim submitted just before policy renewal/expiry.,1
+CLM01024,30,Third-Party Fire & Theft,0.2,53308.32,Injury/Accident,12-06-2025,17-06-2025,0,21,47282.17,50801.95,Yes,No,Surat,Vehicle scratched while parked in a mall parking lot.,0
+CLM00829,37,Third-Party Fire & Theft,3.1,24951.84,Natural Disaster,06-12-2025,09-12-2025,0,1,28316.72,26103.54,Yes,Yes,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM01156,41,Third-Party Fire & Theft,3.1,56132.7,Injury/Accident,09-06-2025,13-06-2025,0,2,50978.3,56929.87,,Yes,Pune,Vehicle scratched while parked in a mall parking lot.,0
+CLM01015,63,Comprehensive,1.4,14061.06,Theft,01-06-2024,27-06-2024,0,0,14753.69,14242.7,Yes,Yes,Mumbai,Repair invoice submitted without an itemized breakdown.,1
+CLM00512,57,Third-Party,2.8,11650.95,Injury/Accident,23-09-2024,10-10-2024,2,0,11139.25,11805.58,Yes,Yes,Kolkata,Vehicle collided with another car at a traffic signal.,0
+CLM00904,36,Third-Party Fire & Theft,0.4,56007.08,Injury/Accident,08-10-2023,10-10-2023,0,6,37863.1,56725.71,Yes,No,Surat,Incident location does not match customer's usual route.,1
+CLM00440,73,Comprehensive,0.7,62729.97,Vandalism,20-11-2025,20-11-2025,0,1,58381.13,64028.37,Yes,Yes,Ahmedabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM00729,43,Third-Party,4.6,19689.75,Natural Disaster,07-10-2025,19-10-2025,4,5,17863.83,19786.04,,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00472,63,Third-Party,3,36625.31,Natural Disaster,14-07-2024,22-07-2024,0,5,31851.36,35578.81,Yes,No,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00399,35,Third-Party Fire & Theft,1.5,30372.11,Injury/Accident,16-06-2025,19-06-2025,1,0,30153.26,30496.22,Yes,No,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM00865,38,Third-Party Fire & Theft,2.3,32657.42,Windshield Damage,07-05-2024,16-05-2024,0,4,30704.41,33801.2,Yes,No,Nagpur,Vehicle collided with another car at a traffic signal.,0
+CLM00036,30,Comprehensive,8.8,13508.97,Collision,22-09-2025,27-09-2025,1,3,14075.72,14104.56,No,No,Nagpur,Windshield cracked due to a stone hit on the highway.,0
+CLM01020,33,Third-Party Fire & Theft,,27287.21,Collision,01-02-2024,10-02-2024,2,4,28622.25,26982.17,Yes,No,Ahmedabad,Tree branch fell on the car during a storm.,0
+CLM00609,50,Third-Party Fire & Theft,9.2,31374.42,Theft,04-01-2024,06-01-2024,0,2,29729.27,32784.61,Yes,Yes,Lucknow,Vehicle collided with another car at a traffic signal.,0
+CLM01046,54,Third-Party,7.8,36806.76,Vandalism,14-09-2025,22-09-2025,4,11,32480.9,36666.9,Yes,No,Jaipur,Vehicle collided with another car at a traffic signal.,0
+CLM00819,35,Comprehensive,7.2,1939.18,Windshield Damage,03-03-2025,20-03-2025,2,0,2000,1929.88,No,Yes,Jaipur,Minor collision while reversing out of a parking spot.,0
+CLM00044,29,Comprehensive,0.9,28369.47,Windshield Damage,07-11-2024,07-11-2024,1,2,25962.19,27347.81,No,Yes,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00262,41,Third-Party Fire & Theft,6,67177.63,Injury/Accident,08-05-2025,14-05-2025,0,1,63838.76,66437.1,Yes,Yes,Kolkata,Car was damaged in heavy rain and flooding.,0
+CLM00825,39,Third-Party Fire & Theft,0.5,3233.92,Vandalism,18-02-2024,03-03-2024,2,0,3060.72,3165.64,No,Yes,Surat,Car was damaged in heavy rain and flooding.,0
+CLM00430,23,Comprehensive,5,42941.69,Windshield Damage,11-04-2025,11-04-2025,0,10,44065.54,42098.26,No,Yes,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00229,44,Comprehensive,0.5,56827.69,Vandalism,21-07-2023,21-07-2023,0,0,53137.22,59698.41,Yes,No,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00725,47,Third-Party Fire & Theft,0.7,19588.28,Collision,01-04-2025,01-04-2025,1,0,17018.79,19047.22,Yes,,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00006,53,Third-Party Fire & Theft,0.3,46089.88,Fire,14-01-2023,14-01-2023,2,21,41704.51,46751.58,Yes,No,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM01181,29,Third-Party Fire & Theft,5.1,40556.38,Theft,27-02-2025,02-03-2025,2,1,39759.17,39890.21,Yes,No,Bengaluru,Claim submitted just before policy renewal/expiry.,1
+CLM00802,36,Comprehensive,0.9,23515.45,Fire,15-09-2025,18-09-2025,0,3,21143.27,22499.42,No,No,Kolkata,Vehicle collided with another car at a traffic signal.,0
+CLM01012,54,Third-Party Fire & Theft,2.4,70483.87,Natural Disaster,18-03-2025,19-03-2025,0,5,61753.74,68340.47,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM01119,59,Third-Party Fire & Theft,1.9,48414.27,Natural Disaster,31-07-2025,01-08-2025,2,5,46858.45,50517.5,Yes,Yes,Lucknow,Tree branch fell on the car during a storm.,0
+CLM00586,26,Third-Party Fire & Theft,5,41317.76,Natural Disaster,17-02-2025,23-02-2025,0,5,36566.89,39678.23,No,No,Nagpur,Windshield cracked due to a stone hit on the highway.,0
+CLM00728,20,Third-Party,6.2,12245.25,Natural Disaster,14-09-2024,30-09-2024,0,20,11518.22,12873.79,Yes,Yes,Ahmedabad,Rear-ended while stopped at a junction.,0
+CLM00319,45,Third-Party Fire & Theft,3.8,16224.89,Vandalism,11-01-2025,13-01-2025,0,3,18459.61,17067.22,Yes,Yes,Kolkata,,0
+CLM00630,57,Third-Party,7.9,28052.5,Injury/Accident,13-01-2024,18-01-2024,0,4,28503.69,26929.28,Yes,No,Kochi,Car was damaged in heavy rain and flooding.,1
+CLM01112,19,Comprehensive,0.4,19034.66,Collision,10-06-2023,10-06-2023,0,9,16075.71,18538.74,Yes,No,Coimbatore,Claim submitted just before policy renewal/expiry.,1
+CLM00035,42,Third-Party,0.3,34830.74,Theft,29-04-2023,06-05-2023,4,4,28258.86,34539.52,No,Yes,Coimbatore,Rear-ended while stopped at a junction.,1
+CLM00313,26,Third-Party,11.9,15456.71,Theft,22-09-2023,28-09-2023,0,0,14738.56,15595.84,Yes,Yes,Jaipur,Incident location does not match customer's usual route.,1
+CLM01197,42,Comprehensive,0.7,24238.32,Fire,22-03-2023,22-05-2023,0,2,18014.61,23845.87,yes,No,Lucknow,Claim submitted just before policy renewal/expiry.,1
+CLM00076,20,Comprehensive,0.1,22772.04,Collision,17-05-2025,29-05-2025,1,10,18680.39,21720.58,No,Yes,Chennai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00174,37,Comprehensive,1.4,63832.7,Vandalism,04-10-2025,05-10-2025,0,1,61449.76,64822.69,Yes,Yes,Coimbatore,Windshield cracked due to a stone hit on the highway.,0
+CLM00095,26,Third-Party Fire & Theft,6.2,18069.08,Natural Disaster,25-08-2023,26-08-2023,1,5,18493.1,17749.19,Yes,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM00052,32,Comprehensive,10.6,46838.94,Fire,05-08-2025,06-08-2025,4,8,36315.76,45736.15,No,Yes,Surat,Rear-ended while stopped at a junction.,0
+CLM00552,53,Comprehensive,2.2,40098.51,Collision,18-06-2024,23-06-2024,2,1,40903.6,41822.79,Yes,No,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM00789,64,Third-Party Fire & Theft,8.4,5218.54,Collision,12-03-2025,20-03-2025,1,13,5110.9,5149.42,Yes,No,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM01078,27,Third-Party Fire & Theft,10,2936.54,Natural Disaster,17-09-2025,17-09-2025,0,3,2825.21,2798.3,Yes,Yes,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00420,37,Comprehensive,1.1,7828.21,Natural Disaster,10-11-2023,15-11-2023,0,12,8222.63,7926.64,Yes,No,Delhi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00748,50,Third-Party,1.6,13626.43,Theft,06-07-2023,14-07-2023,1,0,12520.74,13095.57,Yes,No,Pune,Rear-ended while stopped at a junction.,0
+CLM00221,38,Comprehensive,2.3,90537.85,Natural Disaster,10-11-2024,17-11-2024,0,6,81338.72,94394.91,Yes,No,Surat,,0
+CLM00509,35,Third-Party Fire & Theft,13.1,37522.96,Theft,28-09-2025,01-10-2025,0,11,33019.8,36679.73,Yes,No,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00711,32,Comprehensive,1.6,10939.68,Injury/Accident,09-10-2023,09-10-2023,1,0,9268.87,10662.99,No,No,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM00855,34,Third-Party Fire & Theft,16.4,12390.25,Collision,28-08-2025,05-09-2025,0,8,,12378.03,No,Yes,Kochi,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00608,55,Third-Party,2.1,32221.9,Fire,15-03-2025,16-03-2025,1,2,31128.49,30990.29,Yes,No,Mumbai,Tree branch fell on the car during a storm.,0
+CLM00388,34,Comprehensive,4.9,7940.33,Windshield Damage,10-11-2024,28-11-2024,0,1,8302.15,8298.81,Yes,Yes,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00094,44,Third-Party Fire & Theft,6.7,70452.13,Vandalism,08-12-2024,12-12-2024,3,0,64605.88,68857.46,Yes,Yes,Kolkata,Tree branch fell on the car during a storm.,0
+CLM00752,44,Comprehensive,7.9,15997.28,Windshield Damage,14-10-2023,15-10-2023,1,6,14756.27,15743.33,No,Yes,Chennai,Windshield cracked due to a stone hit on the highway.,0
+CLM00961,32,Third-Party Fire & Theft,1,28110.56,Natural Disaster,04-10-2024,08-10-2024,4,3,26524.74,28004.6,No,Yes,Bengaluru,Rear-ended while stopped at a junction.,0
+CLM00652,36,Comprehensive,1.3,40529.02,Fire,21-01-2025,22-01-2025,0,1,34082.01,41645.71,Yes,No,Nagpur,Vehicle collided with another car at a traffic signal.,0
+CLM00149,37,Third-Party,0.4,163414.66,Collision,06-06-2025,26-06-2025,2,5,157657.29,166968.79,No,Yes,Kochi,Tree branch fell on the car during a storm.,0
+CLM00754,18,Third-Party,1.8,58616.4,Fire,22-06-2023,26-06-2023,1,1,53674.96,58295.29,Yes,Yes,Surat,Vehicle scratched while parked in a mall parking lot.,0
+CLM00483,56,Comprehensive,1.4,32328.79,Windshield Damage,11-08-2024,30-08-2024,0,2,32251.32,32242.33,Yes,Yes,Hyderabad,Tree branch fell on the car during a storm.,0
+CLM00403,29,Third-Party,6.7,52716.98,Vandalism,05-10-2024,13-10-2024,1,4,45137.38,50930.08,Yes,No,Bengaluru,Vehicle scratched while parked in a mall parking lot.,0
+CLM00250,37,Comprehensive,0.3,21040.29,Fire,13-09-2025,15-09-2025,0,1,15317.39,20089.88,,No,Lucknow,Vehicle scratched while parked in a mall parking lot.,1
+CLM00341,5,Third-Party,1.5,33206.2,Injury/Accident,18-04-2023,02-05-2023,2,0,34996.7,34268.07,No,Yes,Mumbai,Tree branch fell on the car during a storm.,1
+CLM00916,29,Comprehensive,2.9,4395.03,Collision,04-04-2023,08-04-2023,2,4,3741.28,4301.38,Yes,Yes,Surat,Vehicle collided with another car at a traffic signal.,0
+CLM00201,47,Third-Party,0.1,20274.51,Fire,26-08-2023,24-09-2023,1,3,21279.54,21241.17,No,Yes,Surat,Minor collision while reversing out of a parking spot.,1
+CLM00852,53,Third-Party,2.4,25184.75,Collision,30-11-2023,11-12-2023,4,19,24071.65,26308.98,No,Yes,,Repair invoice submitted without an itemized breakdown.,1
+CLM00092,34,Third-Party Fire & Theft,4.8,27594.77,Vandalism,09-11-2024,09-11-2024,0,4,32491.37,28808.84,Yes,Yes,Mumbai,Vehicle collided with another car at a traffic signal.,0
+CLM00733,18,Third-Party Fire & Theft,1,121864.64,Vandalism,21-09-2024,09-10-2024,0,6,123914.53,125211.16,Yes,No,Bengaluru,Windshield cracked due to a stone hit on the highway.,0
+CLM00541,27,Third-Party Fire & Theft,3.5,37749.54,Windshield Damage,26-01-2024,31-01-2024,0,11,40034.6,38468.19,Yes,No,Hyderabad,Vehicle collided with another car at a traffic signal.,0
+CLM00692,,Third-Party,0.6,54903.05,Fire,14-10-2023,14-10-2023,2,16,50860.21,55070.16,No,No,Hyderabad,Rear-ended while stopped at a junction.,0
+CLM00585,,Third-Party,1.8,7831.16,Natural Disaster,07-02-2025,12-02-2025,1,0,7700.32,8160.08,Yes,No,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM00443,27,Third-Party,1.9,14043.8,Collision,14-04-2023,19-04-2023,2,0,13290.41,14596.46,No,No,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00610,34,Third-Party,0.3,25387.64,Injury/Accident,05-03-2024,17-03-2024,2,1,22920.82,24737.54,Yes,No,Nagpur,Vehicle skidded and hit a divider on a wet road.,0
+CLM01196,19,Comprehensive,1,36574.22,Collision,12-02-2025,19-02-2025,1,4,36825.25,37085.8,No,No,Lucknow,Tree branch fell on the car during a storm.,0
+CLM00281,32,Third-Party,8.1,5072.76,Collision,15-06-2023,15-06-2023,0,13,4267.6,4931.06,Yes,Yes,Coimbatore,Tree branch fell on the car during a storm.,0
+CLM00411,39,Comprehensive,1.2,66000.93,Injury/Accident,23-12-2023,24-12-2023,0,6,69462.8,65010.94,Yes,Yes,Jaipur,Customer requested cash settlement instead of repair.,1
+CLM00908,37,Third-Party Fire & Theft,0.2,14756.57,Vandalism,27-08-2024,29-08-2024,2,8,,14621.34,Yes,Yes,Chennai,"Vehicle reported stolen, recovered with no major damage.",1
+CLM01040,42,Comprehensive,0.7,25191.93,Natural Disaster,09-01-2025,19-01-2025,2,2,22716.33,24801.32,Yes,Yes,Ahmedabad,Minor collision while reversing out of a parking spot.,0
+CLM00569,28,Third-Party,2.4,59163.57,Collision,03-02-2025,08-02-2025,0,11,52604.96,59980.96,No,Yes,Ahmedabad,Minor collision while reversing out of a parking spot.,0
+CLM00894,18,Comprehensive,6.9,17531.92,Theft,06-04-2025,19-04-2025,1,2,17207.04,16842.46,Yes,Yes,Bengaluru,Claim filed for total loss shortly after policy purchase.,1
+CLM00695,24,Third-Party Fire & Theft,1.7,29014.77,Natural Disaster,22-01-2024,25-01-2024,0,0,24620.12,28683.76,Yes,Yes,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM01160,36,Third-Party,3.8,9793.12,Vandalism,31-12-2025,05-01-2026,0,0,9606.78,9838.54,No,No,Lucknow,Vehicle collided with another car at a traffic signal.,0
+CLM00688,52,Third-Party Fire & Theft,2.4,39887.5,Collision,03-12-2023,08-12-2023,0,5,45057.12,39854.37,Yes,Yes,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM00336,21,Third-Party,0,29244.47,Natural Disaster,05-11-2023,07-11-2023,2,12,20432.63,28042.01,No,No,Ahmedabad,Vehicle collided with another car at a traffic signal.,0
+CLM00643,49,Comprehensive,1.2,58913.96,Vandalism,21-12-2023,31-12-2023,0,3,65496.91,58637.61,Yes,Yes,Ahmedabad,Car was damaged in heavy rain and flooding.,0
+CLM00315,53,Third-Party,6.1,31961.11,Windshield Damage,28-03-2023,31-03-2023,0,22,28937.05,30502.42,Yes,No,Chennai,Minor collision while reversing out of a parking spot.,0
+CLM00783,25,Third-Party Fire & Theft,2.5,50412.62,Injury/Accident,21-03-2025,31-03-2025,0,8,32671.61,48263.96,Yes,No,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00949,36,Third-Party Fire & Theft,0.2,15557.74,Theft,20-01-2024,28-01-2024,5,0,9799.85,15329.27,,Yes,Surat,,1
+CLM01157,41,Third-Party,0,34962,Natural Disaster,10-04-2024,27-04-2024,1,15,23678.61,35454.02,No,Yes,Ahmedabad,Incident reported late at night with no witnesses.,1
+CLM01023,53,Comprehensive,12.5,39293.63,Fire,19-05-2024,20-05-2024,0,10,39004.58,40869.89,Yes,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00507,53,Third-Party Fire & Theft,2.1,31208.44,Natural Disaster,19-02-2024,07-03-2024,0,3,29952.9,30682.83,yes,Yes,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM01052,62,Comprehensive,4.7,16500.25,Injury/Accident,21-04-2025,22-04-2025,0,6,13989.39,16640.77,,No,Bengaluru,Vehicle collided with another car at a traffic signal.,0
+CLM00134,23,Third-Party,,65066.39,Vandalism,01-11-2024,06-11-2024,0,8,61816.04,65012.04,Yes,Yes,Ahmedabad,Rear-ended while stopped at a junction.,0
+CLM00093,52,Third-Party,0.9,53060.22,Theft,27-06-2024,27-06-2024,0,0,42815.1,51162.26,Yes,,Mumbai,Vehicle collided with another car at a traffic signal.,0
+CLM00835,49,Third-Party,9.6,29859.6,Fire,01-05-2024,07-05-2024,1,3,31457.68,30603.3,Yes,Yes,Lucknow,Claim filed for total loss shortly after policy purchase.,1
+CLM00593,46,Comprehensive,2.7,38682.29,Collision,25-12-2024,14-01-2025,2,3,32718.35,37727.83,No,,Coimbatore,Windshield cracked due to a stone hit on the highway.,0
+CLM01184,32,Third-Party Fire & Theft,1.2,32153.28,Fire,23-10-2024,27-10-2024,3,5,30243.46,32099.17,no,No,Kochi,Car was damaged in heavy rain and flooding.,0
+CLM01043,46,Third-Party Fire & Theft,3.1,14404.89,Natural Disaster,23-12-2023,25-12-2023,0,0,13094.76,13977.32,Yes,Yes,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM00395,66,Third-Party,3.9,21172.01,Fire,04-07-2025,09-07-2025,0,0,20472.41,20485.79,Yes,Yes,Lucknow,Vehicle collided with another car at a traffic signal.,0
+CLM01049,,Comprehensive,0.6,8039.21,Theft,11-01-2025,14-01-2025,1,3,6980.54,8097.76,Yes,Yes,Kochi,Windshield cracked due to a stone hit on the highway.,0
+CLM01174,22,Third-Party,6.5,8472.38,Injury/Accident,17-01-2023,18-01-2023,0,5,7065.65,8246.32,Yes,No,Mumbai,Rear-ended while stopped at a junction.,0
+CLM00576,66,Comprehensive,6.8,8218.62,Collision,28-07-2024,02-08-2024,0,22,7656.32,8024.19,No,Yes,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM00574,67,Third-Party,2.3,7762.43,Injury/Accident,09-11-2024,10-11-2024,2,2,6772.94,7864.88,Yes,Yes,Jaipur,Windshield cracked due to a stone hit on the highway.,0
+CLM00279,51,Third-Party Fire & Theft,4.7,36199.53,Collision,05-05-2023,09-05-2023,4,,38108.02,36501.79,Yes,Yes,Surat,Vehicle skidded and hit a divider on a wet road.,0
+CLM00736,38,Comprehensive,8.5,59257.68,Windshield Damage,30-11-2025,05-12-2025,4,10,59176.38,60068.45,No,Yes,Lucknow,Minor collision while reversing out of a parking spot.,0
+CLM01037,29,Third-Party Fire & Theft,5.9,19226.63,Natural Disaster,27-10-2023,06-11-2023,1,7,16804.66,19138.06,Yes,Yes,Pune,,0
+CLM00280,45,Third-Party,0.4,32242.64,Vandalism,10-08-2023,15-08-2023,0,2,33476.34,33855.13,,No,Lucknow,Claim submitted just before policy renewal/expiry.,1
+CLM00640,40,Comprehensive,5.2,61669.74,Fire,30-08-2023,04-09-2023,1,2,49740.23,63014.08,Yes,Yes,Hyderabad,Repair invoice submitted without an itemized breakdown.,1
+CLM00338,,Third-Party Fire & Theft,2.3,61664.15,Theft,22-03-2023,22-03-2023,1,5,56911.83,58790.24,Yes,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00228,21,Comprehensive,7.8,27685.25,Theft,11-08-2024,14-08-2024,2,5,28294.75,27212.71,Yes,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00699,49,Third-Party Fire & Theft,2.6,14145.98,Vandalism,18-01-2025,19-02-2025,2,3,12368.07,14706.52,Yes,No,Nagpur,Car was damaged in heavy rain and flooding.,1
+CLM00009,46,Third-Party,8.2,58204.73,Windshield Damage,05-12-2024,14-12-2024,0,8,59074.47,60566.51,Yes,Yes,Nagpur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00086,42,Third-Party Fire & Theft,0.2,45984.57,Windshield Damage,23-05-2024,30-05-2024,4,10,36217.29,46036.85,Yes,No,Delhi,Vehicle scratched while parked in a mall parking lot.,1
+CLM01050,41,Comprehensive,5.7,16615.34,Vandalism,07-11-2024,16-11-2024,0,0,16977.62,16152.39,Yes,No,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00896,28,Comprehensive,5.1,42122.18,Natural Disaster,30-10-2025,05-11-2025,0,8,44974.26,43579.39,Yes,No,Mumbai,Car was damaged in heavy rain and flooding.,0
+CLM00069,43,Third-Party Fire & Theft,3.7,51573.7,Theft,02-11-2025,04-11-2025,0,5,53353.45,53354.22,Yes,Yes,Delhi,Vehicle scratched while parked in a mall parking lot.,0
+CLM01104,48,Comprehensive,6.5,51542.53,Injury/Accident,15-04-2024,19-04-2024,0,1,44431.26,50355.66,Yes,Yes,Kolkata,Tree branch fell on the car during a storm.,0
+CLM00097,54,Third-Party Fire & Theft,9.2,32535.37,Windshield Damage,08-02-2024,09-02-2024,0,2,27218.2,31794.21,Yes,No,Kolkata,,0
+CLM00342,47,Third-Party,0.7,20664.81,Collision,02-03-2025,18-03-2025,0,9,20369.93,21120.63,Yes,Yes,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00122,40,Third-Party,0.4,110751.84,Fire,15-06-2023,15-07-2023,0,5,72545.55,111198.85,No,Yes,Delhi,,1
+CLM00157,48,Third-Party Fire & Theft,0.5,90522.73,Injury/Accident,19-07-2024,21-07-2024,1,2,87772.27,88401.93,No,Yes,Jaipur,Vehicle collided with another car at a traffic signal.,0
+CLM01051,54,Third-Party Fire & Theft,5.2,24862.62,Vandalism,08-09-2025,12-09-2025,0,6,21548.95,24039.61,,Yes,Coimbatore,Rear-ended while stopped at a junction.,0
+CLM00936,27,Third-Party Fire & Theft,16.1,4213.05,Vandalism,05-04-2025,08-04-2025,3,7,4299.81,4312.02,Yes,Yes,Mumbai,Rear-ended while stopped at a junction.,0
+CLM00983,50,Third-Party Fire & Theft,4.1,28240.65,Natural Disaster,03-01-2025,21-01-2025,0,10,28576.19,28281.35,yes,No,Nagpur,Windshield cracked due to a stone hit on the highway.,0
+CLM00634,69,Third-Party Fire & Theft,7.1,2624.9,Windshield Damage,09-05-2023,28-05-2023,1,2,2000,2600.37,No,No,Nagpur,Windshield cracked due to a stone hit on the highway.,1
+CLM00471,32,Comprehensive,2.1,39489.19,Injury/Accident,28-09-2025,07-10-2025,1,3,35437.99,38716.68,yes,Yes,Ahmedabad,Tree branch fell on the car during a storm.,0
+CLM00558,60,Third-Party Fire & Theft,1.9,56060.95,Natural Disaster,27-09-2025,30-09-2025,1,10,50084.44,54258.68,Yes,Yes,Jaipur,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00724,39,Third-Party Fire & Theft,1.4,56446.63,Collision,03-01-2024,07-01-2024,3,0,52429.16,58360.26,Yes,Yes,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00294,55,Third-Party Fire & Theft,3.3,9250.94,Fire,21-12-2024,05-01-2025,0,2,9444.62,9342.47,Yes,No,Coimbatore,Incident reported late at night with no witnesses.,1
+CLM00773,30,Comprehensive,2,31077.37,Theft,29-04-2024,05-05-2024,1,4,23924.54,30732.52,No,No,Nagpur,Customer requested cash settlement instead of repair.,1
+CLM00415,34,Third-Party,0.3,29860,Injury/Accident,07-09-2025,16-09-2025,1,2,27834.06,29577.78,No,Yes,Nagpur,Minor collision while reversing out of a parking spot.,0
+CLM01047,57,Comprehensive,4.5,7223.97,Vandalism,06-12-2023,09-12-2023,2,1,7692.6,6994.51,Yes,No,Mumbai,Rear-ended while stopped at a junction.,0
+CLM01144,41,Third-Party,1.3,10540.7,Windshield Damage,13-01-2025,16-01-2025,1,4,10094.83,10777.34,Yes,No,Kolkata,Vehicle skidded and hit a divider on a wet road.,0
+CLM00165,43,Comprehensive,4.8,15035.03,Collision,30-01-2024,13-02-2024,0,22,15846.62,14719.97,Yes,Yes,Mumbai,Tree branch fell on the car during a storm.,0
+CLM00121,31,Comprehensive,2.8,43675.68,Injury/Accident,08-08-2024,08-08-2024,0,,40318.79,43972.5,Yes,Yes,Hyderabad,Rear-ended while stopped at a junction.,0
+CLM00697,40,Comprehensive,2.1,22597.91,Theft,20-10-2025,29-10-2025,2,13,21480.81,22070.85,Yes,No,Jaipur,,0
+CLM00283,40,Third-Party Fire & Theft,1,24503.32,Natural Disaster,27-10-2024,27-10-2024,4,8,25792.72,25232.21,No,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM00365,42,Third-Party,2.9,65368.08,Theft,01-03-2025,06-03-2025,0,0,58622.97,62657.72,Yes,Yes,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00747,37,Third-Party Fire & Theft,2.1,64124.41,Fire,24-03-2023,24-03-2023,1,7,54942.87,61344.81,Yes,Yes,Surat,Rear-ended while stopped at a junction.,0
+CLM00311,18,Third-Party,2.8,90784.74,Theft,09-10-2023,28-10-2023,0,0,79112.07,95075.55,Yes,Yes,Hyderabad,Multiple prior claims for similar type of incident.,1
+CLM00511,40,Third-Party Fire & Theft,1.1,6669.48,Vandalism,24-07-2025,08-08-2025,2,2,7314.99,6668.19,Yes,Yes,Jaipur,Vehicle collided with another car at a traffic signal.,0
+CLM00180,52,Third-Party Fire & Theft,1.4,45139.15,Collision,01-03-2024,01-03-2024,2,0,39886.33,44434.68,No,No,Hyderabad,Rear-ended while stopped at a junction.,0
+CLM00810,36,Comprehensive,1.5,37885.01,Theft,16-12-2023,02-01-2024,0,12,32046.42,37771.36,No,Yes,Mumbai,Multiple prior claims for similar type of incident.,1
+CLM00821,33,Third-Party,0.4,14787.17,Collision,19-03-2025,19-03-2025,0,7,14001.86,14572.72,No,No,Jaipur,Vehicle collided with another car at a traffic signal.,0
+CLM00070,40,Third-Party,1.1,65159.58,Collision,15-05-2024,18-05-2024,0,2,65465.56,64110.28,No,No,Hyderabad,Customer requested cash settlement instead of repair.,1
+CLM00784,48,Third-Party,4.8,64571.93,Fire,07-10-2023,10-10-2023,2,12,68156.12,66797.36,Yes,Yes,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM00524,31,Third-Party,,29557.62,Theft,20-08-2023,25-08-2023,1,3,26635.01,30506.12,No,No,Nagpur,,0
+CLM01140,26,Third-Party,1.9,26712.99,Vandalism,24-10-2023,01-11-2023,1,3,22876.77,25611.06,No,Yes,Kochi,Car was damaged in heavy rain and flooding.,0
+CLM00993,73,Third-Party,1.2,35916.53,Natural Disaster,07-11-2025,08-11-2025,4,1,34815.34,35612,Yes,No,Ahmedabad,Claim submitted just before policy renewal/expiry.,1
+CLM00805,36,Third-Party Fire & Theft,7.9,23852.9,Natural Disaster,27-06-2024,06-07-2024,0,2,22283.02,23640.66,No,Yes,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00816,18,Third-Party,2,47414.88,Natural Disaster,07-05-2023,11-05-2023,5,1,44857.66,45853.41,No,Yes,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM00124,-5,Third-Party,8.7,8800.03,Vandalism,08-11-2024,16-11-2024,0,2,10214.2,9252.45,Yes,Yes,Kolkata,Claim submitted just before policy renewal/expiry.,1
+CLM00864,37,Third-Party Fire & Theft,3.7,29706.78,Injury/Accident,03-09-2024,07-09-2024,0,3,29319.59,29084.03,Yes,No,Delhi,Rear-ended while stopped at a junction.,0
+CLM00059,27,Comprehensive,16.8,22284.35,Fire,21-03-2024,25-03-2024,0,9,25500.44,23322.77,Yes,No,Coimbatore,Claim filed for total loss shortly after policy purchase.,1
+CLM01129,47,Comprehensive,2.6,49735.7,Theft,13-05-2025,18-05-2025,0,3,45072.09,50434.27,Yes,Yes,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00364,53,Comprehensive,2.6,41732.86,Vandalism,20-04-2023,04-05-2023,0,,39986.59,41277.31,Yes,Yes,Jaipur,Minor collision while reversing out of a parking spot.,0
+CLM01198,43,Third-Party,6.9,27534.55,Natural Disaster,26-08-2024,29-08-2024,0,5,25823.23,26744.38,Yes,Yes,Bengaluru,Vehicle skidded and hit a divider on a wet road.,0
+CLM00266,18,Third-Party,8.6,6663.29,Natural Disaster,04-01-2025,05-01-2025,3,11,,6770.19,Yes,No,Kolkata,Vehicle collided with another car at a traffic signal.,1
+CLM00834,34,Third-Party,0,35953.99,Vandalism,22-10-2023,02-11-2023,0,0,36965.29,36319.73,Yes,No,Chennai,Minor collision while reversing out of a parking spot.,0
+CLM01065,48,Third-Party Fire & Theft,0.6,87588.77,Natural Disaster,29-08-2023,06-09-2023,0,2,76736.02,90859.35,Yes,Yes,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00249,48,Comprehensive,1.4,35667.22,Windshield Damage,19-01-2025,19-01-2025,5,8,34342.03,36264.57,Yes,No,Surat,Vehicle scratched while parked in a mall parking lot.,0
+CLM00381,69,Comprehensive,2.8,92429.87,Injury/Accident,01-08-2023,06-08-2023,0,4,86415.73,93638.05,No,Yes,Delhi,Tree branch fell on the car during a storm.,0
+CLM00605,36,Third-Party Fire & Theft,0.8,44097.68,Injury/Accident,16-02-2024,17-02-2024,2,5,38688.05,44308.93,Yes,Yes,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM00988,34,Third-Party,7.9,112732.11,Theft,22-12-2025,27-12-2025,0,0,71518.86,108409.88,No,No,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM01061,36,Third-Party Fire & Theft,6.3,76376.77,Collision,15-04-2024,20-04-2024,1,7,73986.98,74453.59,Yes,Yes,Kolkata,,1
+CLM00551,42,Third-Party,0.7,15471.74,Vandalism,04-04-2023,05-04-2023,0,6,15527.44,15224.54,Yes,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00148,29,Third-Party Fire & Theft,0.9,22078.67,Fire,26-01-2023,03-02-2023,3,10,21243.15,23174.43,Yes,Yes,Surat,Minor collision while reversing out of a parking spot.,0
+CLM00252,39,Comprehensive,1.4,14711.4,Windshield Damage,07-04-2024,11-04-2024,2,4,13963.21,15052.12,Yes,Yes,,Minor collision while reversing out of a parking spot.,0
+CLM01126,30,Comprehensive,2.1,43780.97,Natural Disaster,13-04-2024,14-04-2024,1,1,40163.09,44116.89,Yes,No,Lucknow,Windshield cracked due to a stone hit on the highway.,0
+CLM01121,49,Comprehensive,1.6,30661.55,Fire,10-01-2025,18-01-2025,0,2,30607.1,31685.42,,Yes,Delhi,,0
+CLM00213,33,Comprehensive,0.7,40923.58,Fire,29-04-2025,04-05-2025,0,1,36448.22,40632.06,No,No,Nagpur,Customer requested cash settlement instead of repair.,1
+CLM00441,47,Third-Party,4.1,14489.88,Vandalism,17-02-2023,18-02-2023,4,7,13912.26,15136.95,Yes,Yes,Kolkata,Windshield cracked due to a stone hit on the highway.,0
+CLM00458,39,Comprehensive,5.8,34410.28,Fire,09-11-2024,17-11-2024,1,1,32321.09,34197.76,Yes,Yes,Kolkata,Incident reported late at night with no witnesses.,1
+CLM00565,29,Third-Party Fire & Theft,2.6,12069.6,Injury/Accident,16-07-2024,01-08-2024,1,2,12059.24,12342.53,No,Yes,Chennai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00331,53,Third-Party Fire & Theft,5.1,67723.74,Collision,27-09-2024,27-09-2024,1,3,63114.42,65504.11,Yes,No,Ahmedabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM00433,34,Third-Party Fire & Theft,1.5,117247.79,Theft,02-10-2024,22-10-2024,0,0,99194.3,118703.71,Yes,Yes,Lucknow,Tree branch fell on the car during a storm.,0
+CLM00277,47,Third-Party,2.3,44527.01,Windshield Damage,11-01-2025,13-01-2025,3,2,43673.98,44204.13,Yes,Yes,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM01081,56,Third-Party Fire & Theft,1.9,16503.06,Theft,25-07-2023,13-08-2023,0,3,15777.96,16443.16,Yes,,Jaipur,Rear-ended while stopped at a junction.,0
+CLM01073,47,Comprehensive,1.2,7088.24,Vandalism,25-02-2024,29-02-2024,0,,7548.88,7424.3,Yes,Yes,Kolkata,Tree branch fell on the car during a storm.,0
+CLM00963,20,Comprehensive,3.2,28612.87,Injury/Accident,31-12-2023,03-01-2024,0,1,25442.96,28965.8,,No,Lucknow,Tree branch fell on the car during a storm.,0
+CLM01132,38,Comprehensive,5.1,19247.89,Injury/Accident,01-12-2023,04-12-2023,3,6,19214.45,20131.38,Yes,Yes,Bengaluru,Claim filed for total loss shortly after policy purchase.,1
+CLM00902,36,Comprehensive,3.3,33511.68,Theft,20-01-2023,04-02-2023,3,0,30627.27,33279.69,Yes,Yes,Kolkata,Vehicle scratched while parked in a mall parking lot.,0
+CLM00449,54,Third-Party,1.9,33637.24,Windshield Damage,26-07-2024,30-07-2024,0,2,37996.55,33072.6,Yes,Yes,Delhi,Windshield cracked due to a stone hit on the highway.,0
+CLM00386,67,Third-Party,16.4,7202.16,Natural Disaster,26-03-2025,26-03-2025,1,1,7039.33,7133.58,Yes,Yes,Hyderabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM01017,39,Third-Party Fire & Theft,6.2,26959.13,Collision,18-08-2024,06-09-2024,3,5,26592.72,26225.77,No,No,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00525,42,Third-Party Fire & Theft,0.5,13996.41,Vandalism,02-02-2023,02-02-2023,1,0,14048.53,13346.31,Yes,No,Bengaluru,Rear-ended while stopped at a junction.,0
+CLM00304,18,Third-Party,1.7,75718.91,Windshield Damage,23-06-2023,24-06-2023,0,0,70995.97,75004.64,No,Yes,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM00488,20,Third-Party,12.7,12796.58,Natural Disaster,08-08-2023,27-08-2023,1,0,13843.56,12792.65,Yes,No,Hyderabad,Tree branch fell on the car during a storm.,0
+CLM01042,38,Third-Party Fire & Theft,10.8,56382.91,Natural Disaster,14-07-2024,15-07-2024,0,11,58602.81,54133.57,No,Yes,Coimbatore,Vehicle scratched while parked in a mall parking lot.,0
+CLM01130,24,Third-Party Fire & Theft,5.1,32602.49,Natural Disaster,29-12-2025,01-01-2026,0,10,28412.17,31545.79,Yes,Yes,Nagpur,Tree branch fell on the car during a storm.,0
+CLM00941,,Third-Party Fire & Theft,1.4,31181.12,Natural Disaster,15-09-2024,16-09-2024,1,1,30685.13,29777.93,Yes,Yes,Kochi,Rear-ended while stopped at a junction.,0
+CLM00068,34,Comprehensive,0.1,6501.18,Collision,27-07-2025,06-08-2025,0,12,6121.48,6697.81,Yes,Yes,Mumbai,Windshield cracked due to a stone hit on the highway.,0
+CLM00020,25,Comprehensive,1.8,38272.88,Windshield Damage,08-10-2024,12-10-2024,2,1,34714.27,37164.29,Yes,No,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM00878,52,Comprehensive,1.5,31459.2,Natural Disaster,03-09-2023,04-09-2023,1,4,29322.51,30079.98,Yes,No,Jaipur,Minor collision while reversing out of a parking spot.,0
+CLM00325,50,Comprehensive,4.1,47768.99,Fire,09-02-2024,12-02-2024,0,13,44734.81,49600.66,Yes,No,Coimbatore,Car was damaged in heavy rain and flooding.,0
+CLM00261,36,Third-Party Fire & Theft,1.3,29591.89,Theft,06-03-2025,04-04-2025,0,0,19752.98,30391.39,Yes,Yes,Pune,Claim submitted just before policy renewal/expiry.,1
+CLM00131,31,Third-Party,15.6,54975.5,Theft,29-12-2025,04-01-2026,1,4,51644.3,52718.7,Yes,Yes,Kolkata,Vehicle collided with another car at a traffic signal.,0
+CLM00410,18,Third-Party,5.7,17761.09,Injury/Accident,13-05-2023,21-05-2023,4,13,17450.68,18182.94,No,No,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM00401,55,Third-Party Fire & Theft,3.5,84598.11,Collision,11-11-2023,28-11-2023,0,1,58787.89,81978.92,No,No,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM00831,25,Third-Party Fire & Theft,11.9,58118.22,Windshield Damage,26-07-2023,29-07-2023,0,22,55776.33,59877.75,Yes,Yes,Surat,Vehicle scratched while parked in a mall parking lot.,0
+CLM00055,44,Comprehensive,3.9,28568.47,Theft,12-04-2025,19-04-2025,3,3,20322.33,29966.3,No,No,Ahmedabad,Vehicle skidded and hit a divider on a wet road.,1
+CLM00964,35,Comprehensive,0.6,47090.93,Windshield Damage,22-12-2024,22-12-2024,2,3,45839.12,48060.81,No,No,Coimbatore,Vehicle skidded and hit a divider on a wet road.,0
+CLM00932,38,Third-Party Fire & Theft,0.8,18749.25,Natural Disaster,22-04-2023,24-04-2023,1,4,18060.18,18320.16,No,Yes,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM01133,42,Third-Party,17.5,8240.34,Vandalism,17-07-2023,24-07-2023,5,7,7698.24,7993.33,Yes,No,Lucknow,Vehicle skidded and hit a divider on a wet road.,0
+CLM00151,35,Third-Party Fire & Theft,0.8,22589.23,Natural Disaster,07-07-2024,12-07-2024,1,11,20515.59,21581.12,Yes,No,Ahmedabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM01007,35,Third-Party,1.2,29343.69,Vandalism,20-03-2025,24-03-2025,2,3,27306.81,29291.72,Yes,Yes,Ahmedabad,Vehicle collided with another car at a traffic signal.,0
+CLM00673,39,Third-Party,0.6,15392.97,Injury/Accident,10-04-2023,12-04-2023,3,1,16117.41,15115.3,Yes,No,Mumbai,Vehicle collided with another car at a traffic signal.,0
+CLM01029,20,Third-Party Fire & Theft,2.4,26691.93,Collision,04-06-2023,09-06-2023,5,3,27601.65,27405.95,No,Yes,Surat,Vehicle collided with another car at a traffic signal.,0
+CLM01028,39,Comprehensive,2.5,9308.94,Natural Disaster,07-02-2024,19-02-2024,0,,9016.49,9452.87,Yes,Yes,Lucknow,Vehicle scratched while parked in a mall parking lot.,0
+CLM00107,42,Third-Party Fire & Theft,4.4,15924.34,Injury/Accident,17-11-2024,21-11-2024,1,4,15963.16,16181.22,Yes,Yes,Surat,Windshield cracked due to a stone hit on the highway.,0
+CLM00744,62,Third-Party,1.2,33813.23,Vandalism,05-10-2024,05-10-2024,2,5,31661.81,34731.99,Yes,No,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM01117,19,Third-Party,1.6,20287.64,Vandalism,08-03-2023,09-03-2023,4,2,20541.58,20892.56,Yes,No,Kolkata,Customer requested cash settlement instead of repair.,1
+CLM00444,50,Third-Party Fire & Theft,3.2,38059.95,Windshield Damage,21-08-2025,27-08-2025,0,0,31363.89,37106.58,Yes,Yes,Jaipur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00750,36,Comprehensive,10.6,22563.04,Collision,08-04-2025,21-04-2025,1,4,19317.83,21536.85,No,Yes,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00756,39,Third-Party,19.6,37693.78,Windshield Damage,21-09-2023,07-10-2023,4,5,35303.58,37951.4,Yes,Yes,Surat,Windshield cracked due to a stone hit on the highway.,0
+CLM00025,45,Third-Party,2.6,56314.74,Collision,07-04-2023,10-04-2023,1,0,47064.57,55564.1,Yes,Yes,Delhi,Windshield cracked due to a stone hit on the highway.,0
+CLM00812,39,Third-Party,1,22511.38,Vandalism,28-09-2025,03-10-2025,1,2,22594.83,23634.07,Yes,No,Mumbai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00662,55,Third-Party,2.8,25773.85,Collision,21-07-2024,22-07-2024,0,6,27647.49,26166.71,Yes,Yes,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM00839,31,Third-Party,1.5,72757,Injury/Accident,26-06-2025,28-06-2025,1,12,68002.39,69717.62,Yes,Yes,Hyderabad,Tree branch fell on the car during a storm.,0
+CLM00534,26,Third-Party Fire & Theft,1,30698.95,Injury/Accident,19-02-2025,21-02-2025,1,5,31476.58,30374.88,No,No,Lucknow,Tree branch fell on the car during a storm.,0
+CLM01091,44,Comprehensive,3.3,33926.28,Injury/Accident,15-03-2023,20-03-2023,0,4,31457.94,33180.68,Yes,Yes,Bengaluru,Tree branch fell on the car during a storm.,0
+CLM00083,53,Third-Party Fire & Theft,3.9,60611.33,Windshield Damage,12-04-2025,12-04-2025,0,6,59449.77,61627.45,Yes,Yes,Bengaluru,Car was damaged in heavy rain and flooding.,0
+CLM00256,42,Third-Party Fire & Theft,0.8,10440.38,Fire,10-08-2023,12-08-2023,0,1,10995.11,10573.02,,Yes,Ahmedabad,Repair invoice submitted without an itemized breakdown.,1
+CLM00935,46,Third-Party,7.3,13734.09,Fire,14-04-2023,14-04-2023,3,0,12641.05,13785.74,Yes,No,Jaipur,Rear-ended while stopped at a junction.,0
+CLM00870,58,Third-Party Fire & Theft,0.4,18326.41,Theft,30-12-2025,04-01-2026,0,7,19105.91,18528.84,Yes,No,Kochi,Vehicle skidded and hit a divider on a wet road.,0
+CLM01116,25,Comprehensive,,37084.7,Windshield Damage,20-09-2023,20-09-2023,3,1,32993.56,36419.53,Yes,Yes,Jaipur,Vehicle collided with another car at a traffic signal.,0
+CLM00893,29,Third-Party Fire & Theft,8.5,15833.81,Theft,02-12-2024,05-12-2024,0,5,15154.58,15751.56,Yes,Yes,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM00874,39,Third-Party,13.9,43547.74,Injury/Accident,02-07-2023,11-07-2023,1,,38229.36,41530.86,No,No,Pune,Rear-ended while stopped at a junction.,0
+CLM00614,55,Third-Party,6.6,83667.29,Natural Disaster,08-09-2025,09-09-2025,1,8,72870.45,85680.48,Yes,Yes,Jaipur,Minor collision while reversing out of a parking spot.,0
+CLM00380,35,Third-Party Fire & Theft,1.2,34145.93,Collision,01-01-2025,03-01-2025,1,2,28510.57,34471.18,Yes,No,Pune,Windshield cracked due to a stone hit on the highway.,0
+CLM00077,28,Comprehensive,0.5,43398.45,Fire,25-09-2023,25-09-2023,0,2,47617.89,42632.57,Yes,No,Delhi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00389,49,Third-Party,6,76491.2,Vandalism,30-03-2025,23-04-2025,2,9,67409.19,80433.85,,No,Kolkata,Vehicle skidded and hit a divider on a wet road.,0
+CLM00937,44,Third-Party,0.1,43614.72,Vandalism,06-07-2025,07-07-2025,4,5,47033.1,45430.43,Yes,No,Surat,Windshield cracked due to a stone hit on the highway.,0
+CLM00407,39,Third-Party,0.4,83116.21,Injury/Accident,02-10-2025,22-10-2025,0,0,66091.05,85711.71,No,No,Mumbai,Rear-ended while stopped at a junction.,0
+CLM00292,61,Third-Party Fire & Theft,2.8,88718.11,Natural Disaster,06-11-2024,20-11-2024,0,0,90041.66,86853.21,Yes,Yes,Kolkata,Windshield cracked due to a stone hit on the highway.,0
+CLM00795,59,Comprehensive,5.6,6544.93,Collision,01-03-2025,01-03-2025,3,11,6614.75,6410.07,Yes,Yes,Lucknow,Vehicle skidded and hit a divider on a wet road.,0
+CLM00716,55,Third-Party Fire & Theft,0.2,135602.48,Fire,24-04-2023,12-05-2023,1,19,91025.85,132733.14,No,Yes,Surat,Claim submitted just before policy renewal/expiry.,1
+CLM00111,41,Third-Party Fire & Theft,6.8,39746.13,Natural Disaster,03-02-2024,06-02-2024,0,10,40675.37,38661.57,Yes,No,Ahmedabad,Minor collision while reversing out of a parking spot.,0
+CLM00625,18,Third-Party,0.2,3380.15,Collision,16-06-2025,16-06-2025,2,0,3588.01,3388.07,No,Yes,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM01076,29,Third-Party,4.1,24351.8,Natural Disaster,18-07-2024,26-07-2024,0,3,26924.62,25276.94,Yes,No,Nagpur,Minor collision while reversing out of a parking spot.,0
+CLM01066,37,Third-Party Fire & Theft,0.1,26887.29,Theft,03-01-2023,22-01-2023,0,0,21214.23,27889.33,No,No,Jaipur,Minor collision while reversing out of a parking spot.,0
+CLM00247,63,Third-Party,3.8,15613.51,Collision,17-01-2025,22-01-2025,2,6,12332.17,15969.61,No,Yes,Mumbai,,0
+CLM00146,29,Third-Party,7.9,42179.2,Windshield Damage,05-09-2023,08-09-2023,0,6,36519.32,43637.68,No,No,Pune,Vehicle collided with another car at a traffic signal.,0
+CLM01124,40,Third-Party,1.7,27870.15,Theft,08-05-2025,09-05-2025,4,3,28006.53,28158.26,Yes,No,Pune,Customer requested cash settlement instead of repair.,1
+CLM00129,22,Third-Party,1.7,13901.84,Vandalism,21-09-2025,21-09-2025,1,7,12435.04,14236.33,Yes,Yes,Kolkata,Vehicle collided with another car at a traffic signal.,0
+CLM01107,27,Third-Party Fire & Theft,11.2,20129.22,Theft,02-09-2025,02-09-2025,2,8,14121.46,20666.47,Yes,No,Pune,Tree branch fell on the car during a storm.,0
+CLM00623,31,Comprehensive,9.2,22134.37,Collision,18-10-2023,19-10-2023,2,0,,22671.12,Yes,Yes,Hyderabad,Tree branch fell on the car during a storm.,0
+CLM01189,41,Third-Party,0.6,34933.34,Natural Disaster,03-09-2023,12-09-2023,0,0,29949.96,33646.02,No,Yes,Nagpur,Minor collision while reversing out of a parking spot.,0
+CLM00461,40,Third-Party,0.5,52225.86,Theft,09-12-2025,14-12-2025,0,3,47967.26,52840.88,Yes,No,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM00487,35,Third-Party Fire & Theft,2.4,9915.07,Windshield Damage,15-08-2024,29-08-2024,0,4,8918.04,10143.1,No,No,Chennai,Vehicle collided with another car at a traffic signal.,1
+CLM01146,44,Comprehensive,5.9,25779.7,Injury/Accident,30-05-2024,19-06-2024,4,1,24964.66,26849.65,Yes,Yes,Bengaluru,Windshield cracked due to a stone hit on the highway.,0
+CLM00091,72,Comprehensive,1.4,26135.5,Windshield Damage,25-07-2024,07-08-2024,3,5,19017.61,24922.61,No,No,Kochi,,0
+CLM00206,33,Third-Party Fire & Theft,0.5,24703.02,Vandalism,06-09-2023,06-09-2023,0,7,26362.29,25387.42,Yes,No,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM00493,52,Third-Party,1.5,76846.64,Windshield Damage,27-08-2024,30-08-2024,0,0,67588.3,76862.41,Yes,No,Delhi,Rear-ended while stopped at a junction.,0
+CLM00171,34,Third-Party,0.3,61970.2,Collision,26-01-2023,21-02-2023,0,2,52793.51,62256.57,Yes,Yes,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM01154,62,Third-Party,4,15206.83,Vandalism,11-07-2024,18-07-2024,0,12,15588.19,15608.89,Yes,No,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00745,71,Third-Party Fire & Theft,1.4,48201.86,Fire,01-03-2024,03-03-2024,0,0,47263.7,48429.49,Yes,No,Hyderabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM00057,29,Third-Party,0.8,10144.36,Collision,10-03-2025,27-03-2025,1,11,,10138.39,Yes,Yes,Nagpur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00405,32,Third-Party,1.1,80343.37,Natural Disaster,30-08-2023,02-09-2023,1,0,70103.97,76633.62,Yes,Yes,Nagpur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00600,34,Comprehensive,4.1,29911.26,Fire,30-05-2024,02-06-2024,0,2,27158.65,29717.88,,Yes,Lucknow,Rear-ended while stopped at a junction.,0
+CLM01016,23,Comprehensive,1.8,23285.3,Injury/Accident,22-04-2023,22-04-2023,1,0,22057.18,23690.81,No,No,Kochi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00098,57,Comprehensive,0.8,35914.92,Injury/Accident,07-11-2024,19-11-2024,4,1,35173.97,36112.44,Yes,Yes,Kochi,Tree branch fell on the car during a storm.,0
+CLM00827,36,Third-Party,1.8,44507.75,Natural Disaster,24-03-2025,26-03-2025,0,4,40521.38,42967.97,No,No,Surat,Tree branch fell on the car during a storm.,0
+CLM00480,27,Comprehensive,0.3,42131.58,Vandalism,07-11-2024,07-11-2024,0,22,38921.33,42345.07,Yes,Yes,Mumbai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00324,36,Third-Party,1,41835.75,Fire,30-10-2023,31-10-2023,3,0,38294.31,42634.73,Yes,Yes,Mumbai,Rear-ended while stopped at a junction.,0
+CLM01085,61,Third-Party,3,43990.51,Theft,29-01-2025,29-01-2025,0,9,45670.57,45013.82,Yes,No,Coimbatore,Windshield cracked due to a stone hit on the highway.,0
+CLM00099,35,Comprehensive,13.9,10951.42,Injury/Accident,07-09-2024,07-09-2024,1,1,10751.12,11248.32,Yes,Yes,Kochi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00425,31,Third-Party Fire & Theft,5.9,19833.84,Theft,12-11-2023,14-11-2023,3,3,17291.42,18975.65,Yes,Yes,Kochi,Car was damaged in heavy rain and flooding.,0
+CLM00297,18,Third-Party,4.5,35332.62,Natural Disaster,08-04-2024,15-04-2024,0,5,35527.14,34637.75,No,No,Surat,Minor collision while reversing out of a parking spot.,0
+CLM00738,34,Comprehensive,8.1,139347.86,Injury/Accident,18-03-2025,14-04-2025,3,11,96744.95,139273.6,Yes,No,Coimbatore,Incident reported late at night with no witnesses.,1
+CLM01138,46,Third-Party,1.3,53276.87,Injury/Accident,11-11-2025,13-11-2025,1,4,51927.97,53426.8,No,No,Nagpur,Claim submitted just before policy renewal/expiry.,1
+CLM00903,45,Third-Party Fire & Theft,4,6966.75,Collision,01-12-2025,09-12-2025,0,0,6620.79,6852.7,Yes,Yes,Coimbatore,Vehicle scratched while parked in a mall parking lot.,0
+CLM00602,50,Comprehensive,21.7,16744.1,Fire,14-01-2023,14-01-2023,0,1,16968.01,16839.07,Yes,No,Pune,Minor collision while reversing out of a parking spot.,0
+CLM01000,27,Comprehensive,1.7,9690.58,Windshield Damage,30-05-2024,01-06-2024,5,0,10090.37,9525.08,Yes,No,Coimbatore,Incident reported late at night with no witnesses.,1
+CLM00396,50,Third-Party,1.7,9838.92,Natural Disaster,09-06-2025,09-06-2025,0,22,8376.18,9518.73,No,No,Kochi,Vehicle scratched while parked in a mall parking lot.,1
+CLM00427,46,Comprehensive,0.3,32027.7,Collision,04-04-2023,05-04-2023,1,5,26232.55,30877.83,Yes,Yes,Kochi,Vehicle scratched while parked in a mall parking lot.,0
+CLM01101,30,Third-Party,1.1,15207.37,Windshield Damage,13-05-2024,25-05-2024,0,3,13874.23,15684.38,Yes,,Nagpur,Tree branch fell on the car during a storm.,0
+CLM01039,54,Third-Party,4.2,19822.28,Fire,24-04-2024,02-05-2024,1,2,18393.98,20012.14,No,Yes,Kochi,Vehicle collided with another car at a traffic signal.,1
+CLM00253,26,Third-Party Fire & Theft,1.5,8926.55,Fire,04-07-2023,10-07-2023,0,8,10050.31,8685.91,No,Yes,Chennai,Minor collision while reversing out of a parking spot.,0
+CLM00239,31,Third-Party,0.3,44037.67,Vandalism,10-09-2024,17-09-2024,0,5,39826.86,45101.79,No,No,Kolkata,Repair invoice submitted without an itemized breakdown.,1
+CLM00845,37,Comprehensive,14.7,58061.16,Windshield Damage,29-04-2023,02-05-2023,0,5,54766.18,61046.15,No,No,Chennai,Rear-ended while stopped at a junction.,0
+CLM00846,44,Third-Party,1.1,36726.61,Collision,08-01-2025,08-01-2025,4,0,35994.54,37711.97,Yes,Yes,Hyderabad,Repair invoice submitted without an itemized breakdown.,1
+CLM00555,56,Third-Party Fire & Theft,0,47428.38,Injury/Accident,22-11-2024,22-11-2024,0,13,49736.23,49368.61,Yes,No,Nagpur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00546,59,Third-Party Fire & Theft,1.7,35012.41,Injury/Accident,23-02-2024,02-03-2024,1,7,29554.92,33457.66,Yes,Yes,Bengaluru,Minor collision while reversing out of a parking spot.,0
+CLM00251,36,Third-Party,,20354.44,Windshield Damage,24-08-2023,24-08-2023,0,1,20886.3,20961.25,No,Yes,Mumbai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00740,48,Third-Party,4.8,9586.73,Fire,07-10-2024,09-10-2024,0,0,8714.32,9324.76,No,Yes,Lucknow,Minor collision while reversing out of a parking spot.,0
+CLM00965,33,Third-Party Fire & Theft,2.1,27053.15,Injury/Accident,04-05-2025,10-05-2025,0,3,25131.63,26143.55,No,Yes,Surat,Vehicle scratched while parked in a mall parking lot.,0
+CLM00199,46,Third-Party Fire & Theft,15.9,31212.3,Vandalism,13-08-2024,14-08-2024,2,,28550.37,31284.57,Yes,Yes,Surat,Minor collision while reversing out of a parking spot.,0
+CLM00898,55,Third-Party,2.4,63119.7,Windshield Damage,31-12-2025,31-12-2025,2,2,64024.62,64166.08,No,Yes,Coimbatore,Vehicle collided with another car at a traffic signal.,0
+CLM01062,21,Comprehensive,1.2,15317.82,Collision,03-02-2023,04-02-2023,2,3,14359.02,15218.29,Yes,Yes,Jaipur,Rear-ended while stopped at a junction.,0
+CLM00990,21,Comprehensive,3.2,32100.18,Injury/Accident,14-05-2024,19-05-2024,3,7,30090.28,31036.5,Yes,Yes,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM01041,33,Third-Party,1.9,64341.65,Collision,23-03-2023,26-03-2023,1,,63840.75,64018.41,Yes,Yes,Mumbai,Tree branch fell on the car during a storm.,0
+CLM00244,53,Third-Party,3.9,109763.09,Windshield Damage,16-04-2024,24-04-2024,1,9,93153.49,110992.55,Yes,Yes,Bengaluru,Tree branch fell on the car during a storm.,0
+CLM00067,52,Third-Party,6.4,28291.89,Theft,06-09-2024,12-09-2024,0,2,27370.32,27375.02,No,Yes,Pune,Claim submitted just before policy renewal/expiry.,1
+CLM01158,34,Third-Party,4.3,29359.85,Fire,24-04-2025,27-04-2025,0,1,30616.9,30620.55,Yes,Yes,Delhi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00934,31,Comprehensive,3.4,31925.62,Collision,03-10-2025,05-10-2025,2,4,24093.64,30920.88,Yes,No,Bengaluru,Tree branch fell on the car during a storm.,0
+CLM00360,,Third-Party Fire & Theft,2.8,27713.38,Vandalism,30-01-2025,30-01-2025,2,1,27394.89,27567.78,Yes,Yes,Lucknow,Windshield cracked due to a stone hit on the highway.,0
+CLM00096,47,Comprehensive,2.5,21560.74,Fire,01-04-2023,27-04-2023,2,10,19219.1,22600.1,No,Yes,Chennai,Minor collision while reversing out of a parking spot.,1
+CLM01180,23,Third-Party,3.9,83478.06,Windshield Damage,20-02-2025,25-02-2025,0,2,87155.08,85206.99,Yes,Yes,Mumbai,Vehicle collided with another car at a traffic signal.,0
+CLM00129,22,Third-Party,1.7,13901.84,Vandalism,21-09-2025,21-09-2025,1,7,12435.04,14236.33,Yes,Yes,Kolkata,Vehicle collided with another car at a traffic signal.,0
+CLM00522,29,Third-Party,11.4,47602.26,Injury/Accident,18-05-2025,21-05-2025,0,3,49256.42,46696.98,Yes,Yes,Surat,Minor collision while reversing out of a parking spot.,0
+CLM00975,39,Comprehensive,2.7,17874.27,Injury/Accident,23-01-2025,31-01-2025,1,0,,17348.62,No,No,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00666,35,Third-Party,7.7,36934.69,Collision,10-07-2023,11-07-2023,1,5,34948.7,36819.33,No,No,Jaipur,Minor collision while reversing out of a parking spot.,0
+CLM00362,48,Comprehensive,0.5,25288.04,Fire,09-07-2025,12-07-2025,0,0,26410.66,26507.59,Yes,Yes,Surat,Car was damaged in heavy rain and flooding.,0
+CLM00485,35,Third-Party Fire & Theft,10.8,18484.62,Injury/Accident,18-03-2023,09-04-2023,2,9,18877.76,19029.75,Yes,Yes,Kolkata,Car was damaged in heavy rain and flooding.,0
+CLM00312,34,Third-Party,11.7,31635.01,Collision,16-01-2023,16-01-2023,0,9,30791.68,32459.99,Yes,No,Lucknow,Vehicle skidded and hit a divider on a wet road.,0
+CLM00843,37,Comprehensive,7,82458.2,Collision,29-09-2024,30-09-2024,2,13,88186.21,85274.62,Yes,No,Delhi,Incident location does not match customer's usual route.,1
+CLM00414,35,Third-Party Fire & Theft,0.2,30027.5,Theft,26-06-2023,07-07-2023,1,0,24618.19,29347.02,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00032,50,Third-Party Fire & Theft,0.4,20476.2,Natural Disaster,12-02-2024,14-02-2024,2,0,19413.48,20744.55,No,No,Pune,Car was damaged in heavy rain and flooding.,0
+CLM00766,40,Third-Party Fire & Theft,0,25281.51,Fire,09-09-2025,12-09-2025,0,6,16909,25690.3,No,No,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM00459,52,Third-Party Fire & Theft,13.9,101424.38,Fire,24-02-2023,30-03-2023,0,3,107770.5,97461.09,Yes,No,Hyderabad,Claim submitted just before policy renewal/expiry.,1
+CLM00340,29,Third-Party,0.3,12855.27,Fire,04-03-2025,06-03-2025,1,1,15138.17,13381.43,No,Yes,Nagpur,Incident location does not match customer's usual route.,1
+CLM00287,25,Third-Party,17.8,61230.55,Injury/Accident,14-07-2023,17-07-2023,2,18,50576.46,60508.14,Yes,Yes,Kolkata,Tree branch fell on the car during a storm.,0
+CLM00460,30,Third-Party Fire & Theft,1.7,16389.13,Windshield Damage,11-04-2024,17-04-2024,1,1,15040.99,15874.95,Yes,No,Coimbatore,Vehicle collided with another car at a traffic signal.,0
+CLM00950,29,Third-Party,12.8,30253.17,Theft,25-07-2025,04-08-2025,2,10,26441.9,29380.82,Yes,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00140,38,Comprehensive,4.1,23113.8,Vandalism,23-08-2023,25-08-2023,1,2,,22948.86,Yes,Yes,Ahmedabad,Rear-ended while stopped at a junction.,0
+CLM00849,,Third-Party,1.5,54929.38,Natural Disaster,02-07-2025,10-07-2025,1,1,55062.69,57248,Yes,Yes,Surat,Car was damaged in heavy rain and flooding.,0
+CLM01026,31,Third-Party,8.2,11284.59,Fire,17-09-2024,19-09-2024,0,6,11183.39,11461.09,Yes,No,Jaipur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00901,38,Comprehensive,0.8,12668.1,Natural Disaster,01-06-2024,05-06-2024,1,7,12999.06,13165.65,Yes,Yes,Lucknow,Vehicle skidded and hit a divider on a wet road.,0
+CLM00732,39,Third-Party Fire & Theft,9.7,43440.93,Collision,17-11-2024,19-11-2024,0,8,38731.81,41465.46,Yes,No,Nagpur,Vehicle collided with another car at a traffic signal.,1
+CLM00265,43,Third-Party,2.5,43322.41,Theft,12-01-2025,20-01-2025,2,5,38694.14,45337.17,Yes,Yes,Kochi,Windshield cracked due to a stone hit on the highway.,0
+CLM00275,42,Comprehensive,0.2,36985.18,Fire,18-04-2023,25-04-2023,0,2,31256.32,35365.04,Yes,No,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM00445,43,Comprehensive,5.1,18559.59,Windshield Damage,09-08-2023,13-08-2023,1,0,18918.81,18340.27,Yes,No,Delhi,Minor collision while reversing out of a parking spot.,0
+CLM00040,46,Third-Party,0.5,37062.08,Vandalism,03-02-2025,07-02-2025,1,5,30420.54,35716.79,Yes,Yes,Jaipur,Vehicle skidded and hit a divider on a wet road.,1
+CLM00022,19,Third-Party,0.5,38887.79,Vandalism,28-07-2025,01-08-2025,2,3,40840.63,38730.41,Yes,No,Hyderabad,Car was damaged in heavy rain and flooding.,0
+CLM00706,60,Comprehensive,3,17493.53,Natural Disaster,31-10-2024,12-11-2024,0,0,16670.27,17068.16,No,Yes,Coimbatore,Incident location does not match customer's usual route.,1
+CLM00518,37,Third-Party,8.3,49007.85,Windshield Damage,12-02-2025,12-02-2025,0,1,41630.36,48414.53,Yes,Yes,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM00355,18,Third-Party,4.2,45528.93,Windshield Damage,08-07-2025,18-07-2025,3,0,49708.79,45650.2,No,Yes,Jaipur,Rear-ended while stopped at a junction.,0
+CLM00298,49,Third-Party Fire & Theft,0.8,74176.02,Windshield Damage,23-02-2023,06-03-2023,0,0,69072.65,70890.39,Yes,Yes,Chennai,Vehicle scratched while parked in a mall parking lot.,0
+CLM01077,73,Comprehensive,7.9,83868.8,Vandalism,15-09-2025,01-10-2025,0,0,79793.18,81190.19,No,Yes,Pune,Car was damaged in heavy rain and flooding.,0
+CLM00840,47,Third-Party Fire & Theft,10.1,50720.16,Vandalism,02-07-2023,02-07-2023,0,3,44355.12,49869.08,No,Yes,Ahmedabad,Rear-ended while stopped at a junction.,0
+CLM00925,41,Third-Party Fire & Theft,1.3,57139.8,Windshield Damage,25-09-2023,09-10-2023,0,7,61276.56,56160.14,Yes,No,Ahmedabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM00123,32,Comprehensive,0.5,19145.24,Vandalism,09-11-2023,13-11-2023,0,1,20394.52,18910.94,Yes,Yes,Mumbai,Rear-ended while stopped at a junction.,0
+CLM01092,43,Third-Party Fire & Theft,0.1,27521.58,Collision,19-11-2023,22-11-2023,0,6,26473.16,27966.92,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00418,48,Third-Party Fire & Theft,3.6,19905.51,Fire,20-09-2023,23-09-2023,0,1,17826.97,19574.18,Yes,Yes,Nagpur,Car was damaged in heavy rain and flooding.,0
+CLM00967,68,Third-Party,3.6,9384.91,Theft,19-04-2023,20-04-2023,0,17,9157.49,9283.8,Yes,Yes,Bengaluru,Vehicle collided with another car at a traffic signal.,0
+CLM00158,,Comprehensive,1.4,51878.21,Collision,09-05-2024,09-05-2024,2,12,50446.14,50842.62,Yes,Yes,Ahmedabad,,0
+CLM01064,42,Comprehensive,1.8,66271.7,Theft,01-09-2025,13-09-2025,4,5,,66840.86,Yes,Yes,Nagpur,Claim filed for total loss shortly after policy purchase.,1
+CLM00190,53,Third-Party Fire & Theft,2,7786.19,Natural Disaster,08-10-2025,10-10-2025,0,6,8274.05,7533.46,Yes,Yes,Mumbai,Vehicle skidded and hit a divider on a wet road.,0
+CLM00590,44,Comprehensive,4.1,55937.45,Fire,29-06-2025,06-07-2025,2,0,56426.32,56860.02,Yes,Yes,Nagpur,Tree branch fell on the car during a storm.,0
+CLM00761,50,Comprehensive,1.1,10283.54,Collision,18-05-2024,20-05-2024,3,3,10723.16,10147.56,Yes,No,Ahmedabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM01063,54,Third-Party Fire & Theft,7.6,27827.39,Injury/Accident,09-05-2025,10-05-2025,2,3,26114,26805.59,Yes,No,Coimbatore,Car was damaged in heavy rain and flooding.,0
+CLM00243,44,Third-Party Fire & Theft,0.6,39237.84,Windshield Damage,11-04-2023,12-04-2023,0,0,35414.54,41240.56,No,No,Surat,Vehicle skidded and hit a divider on a wet road.,0
+CLM00885,24,Comprehensive,1.3,22193.82,Theft,07-06-2025,08-06-2025,2,0,20574.34,22432.87,Yes,Yes,Kolkata,Minor collision while reversing out of a parking spot.,0
+CLM00621,28,Third-Party,2,92813.97,Vandalism,06-08-2025,06-08-2025,0,20,78952.92,92660.65,Yes,Yes,Pune,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00651,18,Third-Party,0.7,89644.22,Natural Disaster,11-10-2025,17-10-2025,4,0,76823.64,87294.51,yes,No,Coimbatore,Windshield cracked due to a stone hit on the highway.,0
+CLM00504,40,Third-Party Fire & Theft,1.6,102242.43,Natural Disaster,22-08-2025,27-08-2025,0,7,101060.72,104224.28,Yes,Yes,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00923,33,Third-Party,0.4,2568.17,Natural Disaster,15-09-2025,18-09-2025,1,0,2153.49,2532.43,No,No,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00160,62,Third-Party Fire & Theft,6.3,15650.23,Vandalism,06-07-2025,06-07-2025,1,0,15493.39,16312.76,No,No,Mumbai,Vehicle collided with another car at a traffic signal.,0
+CLM00883,40,Comprehensive,0.1,19679.22,Collision,14-07-2025,16-07-2025,0,8,20209.31,20346.13,,No,,Vehicle scratched while parked in a mall parking lot.,0
+CLM00538,47,Third-Party Fire & Theft,0.8,47067.32,Vandalism,03-05-2025,10-05-2025,1,3,42264.05,47065.88,No,No,Kolkata,Car was damaged in heavy rain and flooding.,1
+CLM00241,47,Third-Party,0.1,30377.92,Natural Disaster,28-08-2024,18-09-2024,0,1,21721.24,30925.21,No,No,Chennai,Vehicle scratched while parked in a mall parking lot.,0
+CLM00014,37,Comprehensive,8.4,39524.28,Windshield Damage,26-07-2023,26-07-2023,1,1,32925.02,38014.29,No,No,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM00476,23,Third-Party Fire & Theft,4.5,56039.07,Fire,08-09-2025,10-09-2025,1,8,48471.44,55642.82,Yes,Yes,Bengaluru,Rear-ended while stopped at a junction.,0
+CLM01150,18,Third-Party Fire & Theft,5.3,22261.33,Theft,22-06-2023,27-06-2023,0,0,19363.38,22980.37,No,No,Hyderabad,Minor collision while reversing out of a parking spot.,0
+CLM00929,32,Third-Party Fire & Theft,3,21425.09,Injury/Accident,15-07-2023,15-07-2023,1,2,21230.25,22499.8,Yes,Yes,Kochi,Minor collision while reversing out of a parking spot.,0
+CLM00796,35,Third-Party,1.1,5432,Theft,27-04-2025,05-05-2025,1,2,5860.99,5215.47,Yes,Yes,Kolkata,Vehicle skidded and hit a divider on a wet road.,0
+CLM00356,59,Comprehensive,0.4,21750.46,Fire,18-08-2025,22-08-2025,2,7,22644.9,21460.06,Yes,Yes,Pune,Repair invoice submitted without an itemized breakdown.,1
+CLM01059,19,Third-Party Fire & Theft,2.8,63884.41,Windshield Damage,08-01-2024,16-01-2024,3,7,71562.08,64455.99,Yes,No,Delhi,Vehicle scratched while parked in a mall parking lot.,0
+CLM00335,35,Third-Party Fire & Theft,,4049.74,Injury/Accident,21-01-2024,24-01-2024,2,1,3660.73,3886.25,Yes,Yes,Coimbatore,Tree branch fell on the car during a storm.,0
+CLM00689,41,Third-Party Fire & Theft,3.2,12527.06,Theft,07-11-2023,10-11-2023,0,2,13628.12,12662.1,No,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM00185,57,Third-Party Fire & Theft,2.7,19751.25,Theft,25-06-2024,25-06-2024,0,1,18574.19,19729.29,Yes,Yes,Kolkata,Rear-ended while stopped at a junction.,0
+CLM00824,26,Comprehensive,0.1,27070.64,Theft,29-03-2023,07-06-2023,3,2,19621.33,25984.98,No,Yes,Mumbai,Incident location does not match customer's usual route.,1
+CLM01134,27,Third-Party,1.2,37790.36,Fire,09-01-2025,13-01-2025,1,10,37354.07,38242.11,No,Yes,Jaipur,Tree branch fell on the car during a storm.,0
+CLM01002,44,Third-Party Fire & Theft,2.5,95668.51,Vandalism,05-06-2025,05-06-2025,1,3,85166.02,92229.52,Yes,Yes,Chennai,Tree branch fell on the car during a storm.,0
+CLM00188,48,Third-Party,0.2,60195.64,Natural Disaster,14-08-2024,17-08-2024,4,2,60628.47,60989.64,Yes,No,Mumbai,Vehicle skidded and hit a divider on a wet road.,1
+CLM00942,20,Third-Party Fire & Theft,3.1,30761.08,Vandalism,29-11-2024,14-12-2024,1,9,29825.46,31370.42,Yes,Yes,Surat,Tree branch fell on the car during a storm.,0
+CLM00285,37,Third-Party Fire & Theft,0.2,14557.82,Collision,16-03-2024,29-03-2024,0,0,12746.18,14003.71,Yes,Yes,Ahmedabad,Minor collision while reversing out of a parking spot.,0
+CLM00900,60,Third-Party Fire & Theft,2.9,39625.16,Collision,03-05-2025,13-05-2025,2,8,42294.62,38641.64,Yes,Yes,Kolkata,Vehicle skidded and hit a divider on a wet road.,0
+CLM00166,41,Third-Party Fire & Theft,4.6,19284.56,Natural Disaster,15-01-2024,15-01-2024,0,0,17196.15,20148.93,Yes,Yes,Bengaluru,Rear-ended while stopped at a junction.,0
+CLM00348,50,Third-Party Fire & Theft,0.2,16830.41,Vandalism,07-11-2025,07-11-2025,0,4,15629.11,16166.26,Yes,Yes,Chennai,Customer requested cash settlement instead of repair.,1
+CLM00299,36,Comprehensive,3.1,32503.76,Fire,24-09-2024,30-09-2024,0,0,32214.9,31495.69,Yes,Yes,Pune,Tree branch fell on the car during a storm.,0
+CLM00536,45,Comprehensive,4.1,23487.47,Windshield Damage,27-08-2025,03-09-2025,0,1,22430.65,22827.66,Yes,Yes,Surat,Rear-ended while stopped at a junction.,0
+CLM00230,29,Comprehensive,1,23328.67,Injury/Accident,05-09-2024,07-09-2024,1,3,22504.66,22303.04,Yes,Yes,Chennai,Vehicle collided with another car at a traffic signal.,0
+CLM00042,38,Third-Party,3.9,5743.45,Collision,16-04-2024,20-04-2024,4,9,5588.91,5843.52,Yes,Yes,Chennai,Repair invoice submitted without an itemized breakdown.,1
+CLM00869,49,Third-Party Fire & Theft,10.5,64554.93,Natural Disaster,24-01-2024,02-02-2024,0,0,57910.39,63942.31,,Yes,Lucknow,Tree branch fell on the car during a storm.,0
+CLM00749,29,Third-Party,2.3,-1500,Natural Disaster,11-04-2023,15-04-2023,1,2,19064.32,19773.4,Yes,No,Hyderabad,Vehicle scratched while parked in a mall parking lot.,0
+CLM01168,31,Third-Party Fire & Theft,3.6,9464.66,Natural Disaster,04-07-2024,07-07-2024,0,2,8810.71,9124.7,Yes,Yes,Bengaluru,Minor collision while reversing out of a parking spot.,0
+CLM00447,30,Comprehensive,7.4,81093.55,Vandalism,15-04-2023,20-04-2023,2,1,72475.14,78217.32,Yes,No,Pune,Rear-ended while stopped at a junction.,0
+CLM00350,20,Third-Party,8.5,6994.22,Theft,08-04-2024,11-04-2024,0,0,6870.76,7106.41,No,Yes,Delhi,Car was damaged in heavy rain and flooding.,0
+CLM00046,36,Comprehensive,2.9,58724.82,Injury/Accident,26-08-2025,28-08-2025,0,3,72276.68,61685.27,Yes,Yes,Nagpur,Rear-ended while stopped at a junction.,0
+CLM01173,46,Comprehensive,9,92297.56,Fire,05-07-2024,15-07-2024,0,6,88696.84,93472.16,No,Yes,Lucknow,"Vehicle reported stolen, recovered with no major damage.",1
+CLM01192,43,Comprehensive,4.5,13452.22,Vandalism,07-07-2023,17-07-2023,3,0,11922.9,13216.14,No,No,Nagpur,Tree branch fell on the car during a storm.,0
+CLM00109,30,Comprehensive,2.7,25976.74,Theft,20-02-2023,24-02-2023,0,1,22632.77,25427.13,Yes,Yes,Bengaluru,Claim filed for total loss shortly after policy purchase.,1
+CLM00030,43,Comprehensive,9,36386.97,Vandalism,07-01-2023,12-01-2023,0,2,35182.7,36575.53,Yes,Yes,Jaipur,Vehicle scratched while parked in a mall parking lot.,0
+CLM00182,18,Third-Party Fire & Theft,0.3,35184.48,Collision,17-11-2023,18-11-2023,2,3,32602.64,36151.96,No,No,Kolkata,Vehicle collided with another car at a traffic signal.,0
+CLM00622,,Comprehensive,0.9,13564.1,Vandalism,03-08-2023,04-08-2023,0,1,14085.48,13575.13,Yes,No,Kolkata,Vehicle scratched while parked in a mall parking lot.,0
+CLM00635,44,Third-Party Fire & Theft,2,87098.68,Theft,19-01-2025,04-03-2025,0,1,55380.87,88073.95,No,No,Bengaluru,Tree branch fell on the car during a storm.,1
+CLM00105,53,Third-Party,6.1,26922.81,Injury/Accident,13-03-2024,15-03-2024,2,4,23139.69,26234.71,No,Yes,Nagpur,Vehicle skidded and hit a divider on a wet road.,0
+CLM00061,50,Comprehensive,1.8,25773.23,Natural Disaster,03-09-2025,04-09-2025,1,4,24900.07,24553.24,Yes,Yes,Chennai,Car was damaged in heavy rain and flooding.,0
+CLM00659,33,Comprehensive,4.7,27766.08,Natural Disaster,19-12-2024,21-12-2024,2,5,27150.45,28304.53,Yes,No,Coimbatore,Vehicle scratched while parked in a mall parking lot.,0
+CLM01108,30,Comprehensive,1.1,26782.9,Natural Disaster,05-07-2024,15-07-2024,0,2,27475.96,26664.91,Yes,No,Lucknow,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00491,41,Comprehensive,1.2,22475.12,Fire,29-11-2023,02-12-2023,0,0,21505.51,23168.88,Yes,Yes,Kochi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00316,32,Third-Party,3.5,99206.94,Collision,03-10-2024,26-10-2024,2,8,75222.37,98727.24,No,No,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM00382,28,Comprehensive,6.1,4218.63,Fire,24-11-2024,03-12-2024,2,3,4262.6,4216.73,Yes,Yes,Surat,Car was damaged in heavy rain and flooding.,0
+CLM00423,32,Third-Party Fire & Theft,4.6,19326.03,Natural Disaster,16-07-2024,27-08-2024,0,1,16647.7,18466.22,No,No,Kochi,"Vehicle reported stolen, recovered with no major damage.",1
+CLM01177,75,Third-Party Fire & Theft,2.7,68521.85,Windshield Damage,06-03-2023,16-03-2023,0,0,64017.66,67519.7,Yes,No,Mumbai,Tree branch fell on the car during a storm.,0
+CLM00446,40,Third-Party,15.9,65603.22,Injury/Accident,19-01-2025,03-02-2025,0,0,61528.34,65012.48,Yes,Yes,Pune,Minor collision while reversing out of a parking spot.,0
+CLM00664,31,Comprehensive,6.6,12450.75,Windshield Damage,15-03-2025,17-03-2025,2,5,10854.1,11885.01,Yes,Yes,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM01025,37,Third-Party,3,13946.87,Theft,10-11-2024,10-11-2024,4,12,14145.59,14070.84,Yes,Yes,Ahmedabad,Vehicle skidded and hit a divider on a wet road.,1
+CLM00780,61,Third-Party Fire & Theft,1.8,40747.4,Theft,24-10-2024,04-11-2024,0,1,36653.66,40827.97,No,Yes,Chennai,Vehicle collided with another car at a traffic signal.,0
+CLM00627,23,Third-Party,1.7,22805.89,Injury/Accident,12-08-2023,14-08-2023,5,0,21118.76,23361.63,Yes,Yes,Lucknow,Car was damaged in heavy rain and flooding.,0
+CLM01113,30,Comprehensive,1,69530.76,Windshield Damage,28-03-2023,01-04-2023,2,7,71891.99,67828.05,Yes,Yes,Pune,Vehicle skidded and hit a divider on a wet road.,0
+CLM01102,42,Third-Party,4.3,27136.93,Injury/Accident,01-08-2025,01-08-2025,2,7,25235.48,27722.28,Yes,,Ahmedabad,Vehicle collided with another car at a traffic signal.,0
+CLM00269,41,Third-Party,1,44810.93,Theft,15-09-2023,20-09-2023,1,0,37602.87,45742.44,,No,Mumbai,Rear-ended while stopped at a junction.,0
+CLM00930,47,Third-Party Fire & Theft,0.8,10648.99,Theft,13-09-2025,29-09-2025,0,4,11256.8,11102.37,Yes,No,Kochi,Tree branch fell on the car during a storm.,0
+CLM01148,40,Third-Party,0.7,51289.79,Natural Disaster,21-04-2023,07-05-2023,2,0,53126.33,51535.54,yes,Yes,Nagpur,Vehicle collided with another car at a traffic signal.,0
+CLM01120,57,Comprehensive,1.2,18813.89,Collision,07-03-2024,12-03-2024,2,0,,18087.52,Yes,No,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM00012,36,Comprehensive,1.1,46625.86,Injury/Accident,23-05-2023,29-05-2023,2,5,47541.26,46459.65,Yes,No,Kochi,Vehicle collided with another car at a traffic signal.,0
+CLM00115,40,Comprehensive,0.3,13133.51,Windshield Damage,06-09-2023,12-09-2023,0,8,14998.92,13356.56,Yes,No,Delhi,Vehicle skidded and hit a divider on a wet road.,0
+CLM00844,46,Third-Party Fire & Theft,2,5373.13,Natural Disaster,01-03-2023,03-03-2023,0,5,5068.21,5168.6,Yes,Yes,Bengaluru,Car was damaged in heavy rain and flooding.,0
+CLM00353,31,Comprehensive,5.5,13165.79,Theft,06-12-2023,24-12-2023,0,3,12929.97,12661.9,Yes,No,Chennai,Vehicle skidded and hit a divider on a wet road.,0
+CLM01023,53,Comprehensive,12.5,39293.63,Fire,19-05-2024,20-05-2024,0,10,39004.58,40869.89,Yes,No,Lucknow,Rear-ended while stopped at a junction.,0
+CLM00774,53,Third-Party Fire & Theft,1.5,48126.96,Injury/Accident,04-01-2025,07-01-2025,1,3,42542.46,48541.89,No,Yes,Lucknow,Claim filed for total loss shortly after policy purchase.,1
+CLM00691,33,Comprehensive,0.8,23132.01,Windshield Damage,10-09-2023,11-09-2023,0,9,25825.14,23922.15,Yes,No,Pune,Minor collision while reversing out of a parking spot.,0
+CLM00791,35,Comprehensive,1.7,104923.83,Fire,09-06-2023,11-06-2023,3,9,93383.96,106957.74,No,Yes,Pune,Rear-ended while stopped at a junction.,0
+CLM00532,20,Third-Party,6.8,2229.97,Fire,05-05-2023,05-05-2023,3,0,2000,2150.08,Yes,Yes,Kochi,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00868,41,Third-Party,1.3,15358.71,Vandalism,06-03-2025,09-03-2025,4,4,14262.69,14638.44,Yes,Yes,Coimbatore,Vehicle collided with another car at a traffic signal.,0
+CLM00170,18,Comprehensive,3.7,55152.18,Collision,21-08-2024,24-08-2024,1,6,59515.82,57899.83,Yes,No,Kochi,Car was damaged in heavy rain and flooding.,0
+CLM00240,47,Third-Party,1,12121.3,Collision,30-04-2024,09-05-2024,0,4,12714.65,12641.65,Yes,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM01185,56,Third-Party Fire & Theft,1,32008.37,Collision,02-12-2025,07-12-2025,2,3,32058.69,33021.35,Yes,No,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00074,42,Third-Party Fire & Theft,1.4,31027.87,Theft,03-12-2024,05-12-2024,4,12,27197.16,30039.81,Yes,Yes,Kochi,Repair invoice submitted without an itemized breakdown.,1
+CLM01087,,Third-Party Fire & Theft,0,63013.81,Natural Disaster,09-08-2024,13-08-2024,0,2,57540.75,60929.78,Yes,No,Nagpur,Vehicle collided with another car at a traffic signal.,1
+CLM00762,37,Third-Party,3.8,31919.22,Natural Disaster,08-09-2025,09-09-2025,0,2,26477.66,31058.4,Yes,Yes,Mumbai,Vehicle collided with another car at a traffic signal.,0
+CLM00741,34,Third-Party Fire & Theft,9.5,118542.49,Fire,13-10-2024,15-10-2024,0,2,100927.28,114500.8,No,Yes,Hyderabad,Vehicle skidded and hit a divider on a wet road.,0
+CLM00751,41,Third-Party Fire & Theft,2.6,29003.69,Natural Disaster,26-05-2024,08-06-2024,1,4,27672.28,28222.58,Yes,Yes,Ahmedabad,Windshield cracked due to a stone hit on the highway.,0
+CLM00742,50,Comprehensive,2,7961.75,Collision,20-02-2024,05-03-2024,1,5,6076.32,7957.73,No,No,Nagpur,"Vehicle reported stolen, recovered with no major damage.",1
+CLM00831,25,Third-Party Fire & Theft,11.9,58118.22,Windshield Damage,26-07-2023,29-07-2023,0,22,55776.33,59877.75,Yes,Yes,Surat,Vehicle scratched while parked in a mall parking lot.,0
+CLM00048,37,Comprehensive,1.8,21197.42,Injury/Accident,01-06-2025,02-06-2025,1,21,21226.97,21883.32,Yes,Yes,Kolkata,Tree branch fell on the car during a storm.,0
+CLM00763,52,Third-Party,8.1,32106.37,Vandalism,09-10-2023,13-10-2023,0,2,32543.51,31642.69,Yes,No,Bengaluru,Minor collision while reversing out of a parking spot.,0
+CLM00592,30,Third-Party,7,29705.06,Vandalism,15-11-2025,23-11-2025,3,0,26066,29909.02,No,Yes,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM00808,52,Third-Party,2.1,71208.01,Collision,25-05-2025,02-06-2025,0,0,59379.45,69894.11,Yes,Yes,Hyderabad,Windshield cracked due to a stone hit on the highway.,0
+CLM01084,35,Comprehensive,6.1,26346.41,Vandalism,10-06-2025,11-06-2025,0,6,23333.38,25148.75,Yes,Yes,Mumbai,Windshield cracked due to a stone hit on the highway.,0
+CLM00506,45,Third-Party Fire & Theft,8.5,28263.85,Fire,09-06-2023,23-06-2023,2,2,24677.63,27428.98,Yes,No,Chennai,Windshield cracked due to a stone hit on the highway.,0
+CLM01045,49,Comprehensive,1.7,33284.94,Natural Disaster,11-04-2025,20-05-2025,5,3,24850,33237.72,Yes,No,Surat,Customer requested cash settlement instead of repair.,1
+CLM00653,31,Third-Party Fire & Theft,2.1,85919.37,Vandalism,23-03-2024,23-05-2024,1,0,55719.58,83301.95,Yes,No,Mumbai,Minor collision while reversing out of a parking spot.,0
+CLM00193,42,Third-Party Fire & Theft,2.9,43996.29,Natural Disaster,12-02-2023,29-03-2023,0,2,31514.14,42784.64,Yes,No,Coimbatore,Multiple prior claims for similar type of incident.,1
+CLM00245,33,Third-Party Fire & Theft,10.6,64685.47,Theft,28-05-2024,09-06-2024,1,2,42874.92,63574.28,Yes,Yes,Kochi,Car was damaged in heavy rain and flooding.,0
+CLM00060,59,Third-Party Fire & Theft,2,8487.25,Natural Disaster,05-05-2023,06-05-2023,3,3,9010.85,8527.81,Yes,Yes,Chennai,Tree branch fell on the car during a storm.,0
+CLM00177,24,Third-Party Fire & Theft,1.9,21018.1,Windshield Damage,02-05-2025,07-05-2025,0,1,17480.7,20276.83,No,Yes,Nagpur,Rear-ended while stopped at a junction.,0
+CLM00450,47,Comprehensive,4.2,79546.87,Vandalism,03-02-2025,05-02-2025,1,0,76682.9,79812.78,yes,Yes,Jaipur,Tree branch fell on the car during a storm.,0
+CLM00056,28,Comprehensive,,65857.93,Windshield Damage,01-04-2025,08-04-2025,0,9,63523.43,64440.01,Yes,No,Delhi,Vehicle collided with another car at a traffic signal.,0
+CLM00920,39,Third-Party,0.1,34418.66,Fire,28-02-2025,09-03-2025,1,11,24163.08,33198.23,No,No,Nagpur,Vehicle skidded and hit a divider on a wet road.,0
+CLM01093,51,Third-Party,1.1,3925.03,Fire,20-03-2025,01-04-2025,1,22,4007.05,3804.25,Yes,Yes,Coimbatore,Minor collision while reversing out of a parking spot.,0
+CLM01193,57,Third-Party Fire & Theft,1.9,31543.48,Collision,03-05-2023,09-05-2023,0,11,31344.54,33083.99,No,Yes,Kochi,Tree branch fell on the car during a storm.,0
+CLM00047,61,Third-Party,6.2,47526.32,Windshield Damage,13-04-2025,21-04-2025,0,3,50233.34,48576.66,Yes,No,Mumbai,Rear-ended while stopped at a junction.,0
+CLM01060,30,Third-Party Fire & Theft,0.9,93470.76,Injury/Accident,02-12-2024,10-12-2024,0,0,78097.69,95778.07,Yes,No,Coimbatore,Vehicle skidded and hit a divider on a wet road.,0
+CLM00642,18,Third-Party,5,13836.18,Vandalism,10-10-2023,10-10-2023,2,2,13095.49,14246.89,Yes,Yes,Kolkata,Minor collision while reversing out of a parking spot.,0
