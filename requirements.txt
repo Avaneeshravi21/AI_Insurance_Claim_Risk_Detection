@@ -8,3 +8,5 @@ google-genai
 matplotlib
 seaborn
 python-dotenv
+plotly
+jinja2
