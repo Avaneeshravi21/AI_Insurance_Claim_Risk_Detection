@@ -2562,6 +2562,12 @@ try:
 except Exception:
     APP_BASE_URL = "http://localhost:8501"
 
+# Strip any trailing slash(es), no matter how the secret was typed —
+# a trailing slash here would otherwise create a double-slash link
+# (e.g. ".app//Customer_Claim_View"), which can break Streamlit
+# Cloud's page routing entirely.
+APP_BASE_URL = APP_BASE_URL.rstrip("/")
+
 customer_link_url = (
     f"{APP_BASE_URL}/"
     f"Customer_Claim_View"
