@@ -729,6 +729,30 @@ def humanize_feature_name(raw_feature_name):
     return cleaned.replace("_", " ").lower()
 
 
+def technical_feature_label(raw_feature_name):
+    """
+    Converts a processed/prefixed feature name into a clean TECHNICAL
+    label for investigator-facing charts (e.g. 'Customer_Age' instead
+    of the customer-facing phrase 'your age'). Uses the same base-name
+    matching as humanize_feature_name so one-hot encoded columns still
+    group together correctly (e.g. 'Policy_Type_Comprehensive' and
+    'Policy_Type_Third-Party' both group under 'Policy Type').
+    """
+
+    cleaned = raw_feature_name
+    if "__" in cleaned:
+        cleaned = cleaned.split("__", 1)[1]
+
+    if cleaned in FRIENDLY_FACTOR_MAP:
+        return cleaned.replace("_", " ")
+
+    for base_name in FRIENDLY_FACTOR_MAP:
+        if cleaned.startswith(base_name):
+            return base_name.replace("_", " ")
+
+    return cleaned.replace("_", " ")
+
+
 # ============================================================
 # CSV UPLOAD
 # ============================================================
@@ -1686,7 +1710,7 @@ if show_leaderboard or show_factors:
                 min_len = min(len(importances), len(feature_names_all))
 
                 importance_df = pd.DataFrame({
-                    "Feature": [humanize_feature_name(f) for f in feature_names_all[:min_len]],
+                    "Feature": [technical_feature_label(f) for f in feature_names_all[:min_len]],
                     "Importance": importances[:min_len],
                 })
 
@@ -2528,11 +2552,27 @@ st.write(
     "their selected claim."
 )
 
+# The app's public address is not something Streamlit reliably knows
+# on its own, so it's configured once here instead of hardcoded.
+# Locally, this defaults to localhost. On Streamlit Community Cloud,
+# set APP_BASE_URL under Settings -> Secrets to your real app URL,
+# e.g. APP_BASE_URL = "https://your-app-name.streamlit.app"
+try:
+    APP_BASE_URL = st.secrets.get("APP_BASE_URL", "http://localhost:8501")
+except Exception:
+    APP_BASE_URL = "http://localhost:8501"
+
 customer_link_url = (
-    f"http://localhost:8501/"
+    f"{APP_BASE_URL}/"
     f"Customer_Claim_View"
     f"?claim_id={selected_claim_id}"
 )
+
+if APP_BASE_URL == "http://localhost:8501":
+    st.caption(
+        "⚠️ Using a local address. Set `APP_BASE_URL` in this app's "
+        "Secrets once deployed, so this link works for real customers."
+    )
 
 st.link_button(
     "🙋 Open Customer View",
