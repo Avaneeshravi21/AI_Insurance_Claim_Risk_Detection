@@ -151,7 +151,7 @@ def draw_risk_gauge(probability, title="Risk Level"):
 
 
 FRIENDLY_FACTOR_MAP = {
-    "Customer_Age": "your age",
+    "Customer_Age": "Customer Age",
     "Policy_Tenure_Years": "how long you've held your policy",
     "Claim_Amount": "the amount claimed",
     "Previous_Claim_Count": "your past claim history",
