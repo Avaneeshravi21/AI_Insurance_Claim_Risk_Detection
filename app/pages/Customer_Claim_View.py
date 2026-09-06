@@ -187,9 +187,12 @@ def humanize_feature_name(raw_feature_name):
 # LOAD SHARED CLAIMS DATA + MODEL
 # ============================================================
 
-st.title("🙋 Your Claim Status")
-
 query_claim_id = st.query_params.get("claim_id", None)
+
+st.title(
+    f"🙋 Claim Status of {query_claim_id}" if query_claim_id
+    else "🙋 Your Claim Status"
+)
 
 if not query_claim_id:
     st.info(
