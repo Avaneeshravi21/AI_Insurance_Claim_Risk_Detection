@@ -616,7 +616,12 @@ def prepare_model_input(df):
         )
 
 
-    return model_input
+    # Return both: model_input (trimmed to exactly what the model needs)
+    # AND the full engineered dataframe, which also holds columns like
+    # Submission_Delay_Days and Invoice_Variance_Percentage that aren't
+    # part of MODEL_FEATURES but are still useful for display (e.g. the
+    # radar chart on the selected-claim view).
+    return model_input, data
 
 
 def get_risk_category(probability):
@@ -900,7 +905,7 @@ st.header(
 
 try:
 
-    model_input = prepare_model_input(
+    model_input, engineered_data = prepare_model_input(
         uploaded_df
     )
 
@@ -1020,6 +1025,21 @@ try:
         for probability
         in all_probabilities
     ]
+
+
+    # --------------------------------------------------------
+    # Attach engineered fields that aren't part of MODEL_FEATURES
+    # but are still useful for display (e.g. the radar chart) and
+    # for the shared export below — these were computed inside
+    # prepare_model_input() but previously discarded, since that
+    # function only used to return the trimmed model_input.
+    # --------------------------------------------------------
+
+    for engineered_column in ["Submission_Delay_Days", "Invoice_Variance_Percentage"]:
+
+        if engineered_column in engineered_data.columns:
+
+            final_scored_df[engineered_column] = engineered_data[engineered_column]
 
 
     st.success(
@@ -2006,6 +2026,24 @@ with result_col3:
 
 st.caption("This claim compared to the portfolio average")
 
+# selected_claim comes from uploaded_df (the raw file), so it never has
+# engineered columns like Submission_Delay_Days or Invoice_Variance_Percentage
+# — those only exist on final_scored_df. Build a radar-only copy that fills
+# in any of those values from final_scored_df, using the same row position,
+# without changing what selected_claim means anywhere else in the app.
+selected_claim_for_radar = selected_claim.copy()
+
+for engineered_column in ["Submission_Delay_Days", "Invoice_Variance_Percentage"]:
+
+    if (
+        engineered_column not in selected_claim_for_radar.index
+        and engineered_column in final_scored_df.columns
+    ):
+
+        selected_claim_for_radar[engineered_column] = (
+            final_scored_df.iloc[selected_index][engineered_column]
+        )
+
 radar_candidates = [
     "Policy_Tenure_Years", "Previous_Claim_Count", "Vehicle_Age",
     "Submission_Delay_Days", "Invoice_Variance_Percentage",
@@ -2023,7 +2061,7 @@ if len(radar_features) >= 3 and PLOTLY_AVAILABLE:
     )
 
     selected_values_norm = (
-        selected_claim[radar_features].astype(float).abs() / portfolio_scale
+        selected_claim_for_radar[radar_features].astype(float).abs() / portfolio_scale
     ).clip(0, 1.5)
 
     portfolio_avg_norm = (
@@ -2068,7 +2106,7 @@ elif len(radar_features) >= 3:
     st.dataframe(
         pd.DataFrame({
             "Factor": radar_features,
-            "This Claim": [selected_claim[f] for f in radar_features],
+            "This Claim": [selected_claim_for_radar[f] for f in radar_features],
             "Portfolio Average": [final_scored_df[f].mean() for f in radar_features],
         }),
         use_container_width=True,
@@ -2552,33 +2590,11 @@ st.write(
     "their selected claim."
 )
 
-# The app's public address is not something Streamlit reliably knows
-# on its own, so it's configured once here instead of hardcoded.
-# Locally, this defaults to localhost. On Streamlit Community Cloud,
-# set APP_BASE_URL under Settings -> Secrets to your real app URL,
-# e.g. APP_BASE_URL = "https://your-app-name.streamlit.app"
-try:
-    APP_BASE_URL = st.secrets.get("APP_BASE_URL", "http://localhost:8501")
-except Exception:
-    APP_BASE_URL = "http://localhost:8501"
-
-# Strip any trailing slash(es), no matter how the secret was typed —
-# a trailing slash here would otherwise create a double-slash link
-# (e.g. ".app//Customer_Claim_View"), which can break Streamlit
-# Cloud's page routing entirely.
-APP_BASE_URL = APP_BASE_URL.rstrip("/")
-
 customer_link_url = (
-    f"{APP_BASE_URL}/"
+    f"http://localhost:8501/"
     f"Customer_Claim_View"
     f"?claim_id={selected_claim_id}"
 )
-
-if APP_BASE_URL == "http://localhost:8501":
-    st.caption(
-        "⚠️ Using a local address. Set `APP_BASE_URL` in this app's "
-        "Secrets once deployed, so this link works for real customers."
-    )
 
 st.link_button(
     "🙋 Open Customer View",
