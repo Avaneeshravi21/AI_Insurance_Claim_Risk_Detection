@@ -1022,6 +1022,22 @@ try:
     ]
 
 
+    # --------------------------------------------------------
+    # Carry over engineered columns needed by the Radar Chart
+    # --------------------------------------------------------
+    # These two are computed inside prepare_model_input() for the
+    # model, but final_scored_df is built from the raw upload, so
+    # they wouldn't otherwise be available for display. model_input
+    # shares the same index as final_scored_df (both derived from
+    # uploaded_df without any reset), so this is a safe direct merge.
+
+    for engineered_column in ["Submission_Delay_Days", "Invoice_Variance_Percentage"]:
+
+        if engineered_column in model_input.columns:
+
+            final_scored_df[engineered_column] = model_input[engineered_column]
+
+
     st.success(
         f"Prediction completed successfully for "
         f"{len(final_scored_df)} claims."
