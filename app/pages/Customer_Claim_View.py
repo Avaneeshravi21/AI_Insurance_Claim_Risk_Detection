@@ -553,7 +553,7 @@ with customer_col2:
         if current_feedback == "helpful":
             st.caption("Thanks for letting us know!")
         elif current_feedback == "not_helpful":
-            st.caption("Thanks — we'll use this to improve our explanations.")
+            st.caption("Thanks — we'll use this to improve our explanations., please Contact us if you have any questions.")
 
     st.divider()
 
