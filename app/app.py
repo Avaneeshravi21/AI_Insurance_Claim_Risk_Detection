@@ -616,12 +616,7 @@ def prepare_model_input(df):
         )
 
 
-    # Return both: model_input (trimmed to exactly what the model needs)
-    # AND the full engineered dataframe, which also holds columns like
-    # Submission_Delay_Days and Invoice_Variance_Percentage that aren't
-    # part of MODEL_FEATURES but are still useful for display (e.g. the
-    # radar chart on the selected-claim view).
-    return model_input, data
+    return model_input
 
 
 def get_risk_category(probability):
@@ -905,7 +900,7 @@ st.header(
 
 try:
 
-    model_input, engineered_data = prepare_model_input(
+    model_input = prepare_model_input(
         uploaded_df
     )
 
@@ -1025,21 +1020,6 @@ try:
         for probability
         in all_probabilities
     ]
-
-
-    # --------------------------------------------------------
-    # Attach engineered fields that aren't part of MODEL_FEATURES
-    # but are still useful for display (e.g. the radar chart) and
-    # for the shared export below — these were computed inside
-    # prepare_model_input() but previously discarded, since that
-    # function only used to return the trimmed model_input.
-    # --------------------------------------------------------
-
-    for engineered_column in ["Submission_Delay_Days", "Invoice_Variance_Percentage"]:
-
-        if engineered_column in engineered_data.columns:
-
-            final_scored_df[engineered_column] = engineered_data[engineered_column]
 
 
     st.success(
@@ -2026,24 +2006,6 @@ with result_col3:
 
 st.caption("This claim compared to the portfolio average")
 
-# selected_claim comes from uploaded_df (the raw file), so it never has
-# engineered columns like Submission_Delay_Days or Invoice_Variance_Percentage
-# — those only exist on final_scored_df. Build a radar-only copy that fills
-# in any of those values from final_scored_df, using the same row position,
-# without changing what selected_claim means anywhere else in the app.
-selected_claim_for_radar = selected_claim.copy()
-
-for engineered_column in ["Submission_Delay_Days", "Invoice_Variance_Percentage"]:
-
-    if (
-        engineered_column not in selected_claim_for_radar.index
-        and engineered_column in final_scored_df.columns
-    ):
-
-        selected_claim_for_radar[engineered_column] = (
-            final_scored_df.iloc[selected_index][engineered_column]
-        )
-
 radar_candidates = [
     "Policy_Tenure_Years", "Previous_Claim_Count", "Vehicle_Age",
     "Submission_Delay_Days", "Invoice_Variance_Percentage",
@@ -2061,7 +2023,7 @@ if len(radar_features) >= 3 and PLOTLY_AVAILABLE:
     )
 
     selected_values_norm = (
-        selected_claim_for_radar[radar_features].astype(float).abs() / portfolio_scale
+        selected_claim[radar_features].astype(float).abs() / portfolio_scale
     ).clip(0, 1.5)
 
     portfolio_avg_norm = (
@@ -2106,7 +2068,7 @@ elif len(radar_features) >= 3:
     st.dataframe(
         pd.DataFrame({
             "Factor": radar_features,
-            "This Claim": [selected_claim_for_radar[f] for f in radar_features],
+            "This Claim": [selected_claim[f] for f in radar_features],
             "Portfolio Average": [final_scored_df[f].mean() for f in radar_features],
         }),
         use_container_width=True,
@@ -2591,8 +2553,7 @@ st.write(
 )
 
 customer_link_url = (
-    f"http://localhost:8501/"
-    f"Customer_Claim_View"
+    f"/Customer_Claim_View"
     f"?claim_id={selected_claim_id}"
 )
 
@@ -2607,7 +2568,10 @@ st.code(
 )
 
 st.caption(
-    "This link opens only the selected claim."
+    "This link opens only the selected claim. It works automatically "
+    "on whichever domain the app is currently running on — no need "
+    "to change anything when moving from local testing to "
+    "Streamlit Community Cloud."
 )
 
 
