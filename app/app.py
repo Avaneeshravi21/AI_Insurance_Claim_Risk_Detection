@@ -358,8 +358,7 @@ def prepare_model_input(df):
 
         incident_date = pd.to_datetime(
             data["Incident_Date"],
-            errors="coerce",
-            dayfirst=True
+            errors="coerce"
         )
 
     else:
@@ -1936,7 +1935,7 @@ else:
 
 
 selected_claim = (
-    uploaded_df
+    final_scored_df
     .iloc[
         selected_index
     ]
